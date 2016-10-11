@@ -1,6 +1,7 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 title = "SCHEDULING MADE EASY"
 languageCode = "en-us"
+theme = "hugo-theme-bleak"
 [taxonomies]
 tag = "tags"
 [params]
