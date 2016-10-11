@@ -2,7 +2,7 @@
 date = "2016-10-11T22:06:00+00:00"
 draft = false
 image = "http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2016/09/sling-entrepreneur.jpeg"
-tags = ["Business", "Restaurant"]
+tags = ["Business", "Restaurant", "Product Updates"]
 title = "Why a low tech industry is going high tech"
 
 +++
