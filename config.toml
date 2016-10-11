@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "SCHEDULING MADE EASY"
+languageCode = "en-us"
+[taxonomies]
+tag = "tags"
+[params]
+cover = "http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2015/01/photo-1421622548261-c45bfe178854-uai-2880x1924.jpeg"
