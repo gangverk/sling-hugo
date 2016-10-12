@@ -15,7 +15,8 @@ title = "Take notice of filters!"
 ![](/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png)
 Thank you for stopping by,
  
-We know you are busy, hence getting your schedules right might take some load off of your shoulders. So couple of weeks ago we’ve committed to sharing some tips and tricks to make your shift scheduling practices more efficient.
+We know you are busy, hence getting your schedules right might take some load off of your shoulders. So a couple of weeks ago we’ve committed to sharing some tips and tricks to make your shift scheduling practices more efficient.
+
 Here is the second tip: Take notice of filters!
 
 While low-key and unobtrusive, filters can have a vast effect on your scheduling. Use them to view only what’s relevant to you and to make your print layouts more compact.
