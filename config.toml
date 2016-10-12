@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://getsling.com/"
 title = "SCHEDULING MADE EASY"
 languageCode = "en-us"
 theme = "hugo-strata-theme"
@@ -10,7 +10,7 @@ cover = "http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2015/01/photo-14
 date_format = "Mon, Jan 2, 2006"
 [params.sidebar]
 	avatar = "logo.png"
-	facebook = "Gangverk"
+	facebook = "SlingScheduling"
 	github = "gangverk"
 	bio = "**Shift scheduling made easy!**"
 [params.about]
