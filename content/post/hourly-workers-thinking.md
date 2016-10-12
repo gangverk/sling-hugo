@@ -2,10 +2,13 @@
 categories = []
 date = "2016-10-12T22:47:00+00:00"
 draft = false
+image = "/forestryio/images/clock.png"
+
 tags = ["Business"]
 title = "What are hourly workers thinking?"
 
 +++
+![](/forestryio/images/clock.png)
 Working enough hours is slightly more important to hourly workers than their pay rate, but these employees still believe in raising the national minimum wage.
 
 Those are some of the findings of the 2016 annual “State of the Hourly Worker” report published this summer by Snagajob, a job listing site for hourly workers.

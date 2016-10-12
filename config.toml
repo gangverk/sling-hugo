@@ -1,4 +1,4 @@
-baseurl = "https://getsling.com/blog"
+baseurl = "https://getsling.com"
 title = "SCHEDULING MADE EASY"
 languageCode = "en-us"
 theme = "hugo-strata-theme"

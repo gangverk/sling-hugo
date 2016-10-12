@@ -1,7 +1,8 @@
 +++
 categories = []
 date = "2016-10-12T22:55:00+00:00"
-draft = true
+draft = false
+image = "/forestryio/images/kitchenworkers.jpg"
 tags = ["Business"]
 title = "What Do 'Fair Scheduling' Laws Do?"
 
