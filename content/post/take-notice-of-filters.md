@@ -8,7 +8,7 @@ featured = false
 image = "/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png"
 share = true
 slug = "take-notice-of-filters"
-tags = ["tag1", "tag2"]
+tags = ["Product Updates", "Business"]
 title = "Take notice of filters!"
 
 +++

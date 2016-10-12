@@ -5,13 +5,13 @@ date = "2016-10-12T00:01:00+00:00"
 description = ""
 draft = false
 featured = false
-image = "http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-21-at-1.11.37-PM.png"
+image = "/forestryio/images/clocks.png"
 share = true
-slug = "post-title"
 tags = ["Product updates"]
 title = "Do not ignore timezones!"
 
 +++
+![Clocks](/forestryio/images/clocks.png)
 Why, hello there!
  
 Hope your days are filled with sunshine and sundry summer colors!

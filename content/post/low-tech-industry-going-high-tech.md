@@ -1,12 +1,12 @@
 +++
 date = "2016-10-11T22:06:00+00:00"
 draft = false
-image = "http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2016/09/sling-entrepreneur.jpeg"
+image = "/forestryio/images/chefs.jpeg"
 tags = ["Business", "Restaurant", "Product Updates"]
 title = "Why a low tech industry is going high tech"
 
 +++
-![entrepreneur](http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2016/09/sling-entrepreneur.jpeg)
+![entrepreneur](/forestryio/images/chefs.jpeg)
 When small changes can yield big results – businesses take note. Restaurants have warmed up to improving their “back of the house” technology investments, however running a successful restaurant business is more than just offering a great menu, good customer service and using an iPad to capture credit card payments. Restaurant owners and employers must embrace new streamlined technologies, specifically in the back office to help manage operations, food allotment, daily delivery, staffing and sophisticated Point of Sale (POS) data to increase efficiency and eliminate the high cost of running their restaurant – just to break even.
 
 Americans eat out on average 4.2 times a week, averaging 18+ times a month(2016). As diners are increasingly eating out, the average US restaurant business still shows troubling statistics and low profit margins – 60% go out of business in 1 year, while 80% of restaurants close in their first 5 years(2015). Allocating significant time and effort into understanding what technologies are available may mean the difference between becoming that aforementioned statistic or not.

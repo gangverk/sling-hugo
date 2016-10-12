@@ -1,8 +1,43 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 title = "SCHEDULING MADE EASY"
 languageCode = "en-us"
-theme = "hugo-theme-bleak"
+theme = "hugo-strata-theme"
+#theme = "hugo-theme-bleak"
 [taxonomies]
 tag = "tags"
 [params]
 cover = "http://dd3g6bxzdf807.cloudfront.net/wp-content/uploads/2015/01/photo-1421622548261-c45bfe178854-uai-2880x1924.jpeg"
+date_format = "Mon, Jan 2, 2006"
+[params.sidebar]
+	avatar = "logo.png"
+	facebook = "Gangverk"
+	github = "gangverk"
+	bio = "**Shift scheduling made easy!**"
+[params.about]
+	hide  = false
+	title = "Sling is the easiest way to schedule and communicate with your employees. For free!"
+	content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+[params.contact]
+		hide  = true
+[[menu.main]]
+	name = "GETSLING"
+	url  = "https://getsling.com"
+	weight = 0
+
+[[menu.main]]
+	name = "FEATURES"
+	url  = "https://getsling.com/features.html"
+	weight = 10
+[[menu.main]]
+	name = "PRICING"
+	url  = "https://getsling.com/pricing.html"
+	weight = 10
+[[menu.main]]
+	name = "SIGNUP"
+	url  = "https://sling.is/user/register"
+	weight = 10
+[[menu.main]]
+	name = "LOGIN"
+	url  = "https://sling.is/"
+	weight = 10
+
