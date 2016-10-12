@@ -1,0 +1,16 @@
+<section>
+    {{ with .Site.Params.recentposts.title }}
+        <h2>{{ . }}</h2>
+    {{ end }}
+
+	<div class="row">
+
+        {{ range .Data.Pages }}
+        <article class="6u 12u$(xsmall) work-item">
+            <a href="{{ .RelPermalink }}" class="image fit thumb"><img src="{{ .Params.image }}" alt="" /></a>
+
+            <h3><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
+        </article>
+        {{ end }}      
+	</div>
+</section>
