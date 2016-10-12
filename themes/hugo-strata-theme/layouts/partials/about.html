@@ -6,7 +6,7 @@
     <ul>
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
 	  {{ range $key, $value := $taxonomy }}
-	  <a class="article-category-link" href="{{ "/tags/" | relLangURL}}{{ $key | urlize }}">{{ $key }}</a>&nbsp;&nbsp;
+	  <a class="article-category-link" href="tags/{{ $key | urlize }}">{{ $key }}</a>&nbsp;&nbsp;
 	  {{ end }}
     {{ end }}
   </ul>  
