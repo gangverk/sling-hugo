@@ -5,14 +5,14 @@ date = "2016-10-12T08:46:00+00:00"
 description = ""
 draft = false
 featured = false
-image = "/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png"
+image = "/blog/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png"
 share = true
 slug = "take-notice-of-filters"
 tags = ["Product Updates", "Business"]
 title = "Take notice of filters!"
 
 +++
-![](/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png)
+![](/blog/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png)
 Thank you for stopping by,
  
 We know you are busy, hence getting your schedules right might take some load off of your shoulders. So a couple of weeks ago we’ve committed to sharing some tips and tricks to make your shift scheduling practices more efficient.
@@ -31,7 +31,7 @@ While low-key and unobtrusive, filters can have a vast effect on your scheduling
 There is no need to save your preferences – your latest filter and sorting settings will become your default the next time you open Sling, just do not log out!
 Also, we’ll bet a buck or two that you might not be aware of the dual behavior of the filters. Clicking on the name of the filter will include the item, whereas it will be excluded if you click on the circle.
 
-![Filters](/forestryio/images/filter.png)
+![Filters](/blog/forestryio/images/filter.png)
 
 You have to try it yourself though to comprehend the logic, – it’s out there.
  

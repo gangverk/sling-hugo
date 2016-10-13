@@ -1,4 +1,4 @@
-baseurl = "https://getsling.com"
+baseurl = "https://getsling.com/blog"
 title = "SCHEDULING MADE EASY"
 languageCode = "en-us"
 theme = "hugo-strata-theme"
@@ -6,7 +6,7 @@ theme = "hugo-strata-theme"
 [taxonomies]
 tag = "tags"
 [params]
-cover = "/forestryio/images/cafe.jpeg"
+cover = "/blog/forestryio/images/cafe.jpeg"
 date_format = "Mon, Jan 2, 2006"
 [params.sidebar]
 	avatar = "logo.png"
