@@ -2,8 +2,8 @@
 date = "2016-10-11T22:06:00+00:00"
 draft = false
 image = "/blog/forestryio/images/chefs.jpeg"
-tags = ["Business", "Restaurant", "Product Updates"]
-title = "Why a low tech industry is going high tech"
+tags = ["Business", "Restaurant"]
+title = "Why a low-tech industry is going high-tech"
 
 +++
 ![entrepreneur](/blog/forestryio/images/chefs.jpeg)
