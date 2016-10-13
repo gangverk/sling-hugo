@@ -14,7 +14,7 @@ In this advice column, we tackle industry challenges.
 **Q.** I often catch my employees on their smartphones, checking Facebook or Instagram. Come to think of it, I’m not sure what they’re looking at. It’s usually only for short spurts of time, but I don’t like the sight of my staff gazing down at their phones. Should I discourage this behavior? Or should I accept it as part of the world we’re living in?
 
 
-**A. **You’re right to wonder if all that downtime your employee spends scrolling through her Twitterfeed is eating into your bottom line — not to mention providing bad optics to your customers.
+**A.** You’re right to wonder if all that downtime your employee spends scrolling through her Twitterfeed is eating into your bottom line — not to mention providing bad optics to your customers.
 Norms around phones and social media are changing rapidly. Just a few years ago it was considered inappropriate for workers to “waste” time online during business hours.
 
 
