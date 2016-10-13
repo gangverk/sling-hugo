@@ -28,7 +28,7 @@ We are also working on something called Labor Cost Analysis. As you know, labor 
 Finally, we are working on something called Performance Review. It allows you as the owner to rate employees on their experience, skills and so forth.  
 **How did the move from Iceland to the U.S. come about?**  
 My business partner and I were born and raised in Iceland where we worked in software development. Several years ago we began getting customers from outside of Iceland, mainly from America.
-About a year ago we decided to open an office in New York. I moved to New York to boost Sling and what we are trying to do in the labor management software space.
+About a year ago we decided to open an office in New York. I moved to New York to boost Sling and what we are trying to do in the labor management software space.  
 **What is the monetization plan?**  
 How do we make any money? (laughs) Our idea is to sell customized versions of Sling to larger corporations. Let’s say you own a chain of 200 locations. We would connect Sling to your POS, to your APP, to existing systems that you already have and you would pay us for that.
 In the first 12 months of Sling, even though the product is free, we sold $2.5 million in customization, believe it or not. Not bad, I think.  
