@@ -3,7 +3,7 @@ author = "Naomi Clark"
 date = "2016-10-13T16:58:00+00:00"
 description = ""
 draft = false
-image = ""
+image = "/blog/forestryio/images/coffeephone.jpg"
 tags = ["Managing employees"]
 title = "How much social media is OK at work?"
 
