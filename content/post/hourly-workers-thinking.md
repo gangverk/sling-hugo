@@ -3,7 +3,6 @@ categories = []
 date = "2016-10-12T22:47:00+00:00"
 draft = false
 image = "/blog/forestryio/images/clock.png"
-
 tags = ["Business"]
 title = "What are hourly workers thinking?"
 
