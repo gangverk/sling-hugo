@@ -38,4 +38,4 @@ Set some ground rules for phone and social media use at your workplace. Challeng
 The [Pew study](http://www.pewinternet.org/2016/06/22/social-media-and-the-workplace/) found that about 51 percent of workers say their employers have policies about social media use — and the guidelines help cut back on time employees actually spend on social media.
 
 
-Communication is key. Ask staff members why they’re on their phones. If they have legitimate reasons, listen. Explain your concerns. It’s possible staff members may welcome a break from their devices and just need a push.
+Ask staff members why they’re on their phones. If they have legitimate reasons, listen. Explain your concerns. It’s possible staff members may welcome a break from their devices and just need a push.
