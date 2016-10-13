@@ -20,12 +20,12 @@ The Schedules that Work Act, introduced last year by Sen. Elizabeth Warren (D-Ma
 
 Here are some things the proposed law would do:
 
-Workers at businesses with 15 or more employees would be able to ask for changes to their schedule, including the location of their work
-Employers would be required to grant requests for schedule changes that arise from workers’ family or health needs, in addition to workers’ second jobs or education; requests could be denied only for “bona fide” business reasons
-Employers would be required to provide “reporting pay” — if employees comes to work and are sent home before being allowed to work their full shift, employers would have to compensate workers for the time that was scheduled but not worked
-Requires “call-in pay” — if workers are asked to call to find out if they’re working less than 24 hours before starting a shift, employers must pay at least an hour’s worth of wages
-Mandate “split shift pay” — when employees work hours that are not consecutive, employers would have to pay an addition hour’s worth of wages to accommodate time spent waiting between shifts
-Requiring advance notice of scheduling changes – employees would have to give 14 days notice for changes in workers’ hours, and if additional changes are made within 24 hours of a shift, employers would be required to pay out an extra hour’s worth of work
+* Workers at businesses with 15 or more employees would be able to ask for changes to their schedule, including the location of their work
+* Employers would be required to grant requests for schedule changes that arise from workers’ family or health needs, in addition to workers’ second jobs or education; requests could be denied only for “bona fide” business reasons
+* Employers would be required to provide “reporting pay” — if employees comes to work and are sent home before being allowed to work their full shift, employers would have to compensate workers for the time that was scheduled but not worked
+* Requires “call-in pay” — if workers are asked to call to find out if they’re working less than 24 hours before starting a shift, employers must pay at least an hour’s worth of wages
+* Mandate “split shift pay” — when employees work hours that are not consecutive, employers would have to pay an addition hour’s worth of wages to accommodate time spent waiting between shifts
+* Requiring advance notice of scheduling changes – employees would have to give 14 days notice for changes in workers’ hours, and if additional changes are made within 24 hours of a shift, employers would be required to pay out an extra hour’s worth of work
 
 
-Whether you have a restaurant, retail shop or other business, Sling can help you schedule employees, improve internal communication, and issue company-wide announcements in a well-designed all-in-one platform.
+Whether you have a restaurant, retail shop or other business, [Sling](https://getsling.com) can help you schedule employees, improve internal communication, and issue company-wide announcements in a well-designed all-in-one platform.
