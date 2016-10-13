@@ -7,20 +7,20 @@ name = "GETSLING"
 url = "https://getsling.com"
 weight = 0
 [[menu.main]]
-name = "LOGIN"
-url = "https://sling.is/"
-weight = 10
-[[menu.main]]
-name = "SIGNUP"
-url = "https://sling.is/user/register"
+name = "FEATURES"
+url = "https://getsling.com/features.html"
 weight = 10
 [[menu.main]]
 name = "PRICING"
 url = "https://getsling.com/pricing.html"
 weight = 10
 [[menu.main]]
-name = "FEATURES"
-url = "https://getsling.com/features.html"
+name = "SIGNUP"
+url = "https://sling.is/user/register"
+weight = 10
+[[menu.main]]
+name = "LOGIN"
+url = "https://sling.is/"
 weight = 10
 [params]
 cover = "/blog/forestryio/images/cafe.jpeg"
