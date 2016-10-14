@@ -4,7 +4,7 @@ date = "2016-10-14T19:41:00+00:00"
 description = ""
 draft = false
 image = "/blog/forestryio/images/starbucks.jpg"
-tags = []
+tags = ["Industry News"]
 title = "Starbucks News: Company Says Scheduling Practices Are Better, Less Miserable Employees"
 
 +++
