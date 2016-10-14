@@ -4,7 +4,7 @@ date = "2016-10-14T19:43:57+00:00"
 description = ""
 draft = false
 image = "/blog/forestryio/images/chili.jpg"
-tags = []
+tags = ["Industry News"]
 title = "D.C. Council Eyes Bill Requiring 3-Week Notice on Shift Change"
 
 +++
