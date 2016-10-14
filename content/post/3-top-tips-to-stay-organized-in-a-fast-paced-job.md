@@ -3,7 +3,7 @@ author = "Naomi Clark"
 date = "2016-10-14T18:04:00+00:00"
 description = ""
 draft = false
-image = "/forestryio/images/workspace-1.jpg"
+image = "/forestryio/images/workspace.jpg"
 tags = ["Business"]
 title = "3 Top Tips to Stay Organized in a Fast Paced Job"
 
