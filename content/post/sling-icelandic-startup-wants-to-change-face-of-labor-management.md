@@ -7,7 +7,6 @@ tags = ["Business"]
 title = "Sling: Icelandic startup wants to change face of labor management"
 
 +++
-![](/blog/forestryio/images/future.jpg)
 Like many entrepreneurs, Helgi Hermannsson, the co-founder and CEO of labor management tool, Sling, comes from a software development background. He also comes from Iceland, a Nordic island nation known more for its volcanic landscape than for its tech startups.
 To learn more, Benzinga spoke with Hermannsson by telephone from his offices in New York.  
 **Benzinga: What is Sling and what does it do?**  

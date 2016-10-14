@@ -7,7 +7,6 @@ tags = ["Business"]
 title = "What Do 'Fair Scheduling' Laws Do?"
 
 +++
-![](/blog/forestryio/images/kitchenworkers.jpg)
 For many hourly workers and their managers, scheduling can have implications far beyond picking times and dates on a calendar.
 
 Companies that depend on scheduling workers for last-minute shifts or non-consecutive shifts to accommodate hourly fluctuations in customer flow, for example, are coming under scrutiny.

@@ -12,7 +12,6 @@ tags = ["Product Updates", "Business"]
 title = "Take notice of filters!"
 
 +++
-![](/blog/forestryio/images/Screen Shot 2016-10-12 at 08.50.07.png)
 Thank you for stopping by,
  
 We know you are busy, hence getting your schedules right might take some load off of your shoulders. So a couple of weeks ago we’ve committed to sharing some tips and tricks to make your shift scheduling practices more efficient.

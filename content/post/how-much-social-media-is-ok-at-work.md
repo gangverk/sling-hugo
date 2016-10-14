@@ -8,7 +8,6 @@ tags = ["Managing employees"]
 title = "How much social media is OK at work?"
 
 +++
-![](/blog/forestryio/images/coffeephone.jpg)
 In this advice column, we tackle industry challenges. 
 
 **Q.** I often catch my employees on their smartphones, checking Facebook or Instagram. Come to think of it, I’m not sure what they’re looking at. It’s usually only for short spurts of time, but I don’t like the sight of my staff gazing down at their phones. Should I discourage this behavior? Or should I accept it as part of the world we’re living in?

@@ -6,7 +6,6 @@ tags = ["Business"]
 title = "It's time to kill the 9-to-5"
 
 +++
-![tired](/blog/forestryio/images/tired.jpg)
 Jessica Piha gets to work whenever she wants and leaves whenever she wants—really.
 
 “There’s really no set schedule,” said Piha, the director of communications at home-improvement startup Porch, which lets its employees work flexible schedules. Piha likes to get in “super early” and leave at 3 p.m. for a workout class.

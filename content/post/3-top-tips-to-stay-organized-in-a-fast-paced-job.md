@@ -3,12 +3,11 @@ author = "Naomi Clark"
 date = "2016-10-14T18:04:00+00:00"
 description = ""
 draft = false
-image = "/forestryio/images/workspace.jpg"
+image = "/blog/forestryio/images/workspace.jpg"
 tags = ["Business"]
 title = "3 Top Tips to Stay Organized in a Fast Paced Job"
 
 +++
-![](/blog/forestryio/images/workspace.jpg)
 Even the most efficient people can become overwhelmed when the pace of work ratchets up to high speed. Add in a sudden influx of customers or an unexpected exodus of employees, and it can feel like all your hard work is just getting harder — nevermind finding time to sleep or think.
 
 Staying organized is a less a matter of never forgetting or misplacing anything, and more a function of committing to the same habits over time. These tips are a guide to how to keep your mind on track.

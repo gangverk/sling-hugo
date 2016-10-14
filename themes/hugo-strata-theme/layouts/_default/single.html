@@ -11,6 +11,9 @@
 	</span>
 
 	<p>
+		{{ if isset .Params "image" }}
+		<p><img src="{{ .Params.image }}" alt=""/></p>
+		{{ end }}
 	    {{ .Content }}
 	</p>
 

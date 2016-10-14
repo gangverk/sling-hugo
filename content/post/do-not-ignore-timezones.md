@@ -11,7 +11,6 @@ tags = ["Product updates"]
 title = "Do not ignore timezones!"
 
 +++
-![Clocks](/blog/forestryio/images/clocks.png)
 Why, hello there!
  
 Hope your days are filled with sunshine and sundry summer colors!
