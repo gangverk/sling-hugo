@@ -7,16 +7,16 @@ name = "GETSLING"
 url = "https://getsling.com"
 weight = 0
 [[menu.main]]
+name = "SIGNUP"
+url = "https://sling.is/user/register"
+weight = 10
+[[menu.main]]
 name = "FEATURES"
 url = "https://getsling.com/features.html"
 weight = 10
 [[menu.main]]
-name = "PRICING"
+name = "PRICING (Free) "
 url = "https://getsling.com/pricing.html"
-weight = 10
-[[menu.main]]
-name = "SIGNUP"
-url = "https://sling.is/user/register"
 weight = 10
 [[menu.main]]
 name = "LOGIN"
