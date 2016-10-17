@@ -24,7 +24,7 @@ url = "https://sling.is/"
 weight = 4
 [[menu.main]]
 name = "Blog"
-url = "www.getsling.com/blog"
+url = "https://sling.is/blog"
 weight = 5
 [params]
 cover = "/blog/forestryio/images/cafe.jpeg"
