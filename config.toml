@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "hugo-strata-theme"
 title = "SCHEDULING MADE EASY"
 [[menu.main]]
-name = "Getsling"
+name = "Get Sling"
 url = "https://getsling.com"
 weight = 0
 [[menu.main]]
