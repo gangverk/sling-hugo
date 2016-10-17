@@ -1,6 +1,6 @@
 +++
 author = "Shayla Ridore"
-date = "2016-10-14T20:06:51+00:00"
+date = "2016-08-30T20:06:51+00:00"
 description = ""
 draft = false
 image = "/blog/forestryio/images/escalator.jpg"

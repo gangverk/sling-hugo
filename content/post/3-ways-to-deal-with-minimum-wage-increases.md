@@ -1,6 +1,6 @@
 +++
 author = "Naomi Clark"
-date = "2016-10-14T20:26:18+00:00"
+date = "2016-08-12T20:26:18+00:00"
 description = ""
 draft = false
 image = "/blog/forestryio/images/coins.jpg"

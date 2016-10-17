@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2016-10-13T12:03:00+00:00"
+date = "2016-08-10T12:03:00+00:00"
 draft = false
 image = "/blog/forestryio/images/future.jpg"
 tags = ["Business"]
