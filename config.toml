@@ -13,7 +13,7 @@ weight = 1
 [[menu.main]]
 name = "Pricing (Free) "
 url = "https://getsling.com/pricing.html"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "Sign up"
 url = "https://sling.is/user/register"
