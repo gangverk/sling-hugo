@@ -9,8 +9,9 @@
         <article class="6u 12u$(xsmall) work-item">
             <a href="{{ .RelPermalink }}" class="image fit thumb"><img src="{{ .Params.image }}" alt="" /></a>
 
+            <time datetime="{{ .Date }}">{{ .Date.Format .Site.Params.date_format }}</time>&nbsp;&nbsp;
             <h3><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
         </article>
-        {{ end }}      
+        {{ end }}
 	</div>
 </section>
