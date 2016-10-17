@@ -13,18 +13,14 @@ weight = 1
 [[menu.main]]
 name = "Pricing (Free) "
 url = "https://getsling.com/pricing.html"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "Sign up"
 url = "https://sling.is/user/register"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Log in"
 url = "https://sling.is/"
-weight = 4
-[[menu.main]]
-name = "Blog"
-url = "https://sling.is/blog"
 weight = 5
 [params]
 cover = "/blog/forestryio/images/cafe.jpeg"
