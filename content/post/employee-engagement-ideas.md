@@ -3,7 +3,7 @@ author = ""
 date = "2016-10-18T03:22:00+00:00"
 description = ""
 draft = false
-image = ""
+image = "/forestryio/images/Employee engagement ideas.jpg"
 tags = []
 title = "27 Employee Engagement Ideas For a More Productive Team"
 type = "default"
@@ -59,6 +59,7 @@ Strong leadership is critical to achieving an engaged team. It gives employees t
 Building pride in the company motivates the employees to see their company as a responsible, caring group of people that is doing good in the community. You can build pride by telling your employees about the good that the company is doing. Next time you get a major compliment from a local customer, let your team know about it at the next meeting.
 
 # 16. Give employees the tools they need to succeed
+![](/blog/forestryio/images/Engagement ideas.jpg)
 There’s nothing more frustrating than not having the resources to do your job effectively. So, make sure your employees do have those resources! It could be something as simple as providing more training or something as complicated as updating the technology they use on a daily basis.
 
 # 17. Create a company purpose
@@ -71,6 +72,7 @@ Disagreements and arguments amongst company leadership should be kept away from 
 If all your employees do is work, eat, and sleep without having a life outside of the company, they’re going to be more stressed and burn out quicker. Their work may also become less efficient and of lower quality. To avoid this, consider instituting a flexible work schedule or giving employees time off when they’re fatigued. If your employees have a happy life outside of work, they’ll be more productive.
 
 # 20. Challenge your employees
+![](/blog/forestryio/images/image04.jpg)
 Work can become routine and uninspiring when the same things are done over and over everyday. To remedy this, give your employees “stretch assignments” that allow them to step outside their comfort zone, try something new, and give them a challenge to conquer. This could be leading a team meeting or heading up a new project. Whatever it is, it should push the employee and not just be a rehashing of what they normally do.
 
 # 21. Use company culture as a way to hire
@@ -83,9 +85,11 @@ Sometimes there can be a divide between upper management and employees. This can
 This may sound strange, but a company blog can help break the wall that always seems to exist between management and employees. Encourage the staff to read and comment on the blog. Doing so can help the staff to feel like they are a part of something bigger. It can also help make management more familiar and give them a more human presence.
 
 # 24. Get out of the office
+![](/blog/forestryio/images/image01.png)
 Work is important, but sometimes, getting out of the office is equally as important. Consider organizing an office outing to break the routine and give your team the opportunity to get to know each other. Paintball or Laser Tag make for a fun team-building exercise and can be a great way to burn off some of the office stress.
 
 # 25. Eat a meal together
+![](/blog/forestryio/images/Employee engagement.jpg)
 The simple act of eating together can have profound effects on your employees’ engagement. Consider gathering together once a week for a group meal. You could have food brought in, make it yourself if you run a restaurant or have everyone contribute a dish. If you’d like to get out of the office, go to a nearby pub.
 
 # 26. Don’t forget about pay
