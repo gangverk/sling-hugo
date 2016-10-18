@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Sling"
 date = "2016-10-17T14:27:00+00:00"
 description = "Effective leaders motivate their team to do great things. Ineffective leaders often have undermotivated, underperforming employees. This article shares 11 habits of highly effective leaders."
 draft = false
@@ -24,15 +24,11 @@ The support you provide your employee doesn’t end once they hit the floor. Be 
 # 2. Give praise where praise is due
 Because praise is such a simple thing, many leaders overlook it. According to a Harris poll of 1,000 workers, 63% complained that they weren’t recognized for their achievements. Fortunately, recognizing small things can make a big difference. 
 
-
-
 Giving your employees a thumbs-up or a pat on the back now and again, can make them feel appreciated and that they are making progress towards a goal. I’m sure to count the little things. If my employee is particularly good at folding napkins, I let him know. If she is able memorize orders without writing them down, I’m sure to commend her memory. Praise is a positive motivator and can make your employees work harder in the future. 
 
 Giving praise doesn’t have to be a major production. Say, for example, that a big party comes into your restaurant at the end of the night and a server stays late (and stays energized) to make them happy. The next day, pull that server aside and let them know that you saw what they did and that you appreciate their efforts. Simple praise like that can go a long way toward keeping your team motivated to perform.
 # 3. Lead by example
 As Ralph Waldo Emerson famously wrote, “What you do speaks so loudly I cannot hear what you say.” What Emerson put in poetic language basically boils down to “lead by example”.
-
-
 
 If you’re not willing to put in the hard work and get the job done, why should your employees? There’s more to being a leader than just assigning tasks and going home. Effective leaders are the trailblazer of an exploring party: they’re out in front clearing the way for the rest of the team behind them. 
 
@@ -46,24 +42,22 @@ If a leader neglects to listen, she runs the risk of being disconnected from rea
 # 5. Be decisive
 Effective leaders aren’t afraid to make the tough decisions. They gather the information they need, they make a decision and then they take action. Once the decision is made, the effective leader stands by her choice unless there’s a good reason to reconsider.
 
-
-
 The authority of an effective leader is much like that of a ship’s captain. Though the crew of the ship may be doing the bulk of the work, the captain makes the final decision. 
 
 I had a combative employee who no matter how hard I tried to get him to follow my instructions, just wasn't listening. So I had to let him go. While this wasn’t a popular decision with the staff, it was ultimately the best decision for my team and the health of my business. 
 
 The effective leader may have to make unpopular choices but his ultimate goal is the well-being of his ship and his crew. He has to see bigger picture.
-6. Be confident in your abilities
+# 6. Be confident in your abilities
 It’s been said that tentative leaders make for tentative employees. Effective leaders avoid tentativeness and instead exhibit confidence. They are confident in their own abilities.  
 
 Self-confidence is especially critical when inevitable difficulties arise. Imagine that two servers call in sick right before opening on a busy night. A confident leader stays calm in the face of this dilemma. He is confident in his abilities to overcome these challenges. That type of confidence rubs off on employees and keeps them motivated. It can give them the boost they need to make the night run smoothly, even when understaffed.
-7. Express trust in your team
+
+# 7. Express trust in your team
 Expressing trust in your team is about letting your team know that you are confident in their abilities. When you trust your team to get the job done, they feel empowered to continue performing at a high level. 
 
 I once came down with severe strep throat during busy season and couldn’t be in the restaurant for over a week. But because I trusted the team I had chosen, I knew they would be able to proceed without me until I was well again. And I was correct. Everything went fine. 
 
 Fostering a team that you know you can trust is critical to your business's success. You cannot have any weak links if you want to survive the early years of a business. 
-
 
 # 8. Show your integrity
 Treat others how you want to be treated. This means being honest, fair and levelheaded, even when obstacles present themselves. 
@@ -71,10 +65,11 @@ Treat others how you want to be treated. This means being honest, fair and level
 Your employees look to your example. If they see you being dishonest or unfair, they’ll likely follow suit. If they see you making the fair and honest choice even when it’s not in your best interest, they’ll do the same.
 
 In the first year of my business I discovered that money was being taken from the register. I didn’t want to make any accusations so I waited until I caught the person redhanded. I made an example of him and showed my employees the integrity I expect. 
+
 # 9. Be optimistic
 Optimism means having a positive vision of the future. As a leader, optimism is about encouraging positivity in your team. Demonstrate optimism by looking on the bright side whenever possible. Look for the positives in your team members and in the situations you all face. Putting on an optimistic face when others succumb to doubt can go a long way to motivating your team to get the job done.
-# 10. Create an inspired working environment
 
+# 10. Create an inspired working environment
 Make it clear from the beginning that insults and pettiness will not be tolerated. Inspire your team members to be encouraging and supportive of the rest of the team. 
 
 I set up a family style dinner and give a motivational pep talk every night before we open the floor for dinner, just to reassure my staff that I support and believe in them. 
