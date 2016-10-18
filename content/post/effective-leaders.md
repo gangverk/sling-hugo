@@ -1,6 +1,6 @@
 +++
 author = ""
-date = "2016-10-18T14:27:00+00:00"
+date = "2016-10-17T14:27:00+00:00"
 description = "Effective leaders motivate their team to do great things. Ineffective leaders often have undermotivated, underperforming employees. This article shares 11 habits of highly effective leaders."
 draft = false
 image = "/forestryio/images/effective leaders-2.jpg"
