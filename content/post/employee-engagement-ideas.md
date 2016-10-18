@@ -1,7 +1,7 @@
 +++
 author = ""
 date = "2016-10-18T03:22:00+00:00"
-description = ""
+description = "This article shares 27 employee engagement ideas you can use to make your employees more motivated and productive."
 draft = false
 image = "/forestryio/images/Employee engagement ideas.jpg"
 tags = []
