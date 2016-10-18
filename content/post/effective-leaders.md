@@ -6,10 +6,8 @@ draft = false
 image = "/blog/forestryio/images/effective leaders-2.jpg"
 tags = ["effective leaders", "leadership", "management"]
 title = "11 Habits Of Highly Effective Leaders"
-type = ""
 
 +++
-![](/blog/forestryio/images/effective leaders-1.jpg)
 If you’ve spent any time at all working with a team, I’m sure you’ll agree that there are effective leaders and there are ineffective leaders. Effective leaders motivate their team to do great things. Ineffective leaders often have undermotivated, underperforming employees.
 
 The good news is, like most other skills, leadership is a skill that can be honed and developed. All it takes is an understanding of what motivates employees and a willingness to make improvements. Here are 11 habits of highly effective leaders.
@@ -24,11 +22,15 @@ The support you provide your employee doesn’t end once they hit the floor. Be 
 # 2. Give praise where praise is due
 Because praise is such a simple thing, many leaders overlook it. According to a Harris poll of 1,000 workers, 63% complained that they weren’t recognized for their achievements. Fortunately, recognizing small things can make a big difference. 
 
+![](/blog/forestryio/images/image04-1.png)
+
 Giving your employees a thumbs-up or a pat on the back now and again, can make them feel appreciated and that they are making progress towards a goal. I’m sure to count the little things. If my employee is particularly good at folding napkins, I let him know. If she is able memorize orders without writing them down, I’m sure to commend her memory. Praise is a positive motivator and can make your employees work harder in the future. 
 
 Giving praise doesn’t have to be a major production. Say, for example, that a big party comes into your restaurant at the end of the night and a server stays late (and stays energized) to make them happy. The next day, pull that server aside and let them know that you saw what they did and that you appreciate their efforts. Simple praise like that can go a long way toward keeping your team motivated to perform.
 # 3. Lead by example
 As Ralph Waldo Emerson famously wrote, “What you do speaks so loudly I cannot hear what you say.” What Emerson put in poetic language basically boils down to “lead by example”.
+
+![](/blog/forestryio/images/image02-1.jpg)
 
 If you’re not willing to put in the hard work and get the job done, why should your employees? There’s more to being a leader than just assigning tasks and going home. Effective leaders are the trailblazer of an exploring party: they’re out in front clearing the way for the rest of the team behind them. 
 
@@ -41,6 +43,8 @@ The effective leader knows that listening to feedback and ideas is a form of pos
 If a leader neglects to listen, she runs the risk of being disconnected from real problems within the business. That can have ramifications down the road when these problems escalate. By listening and acting accordingly, effective managers can avert disaster and encourage team-building.
 # 5. Be decisive
 Effective leaders aren’t afraid to make the tough decisions. They gather the information they need, they make a decision and then they take action. Once the decision is made, the effective leader stands by her choice unless there’s a good reason to reconsider.
+
+![](/blog/forestryio/images/image05-1.png)
 
 The authority of an effective leader is much like that of a ship’s captain. Though the crew of the ship may be doing the bulk of the work, the captain makes the final decision. 
 
@@ -70,6 +74,7 @@ In the first year of my business I discovered that money was being taken from th
 Optimism means having a positive vision of the future. As a leader, optimism is about encouraging positivity in your team. Demonstrate optimism by looking on the bright side whenever possible. Look for the positives in your team members and in the situations you all face. Putting on an optimistic face when others succumb to doubt can go a long way to motivating your team to get the job done.
 
 # 10. Create an inspired working environment
+![](/blog/forestryio/images/leaders-1.png)
 Make it clear from the beginning that insults and pettiness will not be tolerated. Inspire your team members to be encouraging and supportive of the rest of the team. 
 
 I set up a family style dinner and give a motivational pep talk every night before we open the floor for dinner, just to reassure my staff that I support and believe in them. 
