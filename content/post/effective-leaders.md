@@ -6,5 +6,6 @@ draft = false
 image = ""
 tags = []
 title = "11 Habits Of Highly Effective Leaders"
+type = ""
 
 +++
