@@ -2490,7 +2490,7 @@
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 12em;
+			width: 8em;
 		}
 
 /* Footer */
@@ -3173,7 +3173,7 @@
 	 background: rgba(0, 0, 0, .05);
 	 padding: 4px 12px 4px 12px;
 	 border-radius: 4px;
-	 margin: .2em 0 .2em 0;
+	 margin: .4em 0 .4em 0;
  }
 
  a.article-category-link:hover {
