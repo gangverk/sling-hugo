@@ -1,6 +1,6 @@
 +++
 author = ""
-date = "2016-10-21T14:20:00+00:00"
+date = "2016-10-21T02:20:00+00:00"
 description = "Managing millennials can be a challenge. This article will give you nice strategies to help you look past the myths associated with the millennial worker and to better manage this new majority in the workforce."
 draft = false
 image = "/blog/forestryio/images/image00-1.jpg"
