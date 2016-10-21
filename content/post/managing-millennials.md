@@ -15,6 +15,7 @@ While there’s nothing wrong with any of these traits, they are different enoug
 This article will give you nice strategies to help you look past the myths associated with the millennial worker and to better manage this new majority in the workforce.
 
 # 1. Get your team to work in groups
+![](/blog/forestryio/images/Managing millenials.png)
 Millennials grew up in the shadow of social networking. Many, if not most, never knew a world without it. Because of this, millennials are more inclined to want to work in groups. Based on an IBM workforce study conducted in 2015, almost 60% of millennials felt that they made better decisions when receiving input from many different sources.
 
 Consider breaking the team into smaller groups of 2, 3, or 4 and assigning each smaller group a specific task. This will give millennials the social interaction they desire while still making it possible to work on a number of tasks at the same time.
@@ -42,6 +43,7 @@ Good: “I’m very happy with many of the things that you’ve been doing, such
 Sujansky and Ferri-Reed go on to say that this method of feedback might surprise you. You might find that it works well for all generations of employees, not just millennials. 
 
 # 4. Give millennials the technology they need
+![](/blog/forestryio/images/Management.png)
 Millennials want to use technology in every facet of their job. And since they’ve grown up with it at their fingertips, they’re comfortable enough to use technology effectively and efficiently.
 
 For managers, that means giving millennials the opportunity to make changes to existing operations. Ask them how they would incorporate novel technologies into the workplace and then consider implementing those technologies.
@@ -73,7 +75,10 @@ But consider for a moment, how connected your employees have become to the work 
 When that happens, we have to realize that if work is going to seep over into personal time, personal time is going to seep over into work. This isn’t an excuse for excessive use of social media (unless it’s their job), but we have to treat them fairly and allow them to balance work and personal life. In their mind, the hour they took out of their personal life last night to solve some business problem needs to be offset by a half hour on Facebook during work hours.
 
 # 8. Be community-minded
+![](/blog/forestryio/images/Managing.png)
 Millennials want to contribute to those around them by doing work that matters. A Pew Research Center study from 2010 reports that helping others in need ranked above having a high-paying career.
+
+![](/blog/forestryio/images/Millenials.jpg)
 
 Show your employees that their work is helping others by supporting local charities or participating in community events. Donate food to block parties or sponsor a little-league baseball team. In addition, give your employees the opportunity to contribute to these efforts as well.
 
