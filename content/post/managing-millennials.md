@@ -2,7 +2,7 @@
 author = ""
 date = "2016-10-21T14:20:00+00:00"
 description = "Managing millennials can be a challenge. This article will give you nice strategies to help you look past the myths associated with the millennial worker and to better manage this new majority in the workforce."
-draft = true
+draft = false
 image = "/blog/forestryio/images/image00-1.jpg"
 tags = []
 title = "Managing Millennials: 9 Strategies You Need to Know"
