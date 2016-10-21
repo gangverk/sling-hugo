@@ -40,9 +40,8 @@ Bad: “Your behavior is not acceptable. You need to stop (the problem behavior)
 Good: “I’m very happy with many of the things that you’ve been doing, such as (give examples). However, if you improve (the problem behavior) it will be good for you and for the organization. I understand what you intended, but if you make these changes you’ll be more successful. However, if you don’t make the changes there will be consequences (give examples). What are you willing to commit to? Let’s agree to review progress on the changes that you committed to make by (set a date).”
 
 Sujansky and Ferri-Reed go on to say that this method of feedback might surprise you. You might find that it works well for all generations of employees, not just millennials. 
-4. Give millennials the technology they need
 
-
+# 4. Give millennials the technology they need
 Millennials want to use technology in every facet of their job. And since they’ve grown up with it at their fingertips, they’re comfortable enough to use technology effectively and efficiently.
 
 For managers, that means giving millennials the opportunity to make changes to existing operations. Ask them how they would incorporate novel technologies into the workplace and then consider implementing those technologies.
@@ -56,7 +55,8 @@ To help millennials feel like they are making progress in their job, consider cr
 Tap into the millennials’ need for creativity by encouraging them to think about innovation. Discuss these topics in your weekly staff meeting and then consider implementing the best solutions.
 
 It’s also important to nurture the millennials’ motivation for social connection. Be sure to emphasise the ways in which your business is giving back to the community and allow your employees to participate in these efforts. Whether it’s through charitable giving, volunteer work, or special community-wide events, your business and your employees will become more engaged.
-6. Connect millennials to your company’s vision
+
+# 6. Connect millennials to your company’s vision
 Millennial workers like to feel connected to a larger purpose. Your company vision can be the bridge between what they do on a daily basis and the big picture toward which your company works.
 
 Jeremy Kingsley, leadership expert and author of Inspired People Produce Results, explains how a company’s vision makes a difference to millennial workers:
@@ -64,27 +64,27 @@ Jeremy Kingsley, leadership expert and author of Inspired People Produce Results
 “If you can explain the whole picture, it connects the meaning to the person. [The company’s vision] makes employees feel valued, which in turn boosts productivity.”
 
 Unlike the generations before them, millennial workers aren’t just satisfied to punch in, do their work, and punch out. Millennials want their work to have meaning and to produce impact. Showing the millennial how their daily work impacts the company’s vision on a global scale can give them the “big-picture” connection the need.
-7. Treat them fairly
+
+# 7. Treat them fairly
 Another myth that gets thrown around is that millennials are lazy. Rest assured, they’re not. The myth was perpetuated because millennials checking their Facebook page or surfing Instagram during work hours became an all too common sight.
 
 But consider for a moment, how connected your employees have become to the work they do. It’s now possible to get work done at all hours of the day from almost anywhere on the planet. Millennial workers don’t think twice about working from 11 to 11:30 p.m. from their home computer just to finish a small task. As managers, we sometimes take this for granted and come to expect it.
 
 When that happens, we have to realize that if work is going to seep over into personal time, personal time is going to seep over into work. This isn’t an excuse for excessive use of social media (unless it’s their job), but we have to treat them fairly and allow them to balance work and personal life. In their mind, the hour they took out of their personal life last night to solve some business problem needs to be offset by a half hour on Facebook during work hours.
-8. Be community-minded
 
-
+# 8. Be community-minded
 Millennials want to contribute to those around them by doing work that matters. A Pew Research Center study from 2010 reports that helping others in need ranked above having a high-paying career.
 
-
-
 Show your employees that their work is helping others by supporting local charities or participating in community events. Donate food to block parties or sponsor a little-league baseball team. In addition, give your employees the opportunity to contribute to these efforts as well.
-9. Be flexible
+
+# 9. Be flexible
 Work/life balance is important and millennials are willing to sacrifice pay to achieve it. This means that they need to have the option to make their work schedule fit their life rather than their life fit their work schedule.
 
 Get creative with your scheduling. Consider working four longer days each week and allowing employees to take the fifth day off. Some employees may have a Monday off while others may have a Friday off. Still others may have a Wednesday off.
 
 Another flexible means of scheduling is to create a block of time when your entire team needs to be present. Then allow employees to determine how early or late they will be at work around that block of time.
-It’s worth the effort
+
+# It’s worth the effort
 Implementing changes in management style to accommodate the attitudes of millennial workers can reap rewards both now and in the future. Managing millennials in a way they understand can result in improved morale, decreased turnover, and better employee engagement.
 
 These changes may not be easy and may seem unnecessary—especially for older managers used to a different style. But incorporating these strategies for managing millennials is well worth the effort.
