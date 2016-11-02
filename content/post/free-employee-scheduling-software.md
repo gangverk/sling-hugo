@@ -38,6 +38,8 @@ In addition, you won’t see a Word document let you know when you’ve schedule
 
 ## 3\. Excel
 
+![](/blog/forestryio/images/image09.png)
+
 Excel is a more common replacement for pen and paper. Excel doesn’t have the formatting restrictions that plague Word when the latter is used to make a schedule. Excel allows you to easily resize rows, columns, and even individual cells.
 
 So while it’s much more flexible as an employee scheduling tool, it still suffers from the distribution problems that keep the previous entries from being your go-to solution. You’ll either have to print and distribute your Excel schedule or email it to all your employees.
@@ -46,17 +48,27 @@ Excel was designed as a database and accounting tool. It is in these tasks that 
 
 ## 4\. Email
 
+![](/blog/forestryio/images/image02.png)
+
 Let’s switch gears for a moment and consider distribution—how you get your schedule into your employee’s hands. Yes, posting your schedule or handing it out personally does work, but it’s much easier to send your schedule via email. You simply create a mailing list or group that includes all your employees, attach your Word or Excel schedule, and hit ‘Send’. It requires very little effort to use. It can also reach a large number of people quickly.
+
+![](/blog/forestryio/images/image10.png)
 
 Even though it’s easy, it may not be the best bet for getting your schedules out there. What with texting, instant messaging, and chatting becoming the norm, some people don’t check their email very often—if at all.
 
 ## 5\. Dropbox
 
+![](/blog/forestryio/images/image01-1.png)
+
 Dropbox is another option that can facilitate your schedule distribution. With Dropbox, you first create your schedule, then upload it to Dropbox where you can specify who is allowed to access the file. Dropbox can then be instructed to send notifications to all parties involved via email, text, and various other means to let your employees know that a new schedule has been posted.
+
+![](/blog/forestryio/images/image03-2.png)
 
 In some ways, it’s better than email because it can reach those who don’t check their email very often. Like email, though, it’s another step in the difficult process of scheduling. Is there a way to combine the creation process and the distribution process into something a bit more streamlined? Read on to find out.
 
 ## 6\. Google Docs
+
+![](/blog/forestryio/images/image04-2.png)
 
 Google Docs takes the creation of your employee schedule and puts it firmly in the cloud. You create your document online. It’s saved online. And you can specify who has access to the document. Then, like Dropbox, you can send notifications via various methods to all your employees.
 
@@ -66,6 +78,8 @@ With Google Docs, the distribution has been streamlined considerably, but the cr
 
 ## 7\. Google Sheets
 
+![](/blog/forestryio/images/image06.png)
+
 Google Sheets—Google’s cloud spreadsheet program—is much like Excel in that it makes the formatting of the schedule that much easier by allowing you to resize rows, columns, and cells. You can also add color-coded blocks to delineate employees and include tasks and responsibilities in a more logical and visually appealing way.
 
 Google Sheets, like Docs, can be distributed quickly and easily by sharing the document with specified users. Those users can then access the document whenever and wherever they choose.
@@ -74,9 +88,13 @@ The ease of distribution is certainly a plus and the fact that Sheets is much ea
 
 ## 8\. Google Calendar
 
+![](/blog/forestryio/images/image08.png)
+
 Google Calendar combines the ease of online creation and distribution with the power of a calendar specifically designed for scheduling. Google Calendar replaces Docs, Sheets, Word, Excel, and, yes, pen and paper.
 
 Though Google Calendar was originally designed to be a personal calendar, with some work it can be altered to schedule multiple employees. From either the day view or the week view, you can click on a time to add an event. You can then label that event (with the worker’s name or duties) and specify the duration (say 5 p.m. to 11 p.m.). You can color code the event for easier viewing, attach email addresses to the event for simplified communication, and set up automated notifications to keep your employees informed.
+
+![](/blog/forestryio/images/image07.png)
 
 Though Google Calendar may look like the answer to your scheduling prayers, it can be a bit tedious if you have more than 4 or 5 employees. In addition, it can be difficult to decipher if you have overlapping shifts and other complicated scheduling.
 
@@ -84,12 +102,16 @@ Above all, the tools mentioned to this point weren’t designed with restaurant 
 
 ## 9\. Sling
 
+![](/blog/forestryio/images/image12.png)
+
 [Sling](https://getsling.com/) was designed specifically for retail and restaurant business owners. Because of this, Sling simplifies the scheduling process like none of the other free options on this list. In fact, it is the easiest way to schedule and communicate with your employees. And it’s free!
 
 On top of all the intuitive tools you’d expect from an app that’s dedicated to scheduling, Sling provides guidance and helps you avoid conflicts with up-to-date availability and time-off requests. Sling even notifies you of overlapping shifts or double-bookings.
 
 Sling Tasks allows you to assign jobs and follow their progress. You can create to-do lists and assign by name, group, location, or position. You can even set due dates and reminders as completion time approaches.
 
-Sling Messages and Newsfeed make communication a breeze. You don’t have to rely on email or some other third-party app. You can communicate directly with employees on Sling and send messages to individuals or groups. You can even share work files, photos, videos, and links when you communicate.
+![](/blog/forestryio/images/image05-2.png)
+
+Sling Messages and Newsfeed make communication a breeze. You don’t have to rely on email or some other third-party app. You can <span style="letter-spacing: 0.01em;">communicate directly with employees on Sling and send messages to individuals or groups. You can even share work files, photos, videos, and links when you communicate.</span>
 
 Sling is the most powerful restaurant scheduling tool available. It reduces the time it takes to create and manage schedules and helps managers bring team together, keep everyone informed, and build better company culture. What more could you ask for in a free app!
