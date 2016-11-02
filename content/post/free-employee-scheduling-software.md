@@ -1,6 +1,6 @@
 +++
 author = "Sling"
-date = "2016-11-02T15:00:06+00:00"
+date = "2016-11-01T11:00:00-04:00"
 description = "This article shares nine free employee scheduling software tools and how they work in the restaurant setting."
 draft = false
 image = "/blog/forestryio/images/image00.png"
