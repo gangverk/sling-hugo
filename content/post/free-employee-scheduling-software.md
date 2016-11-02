@@ -2,7 +2,7 @@
 author = "Sling"
 date = "2016-11-02T15:00:06+00:00"
 description = "This article shares nine free employee scheduling software tools and how they work in the restaurant setting."
-draft = true
+draft = false
 image = "/blog/forestryio/images/image00.png"
 tags = []
 title = "9 Free Employee Scheduling Software Tools"
