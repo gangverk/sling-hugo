@@ -3,7 +3,7 @@ author = "Helgi Hermannsson "
 date = "2016-11-10T18:22:07+00:00"
 description = "Sling CEO discusses in a post on Adweek how a \"Twitter Moment\" can effect small Businesses."
 draft = false
-image = ""
+image = "/blog/forestryio/images/twittermoments.png"
 tags = []
 title = "What Twitter Moments Means for Small Businesses"
 
