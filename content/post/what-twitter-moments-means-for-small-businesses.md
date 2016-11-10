@@ -34,13 +34,13 @@ Create a title and description: Keep your title short. And when writing a descri
 
 Add your favorite tweets: Content for your Moment can be pulled from a variety of sources:
 
-*   You can pick tweets from specific users.  
+*   You can pick tweets from specific users.
 
-*   You can locate tweets using the Twitter search function.  
+*   You can locate tweets using the Twitter search function.
 
-*   You can add tweets you’ve liked.  
+*   You can add tweets you’ve liked.
 
-*   You can add tweets using the tweet’s link.  
+*   You can add tweets using the tweet’s link.
 
 When you’ve added all the content you want, just tap Publish and your Moment will go live.
 
