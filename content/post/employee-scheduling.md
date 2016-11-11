@@ -2,7 +2,7 @@
 author = ""
 date = "2016-11-11T21:45:56+00:00"
 description = "Effective, problem-free employee scheduling for restaurants is possible. This post shows how. "
-draft = true
+draft = false
 image = "/blog/forestryio/images/image04-1.jpg"
 tags = []
 title = "7 Employee Scheduling Strategies For Restaurants"
