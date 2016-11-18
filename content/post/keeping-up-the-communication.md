@@ -2,7 +2,7 @@
 author = "Naomi Clark"
 date = "2016-06-24T19:49:39+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/watch.jpg"
 tags = ["Managing employees"]
 title = "Keeping Up the Communication"
