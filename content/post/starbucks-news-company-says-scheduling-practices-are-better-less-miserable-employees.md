@@ -2,7 +2,7 @@
 author = "Shayla Ridore"
 date = "2016-06-21T19:41:00+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/starbucks.jpg"
 tags = ["Industry News"]
 title = "Starbucks News: Company Says Scheduling Practices Are Better, Less Miserable Employees"
