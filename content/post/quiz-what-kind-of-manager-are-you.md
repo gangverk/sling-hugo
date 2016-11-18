@@ -2,7 +2,7 @@
 author = "Naomi Clark"
 date = "2016-06-26T19:56:35+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/manager.jpg"
 tags = ["Managing employees"]
 title = "Quiz: What Kind of Manager Are You?"
