@@ -2,7 +2,7 @@
 author = "Shayla Ridore"
 date = "2016-09-08T20:36:00+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/wall_street_journal600x350px.jpg"
 tags = ["Managing business"]
 title = "Wages Expected to Rise Amid Scramble for Holiday Workers"
