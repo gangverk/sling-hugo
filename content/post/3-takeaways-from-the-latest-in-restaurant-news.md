@@ -2,7 +2,7 @@
 author = "Naomi Clark"
 date = "2016-07-01T20:00:00+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/notjustcoffee.jpeg"
 tags = ["industry news"]
 title = "3 Takeaways From the Latest in Restaurant News"
