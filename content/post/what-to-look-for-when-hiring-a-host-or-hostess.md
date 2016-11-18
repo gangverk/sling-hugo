@@ -2,7 +2,7 @@
 author = "Naomi Clark"
 date = "2016-09-06T20:29:36+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/walking.jpg"
 tags = ["Managing employees"]
 title = "What to Look for When Hiring a Host or Hostess"
