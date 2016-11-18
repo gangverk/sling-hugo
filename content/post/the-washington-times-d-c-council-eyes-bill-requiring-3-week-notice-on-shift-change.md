@@ -2,7 +2,7 @@
 author = "Shayla Ridore"
 date = "2016-06-22T19:43:57+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/chili.jpg"
 tags = ["Industry News"]
 title = "D.C. Council Eyes Bill Requiring 3-Week Notice on Shift Change"
