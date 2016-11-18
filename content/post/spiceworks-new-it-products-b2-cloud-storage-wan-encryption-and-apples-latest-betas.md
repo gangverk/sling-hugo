@@ -2,7 +2,7 @@
 author = "Shayla Ridore"
 date = "2016-07-14T20:20:15+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/spiceworks.jpg"
 tags = []
 title = "New IT Products: B2 Cloud Storage, WAN Encryption, And Apple's Latest Betas"
