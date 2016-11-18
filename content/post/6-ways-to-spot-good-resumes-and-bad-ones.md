@@ -2,7 +2,7 @@
 author = "Naomi Clark"
 date = "2016-07-13T20:12:52+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/lapdog.jpg"
 tags = ["Managing employees"]
 title = "6 Ways to Spot Good Résumés"
