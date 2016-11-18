@@ -2,7 +2,7 @@
 author = "Shayla Ridore"
 date = "2016-07-13T20:16:14+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/stretch.png"
 tags = ["Managing employees"]
 title = "How to Keep Your Company's Staff Turnover Rate Low"
