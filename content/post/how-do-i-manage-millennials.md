@@ -2,7 +2,7 @@
 author = "Naomi Clark"
 date = "2016-06-21T19:35:11+00:00"
 description = ""
-draft = false
+draft = true
 image = "/blog/forestryio/images/restaurant-woman.jpg"
 tags = ["Managing employees"]
 title = "How Do I Manage Millenials?"
