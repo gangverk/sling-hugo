@@ -1,7 +1,7 @@
 +++
 author = ""
 date = "2016-11-21T15:29:57+00:00"
-description = ""
+description = "This article shares best practices to schedule my employees and a tool to make it all easier. "
 draft = false
 image = "/blog/forestryio/images/schedule%20my%20employees.jpg"
 tags = []
@@ -10,7 +10,7 @@ title = "What’s The Best Way To Schedule My Employees?"
 +++
 Scheduling employees involves a lot of moving parts. You’ve got the business’s schedule to consider. You’ve got the employee’s schedule to consider. You’ve got time-off requests and no-shows. You’ve got substitutes and backups. Distribution, accessibility, communication, and employee engagement—all of these have a profound effect on the way you put together your schedule.
 
-What ‘best practices’ can you use to make the scheduling process easier? And is there a tool that satisfies those practices? This article will answer both of those questions. Let’s start with the best practices.
+What ‘best practices’ can you use to make the scheduling process easier? And is there a [tool](https://getsling.com/blog/post/free-employee-scheduling-software/) that satisfies those practices? This article will answer both of those questions. Let’s start with the best practices.
 
 ## 1\. Create the schedule well in advance
 
@@ -28,7 +28,7 @@ To make the process easier, consider using an Excel spreadsheet. The columns and
 
 Even the easiest-to-read schedule created well in advance is useless if it’s not easy to access. Your employees need to be able to reference it at work, at home, and on the go. For this reason, the method of distribution that may have worked for you in the past, likely won’t work in the present.
 
-Posting the schedule on the the wall in the break room no longer works as an effective means of distribution. While it is certainly available to those at work, it’s not accessible to those at home or on the go. Similarly, handing out the schedule doesn’t work as well as it once did. Many employees have gone digital and would lose or forget to reference a paper copy. And while you may think the digital solution is email, think again. Most of your employees don’t use email anymore. Using this tool to distribute your schedule would just be a waste of time.
+Posting the schedule on the the wall in the break room no longer works as an effective means of distribution. While it is certainly available to those at work, it’s not accessible to those at home or on the go. Similarly, handing out the schedule doesn’t work as well as it once did. Many employees have gone digital and would lose or forget to reference a paper copy. And while you may think the digital solution is email, think again. Most of [your employees](https://getsling.com/blog/post/managing-millennials/) don’t use email anymore. Using this tool to distribute your schedule would just be a waste of time.
 
 Storing your schedule in the cloud is the most convenient way to make it accessible to all your employees all the time. Employees can log on from their mobile phone or tablet to view and request changes to the schedule. In addition, storing your document in the cloud makes version control easier. With other methods, when changes were made, you would have to send out an updated schedule. This would introduce the potential for confusion. Which version is the most up-to-date version?
 
@@ -60,9 +60,9 @@ Your plan B can also include using technology to help reduce no-shows or prevent
 
 Communication between management and team members is important. And more often than not, speed of communication is the key to making this easier. Equally as important is keeping employees current with what’s going on within the business itself.
 
-If you have information about your schedule, updates on a team goal, events in the community that relate to your business, or just something fun you’d like to share, consider using a social-media app like Twitter or Facebook.
+If you have information about your schedule, updates on a team goal, events in the community that relate to your business, or just something fun you’d like to share, consider using a social-media app like [Twitter](https://getsling.com/blog/post/what-twitter-moments-means-for-small-businesses/) or Facebook.
 
-Try creating your own personalized digital “business space”. There you can provide news updates, share files, pictures and videos, and chat about the business in general. Keeping all your team members “in the loop” is a great way to encourage employee engagement and boost morale. And by sharing articles about the skills that make a good server, you can keep them thinking about how they can improve.
+Try creating your own personalized digital “business space”. There you can provide news updates, share files, pictures and videos, and chat about the business in general. Keeping all your team members “in the loop” is a great way to encourage [employee engagement](https://getsling.com/blog/post/employee-engagement-ideas/) and boost morale. And by sharing articles about the skills that make a good server, you can keep them thinking about how they can improve.
 
 ## The best scheduling solution
 
@@ -80,4 +80,4 @@ Sling’s cloud-based program also provides a central location where employees c
 
 Sling also offers powerful communication tools that let you contact everyone at the same time, a specific group of employees, or just one person through the messages feature. This cuts down on the difficult task of finding substitutes.
 
-These features, and many more, reduce the time it takes to create and manage restaurant schedules. They help managers bring teams together, keep everyone informed, and build better company culture. You don’t have to use multiple apps to solve your problems. You don’t have to use apps that were created for different industries. You don’t have to force out-of-the-box tools to work. There’s a single solution made especially for the restaurant industry: Sling.
+These features, and many more, reduce the time it takes to create and manage restaurant schedules. They help managers bring teams together, keep everyone informed, and build better company culture. You don’t have to use multiple apps to solve your problems. You don’t have to use apps that were created for different industries. You don’t have to force out-of-the-box tools to work. There’s a single solution made especially for the restaurant industry: [Sling](https://getsling.com/).
