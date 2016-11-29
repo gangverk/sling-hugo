@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 
 +++
 ![/blog/forestryio/images/image03-1.jpg](/blog/forestryio/images/image03-1.jpg)
