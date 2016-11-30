@@ -1,7 +1,7 @@
 +++
 title = "Title of post here"
 description = ""
-image = "https://getsling.com/css/images/temp/feature1.png"
+image = "/blog/forestryio/images/sling.png"
 author = "Your name here"
 tags = []
 +++
