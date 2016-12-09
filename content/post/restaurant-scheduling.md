@@ -1,5 +1,6 @@
 +++
 draft = false
+title = "8 Restaurant Scheduling Tips For A More Productive Team"
 
 +++
 ![/blog/forestryio/images/image01-1.jpg](/blog/forestryio/images/image01-1.jpg)
