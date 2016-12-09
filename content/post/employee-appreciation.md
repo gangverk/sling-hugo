@@ -1,9 +1,9 @@
 +++
 draft = false
 title = "34 Employee Appreciation Ideas That Won’t Break The Bank"
-
+date = "2016-12-8T14:27:00+00:00"
+image = "/blog/forestryio/images/image03-1.jpg"
 +++
-![/blog/forestryio/images/image03-1.jpg](/blog/forestryio/images/image03-1.jpg)
 
 Employee appreciation has a reputation for being difficult. First you’ve got to think of some way to do it. What will my employees respond to? What will they enjoy? And then you’ve got money to consider. It can’t be too expensive or you won’t be able to do it often enough to make it worthwhile.
 
