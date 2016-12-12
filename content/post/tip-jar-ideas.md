@@ -2,8 +2,8 @@
 author = "Sling"
 date = "2016-12-11T14:24:00-05:00"
 description = "This article lists 15 of the best tip jar ideas for your business."
-draft = true
-image = "/blog/forestryio/images/sling.png"
+draft = false
+image = ""
 tags = []
 title = "The 15 Best Tip Jar Ideas For Your Business"
 
