@@ -1,7 +1,7 @@
 +++
 author = "Sling"
 date = "2016-12-18T10:08:00-05:00"
-description = ""
+description = "Whether you make use of online scheduling apps, have your own tools, or rely on pen-and-paper, here are 6 tips for creating the perfect work schedule for your team."
 draft = true
 image = "/blog/forestryio/images/work%20schedule.jpg"
 tags = []
