@@ -2,7 +2,7 @@
 author = "Sling"
 date = "2016-12-26T10:10:00-05:00"
 description = "Discover 12 quick team-building activities. From group calisthenics to crossword races, you can build a cohesive team without breaking the bank."
-draft = true
+draft = false
 image = "/blog/forestryio/images/image02-6.jpg"
 tags = []
 title = "12 Quick Team-Building Activities for Small Business Leaders"
