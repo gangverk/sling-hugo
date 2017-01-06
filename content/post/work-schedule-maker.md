@@ -2,7 +2,7 @@
 author = "Your name here"
 date = "2017-01-06T19:28:59+00:00"
 description = "Discover the 8 best work schedule makers for restaurants and learn why certain features are more important than others."
-draft = true
+draft = false
 image = "/blog/forestryio/images/image05.jpg"
 tags = []
 title = "What’s The Best Work Schedule Maker For Restaurants?"
