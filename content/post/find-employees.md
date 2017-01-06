@@ -1,6 +1,6 @@
 +++
-author = "Your name here"
-date = "2017-01-06T16:58:20+00:00"
+author = "Sling"
+date = "2017-01-04T11:58:00-05:00"
 description = "Discover 9 ways to find employees for your business and learn why your business identity and putting greatness before experience is so important."
 draft = false
 image = "/blog/forestryio/images/image02-7.jpg"
