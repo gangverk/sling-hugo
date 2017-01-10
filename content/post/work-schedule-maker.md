@@ -1,5 +1,5 @@
 +++
-author = "Your name here"
+author = ""
 date = "2017-01-06T19:28:59+00:00"
 description = "Discover the 8 best work schedule makers for restaurants and learn why certain features are more important than others."
 image = "/blog/forestryio/images/image05.jpg"
