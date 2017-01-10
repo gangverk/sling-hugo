@@ -1,9 +1,11 @@
 +++
 draft = false
+016-06-26T19:56:35+00:00"
 title = "8 Restaurant Scheduling Tips For A More Productive Team"
+image = "/blog/forestryio/images/image01-1.jpg"
+
 
 +++
-![/blog/forestryio/images/image01-1.jpg](/blog/forestryio/images/image01-1.jpg)
 
 Restaurant scheduling is about more than just matching names to time slots. If it were that simple, you could draw names from a hat and still come up with something that works. Putting together a restaurant schedule is about creating a productive team. Because of that, it takes planning, forethought, and sometimes a bit of creativity to produce a schedule that is good for both your business and your employees.
 
