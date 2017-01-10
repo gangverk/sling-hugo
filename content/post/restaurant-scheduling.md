@@ -1,6 +1,6 @@
 +++
 draft = false
-016-06-26T19:56:35+00:00"
+date = "2016-05-21T15:29:57+00:00"
 title = "8 Restaurant Scheduling Tips For A More Productive Team"
 image = "/blog/forestryio/images/image01-1.jpg"
 
