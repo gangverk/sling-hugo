@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-01-04T11:58:00-05:00"
 description = "Discover 9 ways to find employees for your business and learn why your business identity and putting greatness before experience is so important."
-draft = false
 image = "/blog/forestryio/images/image02-7.jpg"
 tags = []
 title = "The 9 Best Ways To Find Employees For Your Business"
