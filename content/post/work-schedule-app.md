@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-01-13T20:19:29+00:00"
 description = "Discover the 7 best work schedule apps and find out why only one can really make managing—not just scheduling—so much easier."
-draft = true
 image = "/blog/forestryio/images/work schedule app.jpg"
 tags = []
 title = "What’s The Best Work Schedule App For My Team?"
