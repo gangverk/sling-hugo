@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-01-20T20:13:00-05:00"
 description = "Discover the best way to prepare a restaurant budget and learn what software tools can help you control the costs associated with wage expenditures."
-draft = true
 image = "/blog/forestryio/images/image04-4.jpg"
 tags = []
 title = "How To Prepare A Restaurant Budget"
