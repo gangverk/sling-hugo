@@ -21,7 +21,7 @@ That said, some form of computerized record keeping is your best bet. Businesses
 
 ![](/blog/forestryio/images/image05-1.jpg)
 
-Digital records take the form of a very general spreadsheet program like Microsoft Excel all the way up to a very specific restaurant-focused accounting and budgeting package like QuickBooks For Restaurants. Regardless of the method you choose, you’ll need some way to keep track of things like immediate costs, daily sales, projected expenses, and much more so make sure the software you choose can handle everything.
+Digital records take the form of a very general spreadsheet program like Microsoft Excel all the way up to a very specific restaurant-focused accounting and budgeting package like [QuickBooks For Restaurants](https://payroll.intuit.com/restaurant-accounting/). Regardless of the method you choose, you’ll need some way to keep track of things like immediate costs, daily sales, projected expenses, and much more so make sure the software you choose can handle everything.
 
 ## 2\. Calculate Costs
 
@@ -29,7 +29,7 @@ Digital records take the form of a very general spreadsheet program like Microso
 
 Many of the costs associated with running a restaurant can be anticipated. You know you’ll have fixed costs that stay pretty much the same from month to month or year to year like insurance and rent or loan payments. You know you’ll have semi-variable costs that will change from month to month like employee wages and utilities. And you know you’ll have variable costs that will change constantly like supplies and repairs.
 
-Don’t get bogged down in the minutiae of fixed vs. semi-variable vs. variable. Just record what you spend every day, every week, and every month. Then, add up the number to produce a total costs number for the month.
+Don’t get bogged down in the minutiae of fixed vs. [semi-variable](http://www.investopedia.com/terms/s/semivariablecost.asp) vs. variable. Just record what you spend every day, every week, and every month. Then, add up the number to produce a total costs number for the month.
 
 Alternatively, you could calculate your totals every two weeks. This works well if you pay your employees bimonthly. Honestly, you can record your costs on whatever timeframe works best for you. Sometimes it’s nice to see what you need to make every day in order to cover your costs. Sometimes you don’t need that amount of precision. It all depends on what you need to get ahold of your restaurant budget.
 
@@ -73,7 +73,7 @@ Remember that the original purpose of a restaurant—other than great food and g
 
 Using software is one of the best ways to keep your restaurant budget under control while at the same time working to increase your profits. One of the biggest cost in your budget will likely be wages. Apps like Sling can help with that.
 
-Using Sling serves two primary purposes. First, it helps make scheduling easier. Scheduling employees can be one of the most difficult parts of running a restaurant. Sling helps make that part easier by allowing you to schedule faster using tools like copy and paste, recurring shifts, and color-coded employees. Sling even assists you by notifying you if you’ve overlapped shifts or double-booked someone. Once your schedule is complete, Sling makes it simple to get that schedule into everyone’s hands. Distributing the schedule is as easy as sharing a link with all your employees. Once the schedule has been sent, Sling even sends notifications to employees reminding them when they work or when a shift has become available.
+Using [Sling](http://getsling.com) serves two primary purposes. First, it helps make [scheduling](https://getsling.com/blog/post/work-schedule/) easier. Scheduling employees can be one of the most difficult parts of running a restaurant. Sling helps make that part easier by allowing you to schedule faster using tools like copy and paste, recurring shifts, and color-coded employees. Sling even assists you by notifying you if you’ve overlapped shifts or double-booked someone. Once your schedule is complete, Sling makes it simple to get that schedule into everyone’s hands. Distributing the schedule is as easy as sharing a link with all your employees. Once the schedule has been sent, Sling even sends notifications to employees reminding them when they work or when a shift has become available.
 
 The second purpose of the Sling app, is to help you keep wage expenditures under control. Sling does this by helping you monitor overtime so that you don’t exceed costs because you accidently scheduled someone for too much time each week. These apps also help decrease the time it takes for you to get other things done associated with guiding your employees. Sling helps you communicate faster by allowing you to send messages, files, photos, videos, even links to individuals, user-defined groups, of your entire staff with just the push of a button.
 
