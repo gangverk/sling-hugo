@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-01-27T17:06:58+00:00"
 description = "Learn 11 tips for writing an effective restaurant employee handbook and learn how cloud-based software can help make this process easier."
-draft = true
 image = "/blog/forestryio/images/Depositphotos_39473449_l-2015.jpg"
 tags = []
 title = "11 Tips For Making A Restaurant Employee Handbook"
