@@ -1,5 +1,5 @@
 +++
-author = "Your name here"
+author = "Sling"
 date = "2017-02-03T10:19:00-05:00"
 description = "Learn the 8 steps to effective restaurant accounting and discover one overlooked factor that can make the entire process simpler."
 image = "/blog/forestryio/images/image05-2.jpg"
