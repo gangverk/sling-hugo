@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-02-10T12:20:00-05:00"
 description = "Discover 10 traits that make for a great waiter and learn how to incorporate those characteristics into writing the perfect waiter job description."
-draft = true
 image = "/blog/forestryio/images/5lbiui7c_ps-rob-bye.jpg"
 tags = []
 title = "How To Write The Perfect Waiter Job Description"
