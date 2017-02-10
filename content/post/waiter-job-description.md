@@ -22,13 +22,13 @@ Your definition of a great waiter may vary slightly depending on the type of res
 
 Your waiters should be always strive to be efficient. At the same time, they shouldn’t be rushing around like they’re late for the bus. This causes an unnecessary distraction for your guests. Efficiency manifests itself in the following ways:
 
-*   Calmness  
+*   Calmness
 
-*   Getting food and drink to the table promptly  
+*   Getting food and drink to the table promptly
 
-*   Checking on customer needs periodically  
+*   Checking on customer needs periodically
 
-*   Not making customers wait overly long for any one thing  
+*   Not making customers wait overly long for any one thing
 
 ### 2\. Manners
 
@@ -62,7 +62,7 @@ Cleanliness is one of the most important traits in the restaurant industry. From
 
 ### 8\. Knowledge Of The Menu
 
-![](/blog/forestryio/images/5lbiui7c_ps-rob-bye-1.jpg)
+In a restaurant where the menu changes, it’s important for the waiter to be able to keep track of what’s being made and when. Knowledge of the menu requires preparation, care, and communication. A great waiter should be able to commit this information to memory, or at least be willing to learn how to do so.  
 
 ### 9\. Team-Oriented
 
@@ -80,15 +80,15 @@ Now that we’ve discussed what makes for a great waiter, let’s see how we can
 
 A job description is usually broken into 4 pieces:
 
-*   Job title  
+*   Job title
 
-*   Job summary  
+*   Job summary
 
-*   [Responsibilities](https://getsling.com/blog/post/restaurant-employee-handbook/) and duties  
+*   [Responsibilities](https://getsling.com/blog/post/restaurant-employee-handbook/) and duties
 
-*   Qualifications and skills  
+*   Qualifications and skills
 
-*   Let’s take those one at a time and tailor them to our needs.  
+*   Let’s take those one at a time and tailor them to our needs.
 
 ### 1\. Job Title
 
@@ -110,50 +110,50 @@ The qualifications and skills section is the place to list education requirement
 
 ## Sample Waiter Job Description
 
-Wanted: Head Waiter
+### Wanted: Head Waiter
 
 A 5-star, formal-dining restaurant needs a friendly, organized, and efficient waiter to join our team. If you have a love for food and providing a stellar dining experience, we want you to work in tandem with our top-notch servers and chefs to dazzle our customers. The successful candidate will be responsible for cultivating a dignified yet friendly relationship with our patrons while ensuring that they receive prompt, pleasant service while dining at our restaurant.
 
-Responsibilities include:
+### Responsibilities include:
 
-*   Greet customers warmly.  
+*   Greet customers warmly.
 
-*   Establish professional <span style="letter-spacing: 0.01em;">relationship with</span> guest<span style="letter-spacing: 0.01em;">.</span>  
+*   Establish professional <span style="letter-spacing: 0.01em;">relationship with</span> guest<span style="letter-spacing: 0.01em;">.</span>
 
-*   Inform patrons of specials and provide enthusiastic advice about ordering.  
+*   Inform patrons of specials and provide enthusiastic advice about ordering.
 
-*   Record customer orders and relay them to the kitchen staff.  
+*   Record customer orders and relay them to the kitchen staff.
 
-*   Take care of all customer needs making sure they never want for anything.  
+*   Take care of all customer needs making sure they never want for anything.
 
-*   Suggest additional items like desserts and beverages when appropriate.  
+*   Suggest additional items like desserts and beverages when appropriate.
 
-*   Work together with other servers and kitchen staff to ensure prompt delivery of all food and drinks.  
+*   Work together with other servers and kitchen staff to ensure prompt delivery of all food and drinks.
 
-*   Maintain cleanliness of all public areas.  
+*   Maintain cleanliness of all public areas.
 
-*   Maintain cleanliness of personal appearance at all times.  
+*   Maintain cleanliness of personal appearance at all times.
 
-Qualifications:
+### Qualifications:
 
-*   5+ years experience preferred  
+*   5+ years experience preferred
 
-*   Familiarity with point-of-sale software  
+*   Familiarity with point-of-sale software
 
-*   Ability to lift up to 30 pounds  
+*   Ability to lift up to 30 pounds
 
-*   Ability to stay calm, organized, and efficient under pressure  
+*   Ability to stay calm, organized, and efficient under pressure
 
-*   High school diploma/GED preferred  
+*   High school diploma/GED preferred
 
-*   [Flexibility](https://getsling.com/blog/post/schedule-my-employees/) and willingness to work weekends, evenings, and holidays as needed  
+*   [Flexibility](https://getsling.com/blog/post/schedule-my-employees/) and willingness to work weekends, evenings, and holidays as needed
 
-*   Enthusiasm for good food that is easily expressed to customers  
+*   Enthusiasm for good food that is easily expressed to customers
 
-*   Able to memorize 3-5 specials and their descriptions for easy recitation to guests  
+*   Able to memorize 3-5 specials and their descriptions for easy recitation to guests
 
-*   Observant and attendant to all customer needs  
+*   Observant and attendant to all customer needs
 
-*   Impeccable manners or the willingness to learn  
+*   Impeccable manners or the willingness to learn
 
 Writing a perfect waiter job description doesn’t have to be a complicated task. Just identify the qualities you need in a good waiter then use the template above to build your description around those qualities. For further restaurant-management resources and help scheduling your employees, check out [GetSling.com](https://getsling.com/) today.
