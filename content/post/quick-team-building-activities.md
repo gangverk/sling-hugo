@@ -2,9 +2,8 @@
 author = "Sling"
 date = "2016-12-26T10:10:00-05:00"
 description = "Discover 12 quick team-building activities. From group calisthenics to crossword races, you can build a cohesive team without breaking the bank."
-draft = false
 image = "/blog/forestryio/images/image02-6.jpg"
-tags = []
+tags = ""
 title = "12 Quick Team-Building Activities for Small Business Leaders"
 
 +++
@@ -62,7 +61,7 @@ If you have the opportunity to get ahold of some type of buzzer, you can have a 
 
 ![](/blog/forestryio/images/image01-4.jpg)
 
-Group meditation is a great way to give your employees a break from their busy work day while at the same time building a more cohesive team. The [benefits](http://www.huffingtonpost.com/2014/09/19/meditation-benefits_n_5842870.html) of meditation are significant. Meditation, among other things, reduces stress, improves concentration, increases happiness, and benefits cardiovascular and immune health. All great things for keeping your employees happy and healthy.
+Group meditation is a great way to give your employees a break from their [busy work day](https://getsling.com/blog/post/work-schedule-app/) while at the same time building a more cohesive team. The [benefits](http://www.huffingtonpost.com/2014/09/19/meditation-benefits_n_5842870.html) of meditation are significant. Meditation, among other things, reduces stress, improves concentration, increases happiness, and benefits cardiovascular and immune health. All great things for keeping your employees happy and healthy.
 
 If possible, get enough yoga mats so that everyone can lie on the floor. In addition, you may have to bring in someone who is familiar with running a meditation session so your employees get the most out of this quick team-building activity.
 
@@ -82,4 +81,4 @@ Get two of the same object— empty carafes or pans work well. Label one “A”
 
 ## 12\. Watch A Funny YouTube Video
 
-There’s so much out there to make us laugh these days and YouTube has pretty much all of it. Take some time out of your busy schedule, gather the troops together, and watch a hilarious viral video. There are so many to choose from you really can’t go wrong. One of our favorites is this [Bad Lip Reading of the NFL](https://www.youtube.com/watch?v=W-kGosnzvjU&feature=player_embedded).
+There’s so much out there to make us laugh these days and YouTube has pretty much all of it. Take some time out of your [busy schedule](https://getsling.com/blog/post/schedule-my-employees/), gather the troops together, and watch a hilarious viral video. There are so many to choose from you really can’t go wrong. One of our favorites is this [Bad Lip Reading of the NFL](https://www.youtube.com/watch?v=W-kGosnzvjU&feature=player_embedded).
