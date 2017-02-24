@@ -2,7 +2,6 @@
 author = "Naomi Clark"
 date = "2016-07-29T20:23:25+00:00"
 description = ""
-draft = false
 image = "/blog/forestryio/images/busyrestaurant.jpg"
 tags = ["Managing employees"]
 title = "5 Tips for Initiating Employees - And Keeping Them Around"
@@ -26,4 +25,4 @@ The secret is in initiating employees — some human resources professionals cal
 
 5.  Social interaction. So much of enjoying a job is liking the people you work with. Fostering a friendly work environment, whether it’s offering free food and drink or scheduling optional off-site social gatherings, can go a long way in creating a positive work culture that will keep employees around.
 
-All of this is easier with [Sling](https://getsling.com) on your side. Sling provides seamless shift scheduling and internal communication for retail businesses and restaurants.
+All of this is easier with [Sling](https://getsling.com) on your side. Sling provides seamless [shift scheduling](https://getsling.com/blog/post/work-schedule/) and internal communication for retail businesses and restaurants.
