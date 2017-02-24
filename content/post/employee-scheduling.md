@@ -2,9 +2,8 @@
 author = ""
 date = "2016-11-11T21:45:56+00:00"
 description = "Effective, problem-free employee scheduling for restaurants is possible. This post shows how. "
-draft = false
 image = "/blog/forestryio/images/image04-1.jpg"
-tags = []
+tags = ""
 title = "7 Employee Scheduling Strategies For Restaurants"
 type = "default"
 
@@ -27,7 +26,7 @@ The problem with the pen-and-paper method is that it’s permanent. When you cre
 
 And the potential for errors with the pen-and-paper method is always high. Did you forget a time-off request? Did you double book an employee? Did you make the right change after employee A called in sick? Though the pen-and-paper method has been around for many years, it’s quickly becoming outdated and impractical.
 
-Computers have made the process easier, but they’re still not being utilized to their potential. Though the Excel spreadsheet is computer-based, it’s really only a small step up from the pen-and-paper method on which it’s based. Yes, the Excel spreadsheet is much easier to change when the need arises. But the spreadsheet still faces problems with distribution (which we’ll talk about below) as well as the potential for errors. Even cloud-based documents and spreadsheets, like Google Docs and Sheets, still possess many of the same problems.
+[Computers have made the process easier](https://getsling.com/blog/post/work-schedule-app/), but they’re still not being utilized to their potential. Though the Excel spreadsheet is computer-based, it’s really only a small step up from the pen-and-paper method on which it’s based. Yes, the Excel spreadsheet is much easier to change when the need arises. But the spreadsheet still faces problems with distribution (which we’ll talk about below) as well as the potential for errors. Even cloud-based documents and spreadsheets, like Google Docs and Sheets, still possess many of the same problems.
 
 ## Sharing with your team
 
