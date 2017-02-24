@@ -2,13 +2,12 @@
 author = "Naomi Clark"
 date = "2016-08-30T18:04:00+00:00"
 description = ""
-draft = false
 image = "/blog/forestryio/images/workspace.jpg"
 tags = ["Business"]
 title = "3 Top Tips to Stay Organized in a Fast Paced Job"
 
 +++
-Even the most efficient people can become overwhelmed when the pace of work ratchets up to high speed. Add in a sudden influx of customers or an unexpected exodus of employees, and it can feel like all your hard work is just getting harder — nevermind finding time to sleep or think.
+Even the most efficient people can become overwhelmed when the pace of work ratchets up to high speed. Add in a sudden influx of customers or an unexpected exodus of [employees](https://getsling.com/blog/post/schedule-my-employees/), and it can feel like all your hard work is just getting harder — nevermind finding time to sleep or think.
 
 Staying organized is a less a matter of never forgetting or misplacing anything, and more a function of committing to the same habits over time. These tips are a guide to how to keep your mind on track.
 
@@ -34,4 +33,4 @@ Try clearing your workspace, whether it’s a desk or a checkout counter at the 
 
 Like keeping your inbox clear, having a clean workspace is important to free your mind to focus on the tasks ahead. You can become inured to the sight of a million Post-It notes urging you to do something right away. Finish those tasks, and throw the notes in the trash.
 
-To make the purge easier, try going paperless as much as possible. The fewer physical items in your way, the less time you need to spend clearing them. Solutions like Sling make it easy to move some of your work away from the inbox, especially when it comes to scheduling and internal communication.
+To make the purge easier, try going paperless as much as possible. The fewer physical items in your way, the less time you need to spend clearing them. Solutions like Sling make it easy to [move some of your work away](https://getsling.com/blog/post/work-schedule-app/) from the inbox, especially when it comes to scheduling and internal communication.
