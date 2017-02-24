@@ -1,10 +1,9 @@
 +++
-draft = false
-title = "34 Employee Appreciation Ideas That Won’t Break The Bank"
 date = "2016-12-08T14:27:00+00:00"
 image = "/blog/forestryio/images/image03-1.jpg"
-+++
+title = "34 Employee Appreciation Ideas That Won’t Break The Bank"
 
++++
 Employee appreciation has a reputation for being difficult. First you’ve got to think of some way to do it. What will my employees respond to? What will they enjoy? And then you’ve got money to consider. It can’t be too expensive or you won’t be able to do it often enough to make it worthwhile.
 
 Despite the undeserved reputation, there are plenty of ways to show that you value your staff without breaking the bank. This article will give you 34 ways to show your employees that they are valuable.
@@ -129,7 +128,7 @@ No one likes to get off work only to return to a dirty house or apartment. Hire 
 
 ### 29\. Just say thank you
 
-Sometimes, just saying thank you is an effective way to show your employee appreciation. Pull the employee aside (maybe to your office), shake his hand, pat him on the back, and express your gratitude for their hard work.
+Sometimes, just saying thank you is an effective way to show your employee appreciation. Pull the employee aside (maybe to your office), shake his hand, pat him on the back, and express your gratitude for [their hard work](https://getsling.com/blog/post/work-schedule/).
 
 ### 30\. Post a sticky note
 
