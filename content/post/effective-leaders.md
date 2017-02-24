@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2016-10-17T14:27:00+00:00"
 description = "Effective leaders motivate their team to do great things. Ineffective leaders often have undermotivated, underperforming employees. This article shares 11 habits of highly effective leaders."
-draft = false
 image = "/blog/forestryio/images/effective leaders-2.jpg"
 tags = ["effective leaders", "leadership", "management"]
 title = "11 Habits Of Highly Effective Leaders"
@@ -38,13 +37,13 @@ As Ralph Waldo Emerson famously wrote, “What you do speaks so loudly I cannot 
 
 ![](/blog/forestryio/images/image02-1.jpg)
 
-If you’re not willing to put in the hard work and get the job done, why should your employees? There’s more to being a leader than just assigning tasks and going home. Effective leaders are the trailblazer of an exploring party: they’re out in front clearing the way for the rest of the team behind them.
+If you’re not willing to put in the hard work and get the job done, why should [your employees](https://getsling.com/blog/post/schedule-my-employees/)? There’s more to being a leader than just assigning tasks and going home. Effective leaders are the trailblazer of an exploring party: they’re out in front clearing the way for the rest of the team behind them.
 
 As a small business owner, you have to be willing to do every single job, from fry cook to waiter to dishwasher, if the need arises. You have to show your team the success of your business means everything to you and that you’re willing to do whatever it takes to ensure success. When your team sees you leading the way and going the extra mile, they will feel motivated to match your efforts.
 
 # 4\. Listen
 
-An effective leader is always ready to listen to her employees. By doing so, she can understand how her employees work. She can understand their strengths and weaknesses. She can understand what leadership style is most effective for them.
+An effective leader is always ready to listen to her employees. By doing so, she can understand [how her employees work](https://getsling.com/blog/post/work-schedule-maker/). She can understand their strengths and weaknesses. She can understand what leadership style is most effective for them.
 
 The effective leader knows that listening to feedback and ideas is a form of positive reinforcement—it lets the employee know that he is contributing and is a valuable member of the team.
 
