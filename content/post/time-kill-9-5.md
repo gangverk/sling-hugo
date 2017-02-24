@@ -1,6 +1,5 @@
 +++
 date = "2016-09-19T22:06:00+00:00"
-draft = false
 image = "/blog/forestryio/images/tired.jpg"
 tags = ["Business"]
 title = "It's time to kill the 9-to-5"
@@ -20,7 +19,7 @@ The 9-to-5 schedule doesn’t conform to most people’s lives, or their workflo
 
 Workers also find schedules dogmatic. We’re adults, and we like autonomy over our lives.
 
-“In previous places where I’ve worked, you want to make a first impression. You want to be first person in, last one out,” said Alexa Scordato, a vice president of marketing at Stack Overflow, a message board for programmers. She also can pick and choose her work schedule. “That’s really broken and really flawed.”
+“In previous places where I’ve worked, you want to make a first impression. You want to be first person in, last one out,” said Alexa Scordato, a vice president of marketing at Stack Overflow, a message board for programmers. She also can pick and choose her [work schedule](https://getsling.com/blog/post/work-schedule/). “That’s really broken and really flawed.”
 
 More than half of employees surveyed by the Society of Human Resource Management cited flexibility as a “very important” aspect of job satisfaction in this year’s Employee Satisfaction & Engagement Report. The share of households with two working parents has risen nearly 50 percent since 1970, according to a Pew survey from last year—yet workplace structure by and large hasn’t changed to adapt to the new norm. That same survey found that almost a third of parents who say they have difficulty balancing work and family life also find parenting stressful all or most of that time.
 
@@ -42,11 +41,8 @@ Often the four-day week means working 10-hour days, or longer, in exchange for a
 
 And flexibility seems to scare some employers. Yahoo’s Marissa Mayer famously banned working from home, in a bid to turn around the flailing company. Best Buy abandoned its work-wherever-and-whenever policy in 2013 as it faced financial struggles under new management. “It’s all hands on deck,” a spokesman said at that time. “That means having employees in the office as much as possible to collaborate and connect on ways to improve our business.”
 
-Employees, too, might worry that with no set schedule, they might effectively be expected to work all the time—or respond to e-mails at the whims of somebody else’s weird schedule.
-But research published earlier this year outlined a possible way to make flexibility work for both employees and employers.
+Employees, too, might worry that with no set schedule, they might effectively be expected to work all the time—or respond to e-mails at the whims of somebody else’s weird schedule. But research published earlier this year outlined a possible way to make flexibility work for both employees and employers.
 
-In that study, around 500 workers at an unnamed Fortune 500 company were given no set schedules. Some got in later; others left midday. Their schedules varied from day to day. They didn’t work fewer hours, just different ones that better fit their lives. The system hinged on ongoing communication about how people worked; for months, facilitators led meetings with employees and their managers about how to get work done with varying schedules.
-The employees who participated said their overall well-being improved, a feeling the researchers attributed to their having a sense of control over their lives. The quality of their work didn’t suffer, either, the researchers found.
-If that sounds too extreme, employers might give workers a little wiggle room at the ends of their days. All we really want is a little control—and to make that 6 o’clock yoga class once in a while.
- 
-See the article as it originally posted on Bloomberg [here](http://www.bloomberg.com/news/articles/2016-09-19/it-s-time-to-kill-the-9-to-5) 
+In that study, around 500 workers at an unnamed Fortune 500 company were given no set schedules. Some got in later; others left midday. Their schedules varied from day to day. They didn’t work fewer hours, just different ones that better fit their lives. The system hinged on ongoing communication about how people worked; for months, facilitators led meetings with employees and their managers about how to get work done with varying schedules. The employees who participated said their overall well-being improved, a feeling the researchers attributed to their having a sense of control over their lives. The quality of their work didn’t suffer, either, the researchers found. If that sounds too extreme, employers might give workers a little wiggle room at the ends of their days. All we really want is a little control—and to make that 6 o’clock yoga class once in a while.
+
+See the article as it originally posted on Bloomberg [here](http://www.bloomberg.com/news/articles/2016-09-19/it-s-time-to-kill-the-9-to-5)
