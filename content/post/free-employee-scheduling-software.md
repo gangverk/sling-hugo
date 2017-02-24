@@ -2,9 +2,8 @@
 author = "Sling"
 date = "2016-11-01T11:00:00-04:00"
 description = "This article shares nine free employee scheduling software tools and how they work in the restaurant setting."
-draft = false
 image = "/blog/forestryio/images/image00.png"
-tags = []
+tags = ""
 title = "9 Free Employee Scheduling Software Tools"
 
 +++
@@ -32,7 +31,7 @@ Microsoft Word (or some other word processing software) is basically just glorif
 
 Even if you do decide to use Word as your schedule maker, it’s still not super conducive to rapid mass distribution. Like pen and paper, a Word document requires another step to get it into your employee’s hands. That step could be printing it and posting it or handing it out. It could be emailing it to all your employees (as we’ll discuss below). Regardless of your choice, it’s still another step that makes your life just that much more difficult.
 
-And while a Word document is easier to change than pen and paper, it’s still not the most user-friendly tool out there. Formatting a Word document to reflect your business’s work schedule can be a daunting task that may require hours upon hours just to set up. Plus, if you update a Word document, you’ll have to resend the whole thing and then make sure everyone sees the new version.
+And while a Word document is easier to change than pen and paper, it’s still not the most user-friendly tool out there. Formatting a Word document to reflect [your business’s work schedule](https://getsling.com/blog/post/schedule-my-employees/) can be a daunting task that may require hours upon hours just to set up. Plus, if you update a Word document, you’ll have to resend the whole thing and then make sure everyone sees the new version.
 
 In addition, you won’t see a Word document let you know when you’ve scheduled someone to work during a time when they’re not available. Yes a Word document is a step up from the pen and paper, but it’s only a very small step. And while it is more-or-less free, there are certainly better free alternatives out there. Keep reading to find more.
 
