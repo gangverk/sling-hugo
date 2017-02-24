@@ -2,9 +2,8 @@
 author = "Naomi Clark"
 date = "2016-06-23T19:46:32+00:00"
 description = ""
-draft = false
 image = "/blog/forestryio/images/writing.jpg"
-tags = []
+tags = ""
 title = "How Do I Keep My Employees Longer?"
 
 +++
@@ -32,4 +31,4 @@ Finally, offer flexibility in employee’s schedules. Some estimates say a third
 
 It’s not a zero-sum game: employees’ and managers’ schedules need not be at odds, given the right tools.
 
-Solutions like [Sling](https://getsling.com) help both employers and employees seamlessly integrate schedules and communicate with one another.
+Solutions like [Sling](https://getsling.com) help both employers and [employees](https://getsling.com/blog/post/schedule-my-employees/) seamlessly integrate schedules and communicate with one another.
