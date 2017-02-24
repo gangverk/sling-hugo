@@ -1,12 +1,9 @@
 +++
-draft = false
 date = "2016-05-21T15:29:57+00:00"
-title = "8 Restaurant Scheduling Tips For A More Productive Team"
 image = "/blog/forestryio/images/image01-1.jpg"
-
+title = "8 Restaurant Scheduling Tips For A More Productive Team"
 
 +++
-
 Restaurant scheduling is about more than just matching names to time slots. If it were that simple, you could draw names from a hat and still come up with something that works. Putting together a restaurant schedule is about creating a productive team. Because of that, it takes planning, forethought, and sometimes a bit of creativity to produce a schedule that is good for both your business and your employees.
 
 This article shares eight tips for producing a restaurant schedule that creates a more productive team.
@@ -25,7 +22,7 @@ Setting up a consistent process for schedule creation—and sticking to it—can
 
 At its most basic, this comes down to the idea that you should always schedule your best people during the busiest times. That way you know that they won’t fall apart when the business, and your customers, need them the most.
 
-But this tip also encourages us to look at our employee’s strengths when considering where and when to schedule. Is one employee more efficient than another? Perhaps she should be scheduled during the chaotic lunch rush when efficiency is a must. Is one employee more of a people person than another? Perhaps he should be scheduled during the more laid back dinner service when customers are more likely to spend an hour or two at the table and server/customer interaction is more important.
+But this tip also encourages us to look at our employee’s strengths when considering where and [when to schedule](https://getsling.com/blog/post/work-schedule-maker/). Is one employee more efficient than another? Perhaps she should be scheduled during the chaotic lunch rush when efficiency is a must. Is one employee more of a people person than another? Perhaps he should be scheduled during the more laid back dinner service when customers are more likely to spend an hour or two at the table and server/customer interaction is more important.
 
 That’s not to say that we should pigeonhole these employees and restrict them to certain shifts. But we should consider putting strengths where we need them the most.
 
