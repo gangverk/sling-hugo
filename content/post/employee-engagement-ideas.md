@@ -2,9 +2,8 @@
 author = ""
 date = "2016-10-18T03:22:00+00:00"
 description = "This article shares 27 employee engagement ideas you can use to make your employees more motivated and productive."
-draft = false
 image = "/blog/forestryio/images/Employee engagement ideas.jpg"
-tags = []
+tags = ""
 title = "27 Employee Engagement Ideas For a More Productive Team"
 type = "default"
 
@@ -75,7 +74,7 @@ Building pride in the company motivates the employees to see their company as a 
 
 # 16\. Give employees the tools they need to succeed
 
-![](/blog/forestryio/images/Engagement ideas.jpg) There’s nothing more frustrating than not having the resources to do your job effectively. So, make sure your employees do have those resources! It could be something as simple as providing more training or something as complicated as updating the technology they use on a daily basis.
+![](/blog/forestryio/images/Engagement ideas.jpg) There’s nothing more frustrating than not having the resources to do your job effectively. So, make sure your employees do have those resources! It could be something as simple as providing more training or something as complicated as [updating the technology they use](https://getsling.com/blog/post/free-employee-scheduling-software/) on a daily basis.
 
 # 17\. Create a company purpose
 
