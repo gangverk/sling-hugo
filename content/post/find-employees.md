@@ -3,7 +3,7 @@ author = "Sling"
 date = "2017-01-04T11:58:00-05:00"
 description = "Discover 9 ways to find employees for your business and learn why your business identity and putting greatness before experience is so important."
 image = "/blog/forestryio/images/image02-7.jpg"
-tags = []
+tags = ""
 title = "The 9 Best Ways To Find Employees For Your Business"
 
 +++
@@ -23,11 +23,11 @@ So before you hang that sign in the window, take a few minutes and craft your bu
 
 ## 2\. Target Potential Employees With Facebook
 
-Facebook is still one of the best ways to find employees for your business. Facebook has powerful targeting features that let you advertise your job opening(s) to people based on their skills, their location, their age, and countless other variables.got 
+Facebook is still one of the best ways to find employees for your business. Facebook has powerful targeting features that let you advertise your job opening(s) to people based on their skills, their location, their age, and countless other variables.got
 
 ![](/blog/forestryio/images/image04-4.png)
 
-_Source: BetterTeam.com_  
+_Source: BetterTeam.com_
 
 For example, you can specify the area you want your ad to cover. Let’s say it’s Boston. Then you can specify “waiter” or “waitress” as the job title. When you create your ad, it will be distributed to everyone in the Boston area who has “waiter” or “waitress” in their job title. And that’s just a very basic example. There are so many other variables you can include, it makes targeting and finding employees a breeze.
 
@@ -49,7 +49,7 @@ For one thing, it’s pretty much free. All it takes is the cost of the paper, t
 
 Non-profits like the [Wounded Warrior Project](https://www.woundedwarriorproject.org/programs/warriors-to-work/employer-resources) can be a great resource in your quest to find employees. These organizations serve veterans, immigrants, and other groups who just want to work. What’s more, these people are often willing to work hard for the chance to get back on their feet.
 
-In addition to their willingness to work, they’ve also likely received some job training from the non-profit so you don’t have to start from scratch. Background checks are also common practice for non-profit organizations and the people they serve so you know a potential employee has been vetted, if only just at the basic level. That can be one less thing you have to worry about.
+In addition to their willingness to work, they’ve also likely received some job training from the non-profit so you don’t have to start from scratch. [Background checks](http://fitsmallbusiness.com/best-background-check-companies/) are also common practice for non-profit organizations and the people they serve so you know a potential employee has been vetted, if only just at the basic level. That can be one less thing you have to worry about.
 
 ## 7\. Recognize Great Talent When You See It
 
@@ -73,7 +73,7 @@ Job board websites, like signs and flyers, may seem old-fashioned, but they are 
 
 ![](/blog/forestryio/images/image00-7.jpg)
 
-<span style="letter-spacing: 0.01em;">Keep in mind that posting an ad on one of these job boards can quickly bring in triple-digit responses in no time...all to your email inbox. You don’t want that traffic clogging things up so set up a separate email account just for this purpose. Oh, and be sure to leave your phone number out of the posting so your phone isn’t ringing off the hook during business hours.</span>  
+<span style="letter-spacing: 0.01em;">Keep in mind that posting an ad on one of these job boards can quickly bring in triple-digit responses in no time...all to your email inbox. You don’t want that traffic clogging things up so set up a separate email account just for this purpose. Oh, and be sure to leave your phone number out of the posting so your phone isn’t ringing off the hook during business hours.</span>
 
 ## 10\. Add A Careers Page To Your Website
 
