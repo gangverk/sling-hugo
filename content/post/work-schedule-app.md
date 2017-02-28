@@ -17,7 +17,7 @@ One big way to make scheduling easier is to use a work schedule app. These apps 
 
 Schedule Planner is a work schedule app that can help you take control of the employee scheduling process. The app allows you to create unlimited color-coded fields that can be used to represent your employees. These fields can then be distributed on the calendar interface to indicate when an employee works.
 
-![](/blog/forestryio/images/image08-2.png){:style="float: none;"}
+![](/blog/forestryio/images/image08-2.png)
 
 Like Google Calendar, Schedule Planner is cloud-based so distribution, changes, and collaboration are streamlined down to just a few taps of the screen. Keep in mind that Schedule Planner was intended for a single individual so complicated scheduling like overlapping shifts may not be easy, or even possible, with this work schedule app. It’s a simple scheduling tool but it wasn’t created with restaurants or retail businesses in mind.
 
@@ -33,7 +33,7 @@ While Fantastical 2 does have some powerful features (like Apple Watch support a
 
 As the name implies, WorkTime is all about scheduling and tracking work time. This work schedule app lets you create and track complex work schedules with ease. Users can enter a shift in just a few easy taps and then view the entire week’s schedule all on one screen.
 
-![](/blog/forestryio/images/image05-5.png){:style="float: none;"}
+![](/blog/forestryio/images/image05-5.png)
 
 Professional-level features like unlimited jobs, alarms and notifications, and even schedule sharing via Facebook, Twitter, or email make this a useful app for scheduling employees. Users can even add up hours worked and wages earned with WorkTime’s hours calculator.
 
@@ -43,7 +43,7 @@ But, like many of the other work schedule apps on this list, WorkTime was really
 
 As work schedule apps go, Google Docs is pretty basic. It starts out as just a blank sheet of paper so you have to do a lot of extra work to get the schedule looking like a schedule. That may be a deterrent to some folks, as it should be. There are better ways—better apps—to simplify the scheduling process.
 
-![](/blog/forestryio/images/image07-4.png){:style="float: none;"}
+![](/blog/forestryio/images/image07-4.png)
 
 The nice thing about Google Docs is that it’s cloud-based. This means that employees can get access to the schedule at any time or in any place. For you, it means that distribution is easier, as is receiving change requests and making alterations. Google Docs might not be the first choice for a work schedule app, but it’s a start.
 
@@ -51,7 +51,7 @@ The nice thing about Google Docs is that it’s cloud-based. This means that emp
 
 Google Sheets is a step up from Google Docs in that it already has the columns, rows, and cells formatted and ready to go. This removes one big step from the scheduling chore and makes Sheets one of the first work schedule apps that many turn to.
 
-![](/blog/forestryio/images/image06-3.png){:style="float: none;"}
+![](/blog/forestryio/images/image06-3.png)
 
 Google Sheets gives you the flexibility and ease of alteration that comes with a spreadsheet along with the streamlined distribution and alteration that comes with cloud-based apps. Spreadsheets were created for database manipulation and accounting, so common restaurant needs may not addressed by apps like Google Sheets. These apps cover the basics but don’t offer any more help than that.
 
