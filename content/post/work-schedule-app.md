@@ -3,7 +3,7 @@ author = "Sling"
 date = "2017-01-13T20:19:29+00:00"
 description = "Discover the 7 best work schedule apps and find out why only one can really make managing—not just scheduling—so much easier."
 image = "/blog/forestryio/images/work schedule app.jpg"
-tags = []
+tags = ""
 title = "What’s The Best Work Schedule App For My Team?"
 
 +++
@@ -67,9 +67,9 @@ That said, it’s important to keep in mind that Google Calendar can be difficul
 
 ## 7\. Sling
 
-![](/blog/forestryio/images/image04-5.png){:style="float: none;"}
+![](/blog/forestryio/images/image04-5.png)
 
-<span style="letter-spacing: 0.01em;">Sling is a work schedule app made specifically for restaurants, retail, hotel, and healthcare. It combines cloud-based distribution with powerful scheduling features that make even the most complicated schedule into a piece of cake.</span>  
+<span style="letter-spacing: 0.01em;">Sling is a work schedule app made specifically for restaurants, retail, hotel, and healthcare. It combines cloud-based distribution with powerful scheduling features that make even the most complicated schedule into a piece of cake.</span>
 
 Sling makes it easy to schedule a large number of employees thanks to the ability to copy schedules between days and weeks, or simply dragging and dropping shifts where you like them. You can even create recurring shifts that appear in the same place every time.
 
