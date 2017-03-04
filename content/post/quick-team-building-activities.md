@@ -61,7 +61,7 @@ If you have the opportunity to get ahold of some type of buzzer, you can have a 
 
 ![](/blog/forestryio/images/image01-4.jpg)
 
-Group meditation is a great way to give your employees a break from their [busy work day](https://getsling.com/blog/post/work-schedule-app/) while at the same time building a more cohesive team. The [benefits](http://www.huffingtonpost.com/2014/09/19/meditation-benefits_n_5842870.html) of meditation are significant. Meditation, among other things, reduces stress, improves concentration, increases happiness, and benefits cardiovascular and immune health. All great things for keeping your employees happy and healthy.
+Group meditation is a great way to give your employees a break from their [busy work day](https://getsling.com/blog/post/work-schedule-app/) while at the same time building a more cohesive team. The [benefits](http://www.huffingtonpost.com/2014/09/19/meditation-benefits_n_5842870.html) of meditation are significant. Meditation, among other things, reduces stress, improves concentration, increases happiness, and benefits cardiovascular and immune health. All great things for keeping your employees happy and [healthy](http://muscles.zone/15-rules-live-optimal-health/).
 
 If possible, get enough yoga mats so that everyone can lie on the floor. In addition, you may have to bring in someone who is familiar with running a meditation session so your employees get the most out of this quick team-building activity.
 
