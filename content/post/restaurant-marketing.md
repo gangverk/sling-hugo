@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-03-04T18:36:00-05:00"
 description = "Discover 23 of the best restaurant marketing tips and learn how you can harness online and offline channels to win your market."
-draft = true
 image = "/blog/forestryio/images/image03-9.jpg"
 tags = ""
 title = "23 Restaurant Marketing Tips To Win Your Market"
