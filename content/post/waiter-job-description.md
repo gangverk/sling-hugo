@@ -3,7 +3,7 @@ author = "Sling"
 date = "2017-02-10T12:20:00-05:00"
 description = "Discover 10 traits that make for a great waiter and learn how to incorporate those characteristics into writing the perfect waiter job description."
 image = "/blog/forestryio/images/5lbiui7c_ps-rob-bye.jpg"
-tags = []
+tags = ""
 title = "How To Write The Perfect Waiter Job Description"
 
 +++
@@ -61,7 +61,7 @@ Cleanliness is one of the most important traits in the restaurant industry. From
 
 ### 8\. Knowledge Of The Menu
 
-In a restaurant where the menu changes, it’s important for the waiter to be able to keep track of what’s being made and when. Knowledge of the menu requires preparation, care, and communication. A great waiter should be able to commit this information to memory, or at least be willing to learn how to do so.  
+In a restaurant where the menu changes, it’s important for the waiter to be able to keep track of what’s being made and when. Knowledge of the menu requires preparation, care, and communication. A great waiter should be able to commit this information to memory, or at least be willing to learn how to do so.
 
 ### 9\. Team-Oriented
 
@@ -75,7 +75,7 @@ This one is last on the list but should, by no means, be thought of as less impo
 
 ## Writing The Perfect Waiter Job Description
 
-Now that we’ve discussed what makes for a great waiter, let’s see how we can use the traits to create the perfect waiter job description for your restaurant.
+Now that we’ve discussed what makes for a great waiter, let’s see how we can use the traits to create the perfect waiter [job description](http://fitsmallbusiness.com/how-to-get-the-most-out-of-your-indeed-job-postings/) for your restaurant.
 
 A job description is usually broken into 4 pieces:
 
