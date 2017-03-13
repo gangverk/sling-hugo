@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-03-12T13:26:00-04:00"
 description = "Discover the 15 best tips for getting the most out of your restaurant staffing and learn how your example sets the tone for everything else in the restaurant."
-draft = true
 image = "/blog/forestryio/images/restaurant staffing.jpg"
 tags = ""
 title = "Restaurant Staffing: 15 Tips For Building The Best Team"
