@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-04-11T00:54:28+00:00"
 description = "Discover the 10 best practices for effective call center management and learn how hiring and training can play a huge part in your success."
-draft = true
 image = "/blog/forestryio/images/call center management.jpg"
 tags = ""
 title = "10 Best Practices For Effective Call Center Management"
