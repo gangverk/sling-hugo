@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-04-23T21:16:00-04:00"
 description = "Discover the nine skills that are essential for effective retail management and learn why prioritizing problems can free you up to focus on more important issues."
-draft = true
 image = "/blog/forestryio/images/retail management.jpg"
 tags = []
 title = "Retail Management 101: 9 Skills You Need To Have"
