@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-04-30T08:16:00-04:00"
 description = "Discover nine traits that make for a great barista and learn how to incorporate those characteristics into writing the perfect barista job description."
-draft = true
 image = "/blog/forestryio/images/barista.jpg"
 tags = []
 title = "How To Write The Perfect Barista Job Description"
