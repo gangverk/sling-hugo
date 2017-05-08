@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-05-07T12:57:00-04:00"
 description = "Discover 9 restaurant design tips and learn why uniforms and tableware should be considered as an important part of the design process."
-draft = true
 image = "/blog/forestryio/images/image4-1.jpg"
 tags = []
 title = "9 Essential Restaurant Design Tips"
