@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-05-14T21:11:00-04:00"
 description = "Learn how to deal with no call, no show employees and discover how you can improve your scheduling process to reduce these issues."
-draft = true
 image = "/blog/forestryio/images/no call no show.jpg"
 tags = []
 title = "How To Deal With No Call, No Show Employees"
