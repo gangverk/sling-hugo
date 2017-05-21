@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-05-20T19:08:00-04:00"
 description = "Want to set up a rotating shift for your restaurant? We’ll show you how. We’ll also explore the advantages and disadvantages of this useful scheduling strategy."
-draft = true
 image = "/blog/forestryio/images/rotating shift.jpg"
 tags = []
 title = "How A Rotating Shift Schedule Can Double Your Team’s Productivity"
