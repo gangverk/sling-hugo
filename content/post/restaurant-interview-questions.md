@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-05-26T16:48:54+00:00"
 description = "Discover 16 restaurant interview questions that help you avoid the canned answers that sound great in the interview but don’t transfer to the real world."
-draft = true
 image = "/blog/forestryio/images/Restaurant Interview Questions.jpg"
 tags = []
 title = "The 16 Best Restaurant Interview Questions"
