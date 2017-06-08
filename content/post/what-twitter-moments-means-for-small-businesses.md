@@ -2,12 +2,15 @@
 author = "Helgi Hermannsson "
 date = "2016-11-10T18:22:07+00:00"
 description = "Sling CEO discusses in a post on Adweek how a \"Twitter Moment\" can effect small Businesses."
-draft = false
 image = "/blog/forestryio/images/twittermoments.png"
 tags = []
 title = "What Twitter Moments Means for Small Businesses"
 
 +++
+
+
+*This article was originally published on [AdWeek](http://www.adweek.com/digital/helgi-hermannsson-gangverk-sling-guest-post-twitter-moments/).*
+
 A little more than one year ago, Twitter announced a new feature: Moments. At that time, the new feature was to be curated by a team at Twitter, as well as some big-name partners such as Entertainment Weekly, Fox News, NASA and BuzzFeed.
 
 Then, a little over two months ago, Twitter opened up the Moments feature to a broader group of creators including influencers, partners and brands. At the same time, they announced that Moments would soon be open to everyone.
@@ -34,13 +37,13 @@ Create a title and description: Keep your title short. And when writing a descri
 
 Add your favorite tweets: Content for your Moment can be pulled from a variety of sources:
 
-*   You can pick tweets from specific users.
+* You can pick tweets from specific users.
 
-*   You can locate tweets using the Twitter search function.
+* You can locate tweets using the Twitter search function.
 
-*   You can add tweets you’ve liked.
+* You can add tweets you’ve liked.
 
-*   You can add tweets using the tweet’s link.
+* You can add tweets using the tweet’s link.
 
 When you’ve added all the content you want, just tap Publish and your Moment will go live.
 
@@ -54,9 +57,9 @@ Allure recently created its own Twitter Moment to show readers what it’s like 
 
 **Here are three more ways to put Twitter Moments to use.**
 
-Show off your menu for the day: Twitter Moments are a great way to highlight your menu. You can include short videos of the dishes being prepared, along with images of the finished product. Couple that with a short video tour of your restaurant and you’ve got an engaging Moment. You can also use Twitter Moments to announce your daily specials. You can talk about the ingredients, show pictures and videos of the dish and even include customer feedback after they’ve tried it.
+Show off your menu for the day: Twitter Moments are a great way to highlight your menu. You can include short videos of the dishes being prepared, along with images of the finished product. Couple that with a short video tour of your [restaurant](https://getsling.com/blog/post/restaurant-budget/) and you’ve got an engaging Moment. You can also use Twitter Moments to announce your daily specials. You can talk about the ingredients, show pictures and videos of the dish and even include customer feedback after they’ve tried it.
 
-Highlight your awesome staff: Twitter Moments are a great way to highlight your staff individually or as a group. Have an employee of the month? Profile them in a Twitter Moment. Did an employee recently go above and beyond in the service to one of your customers? Tell the story using Twitter Moments. That gets your name and your exceptional service out into the world for all to see. It also is a great way to keep your employees engaged and excited about the work they are doing.
+Highlight your awesome staff: Twitter Moments are a great way to highlight your staff individually or as a group. Have an employee of the month? Profile them in a Twitter Moment. Did an [employee](https://getsling.com/blog/post/free-employee-scheduling-software/) recently go above and beyond in the service to one of your customers? Tell the story using Twitter Moments. That gets your name and your exceptional service out into the world for all to see. It also is a great way to keep your employees engaged and excited about the work they are doing.
 
 Curate news that is relevant to your customers: Creating a Twitter Moment that incorporates news about your business and your customer’s interests is a great way to stay at the top of mind. First think about the topics that are important to your customers. Then create a Moment about those topics, find the best tweets about that topic and include them in your Moment.
 
