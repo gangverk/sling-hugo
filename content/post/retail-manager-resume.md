@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-06-11T09:27:00-04:00"
 description = "Not sure what to include on your retail manager résumé? We can help. Discover 7 skills and 4 key sections that can make or break your chances to be hired."
-draft = true
 image = "/blog/forestryio/images/retail manager resume.jpg"
 tags = []
 title = "Retail Manager Résumé: The Key Skills & Sections You Need to Include"
