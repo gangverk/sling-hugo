@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-02-21T17:09:29+00:00"
 description = "Learn 8 tips for handling your business’s time-off requests and discover one solution that makes the whole process easier."
-draft = true
 image = "/blog/forestryio/images/image03-8.jpg"
 tags = []
 title = "8 Tips For Handling Time-Off Requests"
