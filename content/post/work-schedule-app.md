@@ -1,6 +1,6 @@
 +++
 author = "Sling"
-date = "2017-06-21T15:19:00-04:00"
+date = "2017-06-18T15:19:00-04:00"
 description = "Discover the 13 best work schedule apps and find out why only one can really make managing—not just scheduling—so much easier."
 image = "/blog/forestryio/images/work schedule app.jpg"
 tags = []
