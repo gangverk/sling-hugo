@@ -26,7 +26,7 @@ Using your ledger or columnar pad, label the first four columns Date, Payment Me
 
 Next<span style="font-size: 1rem;"> to your income, makes columns for all your regular expenses. See the next section for a more in-depth discussion. Common column headings include:</span>
 
-* Advertising
+* [Advertising](https://getsling.com/blog/post/restaurant-marketing/)
 * Food
 * Liquor
 * Tableware
@@ -45,7 +45,7 @@ Next<span style="font-size: 1rem;"> to your income, makes columns for all your r
 
 At the end of every month, add up all your columns to see the total amount you brought in and the total amount for each category of expenses. From these totals, you can see where you need to cut back on expenses in order to operate within your income.
 
-<span style="font-size: 1rem;">Ledger books and columnar pads are a great way for new managers to gain some exposure to single-entry bookkeeping, but those options can be difficult to reconcile and even more difficult to change should there be mistakes. That’s where computerized record keeping comes in handy.</span>
+<span style="font-size: 1rem;">Ledger books and columnar pads are a great way for new <a href="https://getsling.com/blog/post/restaurant-management-tips/">managers</a> to gain some exposure to single-entry bookkeeping, but those options can be difficult to reconcile and even more difficult to change should there be mistakes. That’s where computerized record keeping comes in handy.</span>
 
 <img src="/blog/forestryio/images/image3-3.jpg" class=" forestry--none" style="float: none;">
 
@@ -113,7 +113,7 @@ With the work you’ve done so far in getting your restaurant budget together, y
 
 <span style="font-size: 1rem;">When your profits are consistently exceeding your costs, it’s time to start focusing on ways to further separate those numbers. This goes back to many of the same choices you had when you were trying to get sales to cover costs: pull in new customers, drive repeat customers, cut costs, increase prices, the list goes on and on.</span>
 
-<span style="font-size: 1rem;">Remember that the original purpose of a restaurant—other than great food and great service—is to make a profit. Whatever you can do to make your profits grow while keeping your costs fairly static fulfills that original purpose. One such way to keep your costs under control is to simplify employee scheduling and track how much they work.</span>
+<span style="font-size: 1rem;">Remember that the original purpose of a restaurant—other than great food and great service—is to make a profit. Whatever you can do to make your profits grow while keeping your costs fairly static fulfills that original purpose. One such way to keep your costs under control is to simplify employee <a href="https://getsling.com/blog/post/schedule-my-employees/">scheduling</a> and track how much they work.</span>
 
 ## 7. Use Software To Keep Wages Under Control
 
@@ -121,13 +121,13 @@ Using software is one of the best ways to keep your restaurant budget under cont
 
 <span style="font-size: 1rem;">Using <a href="http://getsling.com/">Sling</a> serves two primary purposes. First, it helps make scheduling easier. Scheduling employees can be one of the most difficult parts of running a restaurant. It’s extremely time-consuming and can distract you from more important issues that directly affect your employees and customers. In addition, scheduling can be incredibly complex. Even scheduling just five employees can be like trying to wrangle twenty kittens. Employee A can’t work nights because of family commitments. Employee B can’t work before noon because he attends classes in the morning. Employee C can work anytime but she has the next few days off to take her mother to the doctor. And that’s just three employees. Imagine scheduling with ten, twenty, or even fifty employees. Creating a schedule can quickly become a convoluted nightmare.</span>
 
-<span style="font-size: 1rem;">Thankfully, Sling helps make those parts of the process easier by allowing you to schedule faster using tools like copy and paste, recurring shifts, and color-coded employees. Sling even assists you by notifying you if you’ve overlapped shifts, double-booked someone, or forgot to give them the time off you approved.</span>
+<span style="font-size: 1rem;">Thankfully, Sling helps make those parts of the process easier by allowing you to schedule faster using tools like copy and paste, recurring shifts, and color-coded employees. Sling even assists you by notifying you if you’ve overlapped shifts, double-booked someone, or forgot to give them the <a href="https://getsling.com/blog/post/time-off-requests/">time off</a> you approved.</span>
 
 <span style="font-size: 1rem;">Once your schedule is complete, Sling makes it simple to get that schedule into everyone’s hands. Distributing the schedule is as easy as sharing a link with all your employees. That link takes them to a master schedule that reflects any changes you may make. By using this one master document that everyone can view, you cut down on the very real possibility that your employees will get confused as to which version of the schedule is the most recent. The link you supply always takes them to the correct one.</span>
 
 <span style="font-size: 1rem;">Then, once the schedule has been sent, Sling even sends notifications to employees reminding them when they work or when a shift has become available. This feature helps cut down on no-shows and allows your employees to do their own scheduling of sorts by filling in when some else can’t cover their shift.</span>
 
-<span style="font-size: 1rem;">The second purpose of the Sling </span>app,<span style="font-size: 1rem;"> is to help you keep wage expenditures under control. Sling does this by helping you monitor over time so that you don’t exceed costs because you accidentally scheduled someone for too much time each week. These apps also help decrease the time it takes for you to get other things done associated with guiding your employees. </span>Sling<span style="font-size: 1rem;"> helps you communicate faster by allowing you to send messages, files, photos, videos, even links to individuals, user-defined groups, of your entire staff with just the push of a button.</span>
+<span style="font-size: 1rem;">The second purpose of the Sling </span>app,<span style="font-size: 1rem;"> is to help you keep wage expenditures under control. Sling does this by helping you monitor over time so that you don’t exceed costs because you accidentally scheduled someone for too much time each week. <a href="https://getsling.com/blog/post/work-schedule-app/">These apps</a> also help decrease the time it takes for you to get other things done associated with guiding your employees. </span>Sling<span style="font-size: 1rem;"> helps you communicate faster by allowing you to send messages, files, photos, videos, even links to individuals, user-defined groups, of your entire <a href="https://getsling.com/blog/post/restaurant-staffing/">staff</a> with just the push of a button.</span>
 
 <span style="font-size: 1rem;">That often invisible time savings can add up to significant cost savings and allow you to focus more on keeping your restaurant in the black.</span>
 
