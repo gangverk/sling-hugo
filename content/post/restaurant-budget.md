@@ -1,6 +1,6 @@
 +++
 author = "Sling"
-date = "2017-01-20T20:13:00-05:00"
+date = "2017-06-30T20:13:00-04:00"
 description = "Discover the best way to prepare a restaurant budget and learn what software tools can help you control the costs associated with wage expenditures."
 draft = true
 image = "/blog/forestryio/images/image04-4.jpg"
@@ -49,7 +49,7 @@ At the end of every month, add up all your columns to see the total amount you b
 
 <img src="/blog/forestryio/images/image3-3.jpg" class=" forestry--none" style="float: none;">
 
-Digital records take the form of a very general spreadsheet program like Microsoft Excel all the way up to a very specific restaurant-focused accounting and budgeting package like QuickBooks For Restaurants. Regardless of the method you choose, you’ll need some way to keep track of things like immediate costs, daily sales, projected expenses, and much more so make sure the software you choose can handle everything.
+Digital records take the form of a very general spreadsheet program like Microsoft Excel all the way up to a very specific restaurant-focused accounting and budgeting package like [QuickBooks For Restaurants](https://payroll.intuit.com/restaurant-accounting/). Regardless of the method you choose, you’ll need some way to keep track of things like immediate costs, daily sales, projected expenses, and much more so make sure the software you choose can handle everything.
 
 <span style="font-size: 1rem;">One of the nice things about computerized bookkeeping is that it is based on the ledgers and columnar pads of yore. The format is the same, as is the process by which you record all your income and expenses. So if you get comfortable with the paper version, the digital version will be a breeze.</span>
 
@@ -119,7 +119,7 @@ With the work you’ve done so far in getting your restaurant budget together, y
 
 Using software is one of the best ways to keep your restaurant budget under control while at the same time working to increase your profits. One of the biggest costs in your budget will likely be wages. Apps like Sling can help with that.
 
-<span style="font-size: 1rem;">Using Sling serves two primary purposes. First, it helps make scheduling easier. Scheduling employees can be one of the most difficult parts of running a restaurant. It’s extremely time-consuming and can distract you from more important issues that directly affect your employees and customers. In addition, scheduling can be incredibly complex. Even scheduling just five employees can be like trying to wrangle twenty kittens. Employee A can’t work nights because of family commitments. Employee B can’t work before noon because he attends classes in the morning. Employee C can work anytime but she has the next few days off to take her mother to the doctor. And that’s just three employees. Imagine scheduling with ten, twenty, or even fifty employees. Creating a schedule can quickly become a convoluted nightmare.</span>
+<span style="font-size: 1rem;">Using <a href="http://getsling.com/">Sling</a> serves two primary purposes. First, it helps make scheduling easier. Scheduling employees can be one of the most difficult parts of running a restaurant. It’s extremely time-consuming and can distract you from more important issues that directly affect your employees and customers. In addition, scheduling can be incredibly complex. Even scheduling just five employees can be like trying to wrangle twenty kittens. Employee A can’t work nights because of family commitments. Employee B can’t work before noon because he attends classes in the morning. Employee C can work anytime but she has the next few days off to take her mother to the doctor. And that’s just three employees. Imagine scheduling with ten, twenty, or even fifty employees. Creating a schedule can quickly become a convoluted nightmare.</span>
 
 <span style="font-size: 1rem;">Thankfully, Sling helps make those parts of the process easier by allowing you to schedule faster using tools like copy and paste, recurring shifts, and color-coded employees. Sling even assists you by notifying you if you’ve overlapped shifts, double-booked someone, or forgot to give them the time off you approved.</span>
 
