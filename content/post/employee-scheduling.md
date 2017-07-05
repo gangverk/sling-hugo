@@ -23,6 +23,8 @@ There are many scheduling challenges faced by restaurant managers. Planning, sha
 
 ### Planning
 
+![](/forestryio/images/image08.jpg)
+
 Pen and paper is the most basic work schedule system available today. As basic as this method is, it is also the most difficult to use and really does very little to make your life as a manager any easier. Sure, pen and paper has been the default scheduling option for...basically, forever. But that doesn’t automatically make it the best choice. Truth be told, pen-and-paper scheduling is likely what gave the job the awful reputation with which it currently struggles.
 
 One of the main problems with the pen-and-paper method is that it’s permanent. When you create a schedule on paper, it can’t be altered without creating an entirely new document. Sure, you probably have a form you fill in, but it still requires a lot of time that could be better spent elsewhere if you just used a more modern method. And let’s not forget the fact that the potential for errors with the pen-and-paper method is always high. Did you forget a time-off request? Did you double book an employee? Did you make the right change after an employee called in sick? Pen and paper do nothing to alleviate these problems.
@@ -51,12 +53,16 @@ These “off-the-shelf” tools will always fall short at some point because the
 
 As real as the challenges are that surround planning, sharing, and using the right tools, if you follow a few best practices, the scheduling process will improve. You’ll be happier. And your employees will be happier too.
 
+![](/forestryio/images/image00-2.jpg)
+
 ### 1. Get the schedule into your employees’ hands quickly
 
 Your employees need time to adjust to the new schedule. And you need to allow time for changes to be made. It’s important, then, to get the schedule into their hands as quickly as possible. We suggest posting the schedule at least two weeks before the first employees have to work. Giving your employees plenty of lead time makes it easier for them to:
 
 1. Reschedule personal commitments that may interfere with their work schedule.
+
 1. Trade conflicting shifts with another employee.
+
 1. Find a substitute without throwing the responsibility back on you.
 
 Try using a cloud-based program that allows you to post your schedule online where everyone can see it. The beauty of these programs is that there’s only one document and everyone refers to it online. That way, the schedule is accessible to everyone twenty-four hours a day, seven days a week, three hundred and sixty-five days a year. Plus, when you make changes to the schedule, they are immediately visible to everyone involved. It cuts down on the confusion of having multiple copies of a schedule floating around.
@@ -80,8 +86,11 @@ It’s also important to define the rules for requesting time off and work prefe
 After you set the rules for requesting time off, you’ll need to set the rules for overlapping requests because these types of conflicts are inevitable...especially around the holiday. Your algorithm for settling time-off disputes can be tailored to fit your particular situation but will likely include the following factors:
 
 * Seniority
+
 * Managerial discretion
+
 * Reason for the request
+
 * First come, first served
 
 Establishing rules like these that govern time-off requests makes the entire process transparent and clear to everyone involved. This, in turn, keeps everything running smoothly and helps avoid conflicts between employees, management, and ownership.
@@ -106,6 +115,8 @@ That said, be sure to establish guidelines for this process so your employees do
 
 ### 6. Prevent no-shows
 
+![](/forestryio/images/employee%20scheduling.jpg)
+
 Preventing no-shows used to be a full-time job. Now, with the ubiquity of mobile phones and devices, getting everyone to show up for their shift is a lot easier.
 
 Try incorporating an automatic reminder app that sends text messages informing employees of an upcoming shift. Even just sending out a text in the morning reminding everyone that they’re working that day can prevent no-shows from happening. It also gives you plenty of time should you have to find a substitute.
@@ -124,6 +135,8 @@ Restaurant-specific software solutions, like Sling, are available to everyone th
 
 ## The Solution
 
+![](/forestryio/images/image03-3.png)
+
 Sling is a restaurant-specific scheduling app made by restaurant owners for restaurant owners. It’s the easiest way to schedule and communicate with your employees.
 
 Sling is a completely cloud-based software solution that allows you to create and post your schedule online. There’s no more creating a new schedule from scratch every time a change needs to be made. There’s only one version and it’s always up to date.
@@ -139,3 +152,4 @@ By applying the best practice discussed above, you can take a lot of the stress 
 Yes, managing a restaurant will always be hard work. Fortunately, Sling can make at least one part of that job much easier. The industry-specific features mentioned above—plus much more, can reduce the time you spend on issues related to scheduling and making sure employees are where they are supposed to be.
 
 Sling is free to use, easy to set up, and available for an unlimited number of employees. Visit GetSling.com today to see more ways the Sling app is revolutionizing the restaurant scheduling process.
+
