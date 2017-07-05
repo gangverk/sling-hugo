@@ -8,13 +8,11 @@ tags = []
 title = "How To Prepare A Restaurant Budget"
 
 +++
-
-
 Preparing a restaurant budget yields many benefits. Chief amongst those benefits is the ability to predict operating expenses, spend less than you make, and use profits to grow the business.
 
-<span style="font-size: 1rem;">Without a restaurant budget, you’re basically flying blind. Yes, you may have a specific destination in mind, but without a budget, you have no way of knowing how much you need to spend and what you need to earn to cover that spending. It’s that important. A restaurant budget—even a very basic one—can get you pointed in the right direction and on your way to every restaurant owner’s or manager’s goal: a profitable business.</span>
+Without a restaurant budget, you’re basically flying blind. Yes, you may have a specific destination in mind, but without a budget, you have no way of knowing how much you need to spend and what you need to earn to cover that spending. It’s that important. A restaurant budget—even a very basic one—can get you pointed in the right direction and on your way to every restaurant owner’s or manager’s goal: a profitable business.
 
-<span style="font-size: 1rem;">But how, exactly, do you go about creating a restaurant budget that works? This article will show you the best way to get started.</span>
+But how, exactly, do you go about creating a restaurant budget that works? This article will show you the best way to get started.
 
 ## 1. Choose How You Want To Track Your Numbers
 
