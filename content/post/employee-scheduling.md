@@ -8,8 +8,6 @@ title = "7 Employee Scheduling Strategies For Restaurants"
 type = "default"
 
 +++
-
-
 If you’ve ever managed a restaurant, you’ve probably experienced the pain associated with employee scheduling. Trying to format the document just so. Finding room for everything. Making changes. And getting it into the hands of employees in plenty of time. This is partly due to the fact that many restaurants still rely on the [pen-and-paper](https://getsling.com/blog/post/free-employee-scheduling-software/) method for schedule creation. Often, their method of distribution—tacking the schedule to a wall—is equally as [low-tech](https://getsling.com/blog/post/low-tech-industry-going-high-tech/).
 
 Even the introduction of computers into the scheduling process hasn’t helped much. That’s because the traditional computer-based methods for scheduling—Excel spreadsheets and email—are just small steps up from the pen-and-paper method. They don’t really solve the problems and may actually introduce more.
@@ -22,7 +20,7 @@ There are many [scheduling](https://support.getsling.com/shift-scheduling-basics
 
 ### Planning
 
-![](/forestryio/images/image08.jpg)
+![](/blog/forestryio/images/image08.jpg)
 
 Pen and paper is the most basic work schedule system available today. As basic as this method is, it is also the most difficult to use and really does very little to make your life as a manager any easier. Sure, pen and paper has been the default scheduling option for...basically, forever. But that doesn’t automatically make it the best choice. Truth be told, pen-and-paper scheduling is likely what gave the job the awful reputation with which it currently struggles.
 
@@ -54,7 +52,7 @@ These “off-the-shelf” tools will always fall short at some point because the
 
 As real as the challenges are that surround planning, sharing, and using the right tools, if you follow a few best practices, the scheduling process will improve. You’ll be happier. And your employees will be happier too.
 
-![](/forestryio/images/image00-2.jpg)
+![](/blog/forestryio/images/image00-2.jpg)
 
 ### 1. Get the schedule into your employees’ hands quickly
 
@@ -116,7 +114,7 @@ That said, be sure to establish guidelines for this process so your employees do
 
 ### 6. Prevent no-shows
 
-![](/forestryio/images/employee%20scheduling.jpg)
+![](/blog/forestryio/images/employee%20scheduling.jpg)
 
 Preventing [no-shows](https://getsling.com/blog/post/no-call-no-show/) used to be a full-time job. Now, with the ubiquity of mobile phones and devices, getting everyone to show up for their shift is a lot easier.
 
@@ -136,7 +134,7 @@ Restaurant-specific software solutions, like Sling, are available to everyone th
 
 ## The Solution
 
-![](/forestryio/images/image03-3.png)
+![](/blog/forestryio/images/image03-3.png)
 
 <a href="https://getsling.com/" class="">Sling</a> is a restaurant-specific scheduling app made by restaurant owners for restaurant owners. It’s the easiest way to schedule and communicate with your employees.
 
@@ -153,4 +151,3 @@ By applying the best practice discussed above, you can take a lot of the stress 
 Yes, managing a restaurant will always be hard work. Fortunately, Sling can make at least one part of that job much easier. The industry-specific features mentioned above—plus much more, can reduce the time you spend on issues related to scheduling and making sure employees are where they are supposed to be.
 
 Sling is free to use, easy to set up, and available for an unlimited number of employees. Visit [GetSling.com](https://getsling.com/) today to see more ways the Sling app is revolutionizing the restaurant scheduling process.
-
