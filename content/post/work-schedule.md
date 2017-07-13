@@ -18,14 +18,20 @@ Whether you make use of [online scheduling apps](https://getsling.com/blog/post/
 
 Knowing your [team](https://getsling.com/blog/post/quick-team-building-activities/) is perhaps the most basic part of creating a work schedule. So basic, in fact, that you may be wondering why we even bothered mentioning it. We bring it up for the simple fact that many managers do a substandard job of really knowing their employees. Some even skip this step completely. All they’re concerned with is making sure there are enough people to cover every shift. So why is knowing your team so important? Because it allows you to make choices to further the success of the business rather than just getting enough servers for the lunch rush.
 
-Really knowing your team members gives you the freedom and the flexibility to mix and match skills, strengths, weaknesses, and personality types (just to name a few) to create the perfect shift for any situation. To make this process easier, we recommend making a list that includes:
+Really knowing your team members gives you the freedom and the flexibility to mix and match skills, strengths, weaknesses, and personality types (just to name a few) to create the [perfect shift](https://getsling.com/blog/post/rotating-shift/) for any situation. To make this process easier, we recommend making a list that includes:
 
 * The employee’s name
+
 * Relevant skills
+
 * Certifications
+
 * Full- or part-time status
+
 * Overtime restrictions
+
 * Personality type (e.g., outgoing, friendly, introverted, etc.)
+
 * Other notes that you may find useful (e.g., efficient, can handle a large crowd, meticulous, etc.)
 
 That way, when you’re trying to put together the schedule, you can refer to your list to find the right employee to fill a hole in an otherwise great shift rather than trying to rely on your memory. Then, as you learn more about your employees, add to the list so you’ve got a complete picture of each and every team member. Even a basic list of your employee’s traits and skills can make the next step infinitely easier.
@@ -42,7 +48,7 @@ The second purpose served by building shifts around your best employees, is that
 
 ## 3. Establish A Team-Wide Communication Method
 
-![](/blog/forestryio/images/image01-3.jpg) Communication is important for any business. But in the restaurant and retail industries, it can mean the difference between having enough employees to cover a shift and being short-staffed. Establishing a team-wide communication method makes it easy for you and your employees to know exactly where to look for your work schedule. There’s no more searching through email, instant message, and texting apps to find the newest work schedule or that time-off request you need. Everyone uses the same tool so everyone’s on the same page.
+![](/blog/forestryio/images/image01-3.jpg) Communication is important for any business. But in the restaurant and retail industries, it can mean the difference between having enough employees to cover a shift and being short-staffed. Establishing a team-wide communication method makes it easy for you and your employees to know exactly where to look for your work [schedule](https://getsling.com/blog/post/free-employee-scheduling-software/). There’s no more searching through email, instant message, and texting apps to find the newest work schedule or that time-off request you need. Everyone uses the same tool so everyone’s on the same page.
 
 If you haven’t already, set up this team-wide communication method right away. With most people using smartphones these days, your best bet is to choose a method that makes use of this omni-present technology. Texting is one such method. Instant messaging is another.
 
@@ -57,15 +63,18 @@ The release of a new work schedule is always a nervous time for employees. Most 
 We recommend finalizing and distributing the schedule at least two weeks before the end of the current schedule. This gives your employees plenty of time to:
 
 * Schedule and reschedule personal commitments
+
 * Trade shifts
+
 * Find a substitute
+
 * Talk to you about the days and times they work
 
 The quickest way to distribute your schedule is with a cloud-based app. These apps allow you to produce one document, post it online, and grant access so your employees can view the schedule twenty-four hours a day, seven days a week, three hundred and sixty-five days a year. That’s much faster than trying to hand out a printed copy to each and every team member. And as an added time-saving bonus, when you make changes to the online document, they are instantaneously visible to everyone involved. This makes resolving conflicts and making substitutions so much easier. It also cuts down on the confusion of having multiple copies of the schedule floating around.
 
 ## 5. Honor Work Preferences And Time-Off Requests As Much As Possible
 
-At the most basic, honoring work preferences and time-off requests builds goodwill, increases employee satisfaction, and helps you retain good workers. It’s a pretty important part of the scheduling process, to say the least. It can also be an incredibly time-consuming part of the scheduling process.
+At the most basic, honoring work preferences and [time-off](https://getsling.com/blog/post/time-off-requests/) requests builds goodwill, increases employee satisfaction, and helps you retain good workers. It’s a pretty important part of the scheduling process, to say the least. It can also be an incredibly time-consuming part of the scheduling process.
 
 But you can cut down on the time it takes to process all this information by keeping your employees’ work preferences and time-off requests in one place. It doesn’t matter if it’s a manilla folder, a quick note on your phone, or a document on your computer. What does matter is that you refer to the information often when creating your schedule.
 
@@ -80,6 +89,7 @@ You’ll then need to set the rules that determine how you decide between overla
 The thing about scheduling that most managers forget is that they don’t have to do all the heavy lifting on their own. Providing your employees with the opportunity to do some of the scheduling themselves is a great way to:
 
 * Take some of the burden<span style="font-size: 1rem;"> </span>off<span style="font-size: 1rem;"> yourself.&nbsp;</span>
+
 * Keep them engaged in their work.
 
 Consider scheduling one or two of your best employees for each shift as a way to start. Then give everyone access to this incomplete schedule and allow them to fill in when they want to work.
@@ -110,7 +120,7 @@ Think of your availability chart like the second string on a basketball team. If
 
 The poet Robert Burns once wrote about the schemes of mice and men and how they so often go awry. It’s where we get the saying, “The best laid plans of mice and men…” to refer to the fact that no matter how carefully a thing is planned, something may still go wrong. If you’ve been a [manager](https://getsling.com/blog/post/restaurant-management-tips/) for any length of time, you’re well acquainted with this fact of life. So even though you’ve got your availability chart that outlines employees who are available to work on short notice, you may need a backup to this backup, or a plan C to your plan B.
 
-That’s why we recommend setting up a list of trusted and reliable part-time workers you can contact when all your other options have failed. These workers may be former employees who left on good terms or prospective employees who interviewed but didn’t get hired. You may think these people would never be willing to come in on such short notice, but you never know until you ask. Former employees may look forward to working with your team again, and prospective employees may jump at the chance to get a toe in the door.
+That’s why we recommend setting up a list of trusted and reliable part-time workers you can contact when all your other options have failed. These workers may be former employees who left on good terms or prospective employees who [interviewed](https://getsling.com/blog/post/restaurant-interview-questions/) but didn’t get hired. You may think these people would never be willing to come in on such short notice, but you never know until you ask. Former employees may look forward to working with your team again, and prospective employees may jump at the chance to get a toe in the door.
 
 ## 10. Use The Best Tool For The Job
 
@@ -120,7 +130,7 @@ Even tools meant for other purposes (like Word or Excel) can streamline the sche
 
 So while you may already be using one or the other of these apps, is it really the best fit for the job? Is there a better tool available? For restaurants, there are tools available that are specifically tailored to the restaurant industry. Apps like Sling contain powerful features that help make building your schedule easier than ever before.
 
-Because Sling is created specifically for restaurant scheduling, there is no complicated formatting necessary to get the schedule looking the way you want it. There’s no endless searching for a template that doesn’t quite work. There’s no trying to figure out a way to do something with a program that is made for some other purpose. All you have to do is focus on making the best schedule possible.
+Because Sling is created specifically for restaurant scheduling, there is no complicated formatting necessary to get the schedule looking the way you want it. There’s no endless searching for a template that doesn’t quite [work](https://getsling.com/blog/post/restaurant-management-tips/). There’s no trying to figure out a way to do something with a program that is made for some other purpose. All you have to do is focus on making the best schedule possible.
 
 Then, during the scheduling process, Sling can notify you when you’ve double booked an employee. It can notify you when you’ve forgotten a time-off request. It can even offer suggestions to help you create the perfect schedule. When the schedule is complete, Sling can send automated notifications to remind your employees that the schedule is available, that changes have been made, or that they have a shift coming up. Indeed, Sling can provide everything the savvy manager needs to create the perfect work schedule in no time. It’s like having your very own personal assistant who does nothing but help the scheduling process go easier. And best of all, Sling is free to use.
 
