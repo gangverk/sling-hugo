@@ -8,8 +8,6 @@ tags = []
 title = "How To Create The Perfect Work Schedule For Your Team"
 
 +++
-
-
 The perfect work schedule is something many managers strive for. Unfortunately, few actually achieve it. This is despite the fact that technology makes it easier than ever to streamline the process and get it right the first time.
 
 Whether you make use of [online scheduling apps](https://getsling.com/blog/post/free-employee-scheduling-software/), have your own tools like Excel, or rely on the pen-and-paper method, there are some important points to keep in mind. These points range from building shifts around your best employees to planning for the worst to using the best tools for the job. This article will discuss 10 tips for creating the perfect work schedule for your team.
@@ -21,17 +19,11 @@ Knowing your [team](https://getsling.com/blog/post/quick-team-building-activitie
 Really knowing your team members gives you the freedom and the flexibility to mix and match skills, strengths, weaknesses, and personality types (just to name a few) to create the [perfect shift](https://getsling.com/blog/post/rotating-shift/) for any situation. To make this process easier, we recommend making a list that includes:
 
 * The employee’s name
-
 * Relevant skills
-
 * Certifications
-
 * Full- or part-time status
-
 * Overtime restrictions
-
 * Personality type (e.g., outgoing, friendly, introverted, etc.)
-
 * Other notes that you may find useful (e.g., efficient, can handle a large crowd, meticulous, etc.)
 
 That way, when you’re trying to put together the schedule, you can refer to your list to find the right employee to fill a hole in an otherwise great shift rather than trying to rely on your memory. Then, as you learn more about your employees, add to the list so you’ve got a complete picture of each and every team member. Even a basic list of your employee’s traits and skills can make the next step infinitely easier.
@@ -63,11 +55,8 @@ The release of a new work schedule is always a nervous time for employees. Most 
 We recommend finalizing and distributing the schedule at least two weeks before the end of the current schedule. This gives your employees plenty of time to:
 
 * Schedule and reschedule personal commitments
-
 * Trade shifts
-
 * Find a substitute
-
 * Talk to you about the days and times they work
 
 The quickest way to distribute your schedule is with a cloud-based app. These apps allow you to produce one document, post it online, and grant access so your employees can view the schedule twenty-four hours a day, seven days a week, three hundred and sixty-five days a year. That’s much faster than trying to hand out a printed copy to each and every team member. And as an added time-saving bonus, when you make changes to the online document, they are instantaneously visible to everyone involved. This makes resolving conflicts and making substitutions so much easier. It also cuts down on the confusion of having multiple copies of the schedule floating around.
@@ -88,8 +77,7 @@ You’ll then need to set the rules that determine how you decide between overla
 
 The thing about scheduling that most managers forget is that they don’t have to do all the heavy lifting on their own. Providing your employees with the opportunity to do some of the scheduling themselves is a great way to:
 
-* Take some of the burden<span style="font-size: 1rem;"> </span>off<span style="font-size: 1rem;"> yourself.&nbsp;</span>
-
+* Take some of the burden
 * Keep them engaged in their work.
 
 Consider scheduling one or two of your best employees for each shift as a way to start. Then give everyone access to this incomplete schedule and allow them to fill in when they want to work.
