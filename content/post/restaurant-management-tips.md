@@ -46,7 +46,7 @@ For example, the emergence in recent years of employee scheduling software like 
 
 On most days, there are just too many things for you to handle effectively. That’s why it’s important to learn to delegate. Start by delegating the less-critical day-to-day chores to trusted employees you know can get the job done. This frees you up to focus on the bigger, more important issues your restaurant will face.
 
-In addition, delegating some of your many tasks to your employees helps them see what is involved in day-to-day operations (transparency) and trains them to take on more responsibility later.
+In addition, delegating some of your many tasks to your [employees](https://getsling.com/blog/post/retail-manager-resume/) helps them see what is involved in day-to-day operations (transparency) and trains them to take on more responsibility later.
 
 ![](/blog/forestryio/images/Depositphotos_88058284_m-2015.jpg)
 
@@ -70,7 +70,7 @@ Take the time to examine dining trends, marketing results, and overall business 
 
 ## 10. Celebrate Success
 
-Everyone needs encouragement now and again. Your employees are no different. Positive reinforcement can go a long way toward making your staff perform at their best. When you [celebrate success](https://getsling.com/blog/post/quick-team-building-activities/), your employees see the value of doing a good job and know that you appreciate their efforts.
+Everyone needs encouragement now and again. Your employees are no different. [Positive reinforcement](https://getsling.com/blog/post/employee-appreciation/) can go a long way toward making your staff perform at their best. When you [celebrate success](https://getsling.com/blog/post/quick-team-building-activities/), your employees see the value of doing a good job and know that you appreciate their efforts.
 
 If you see someone doing a good job or notice how they handled a problem really well, take a moment to pull them aside and commend them. This one-on-one attention can make the employee feel like they’re respected and a valuable member of the team. Additionally, make it a point to highlight successes at staff meetings so that everyone can learn what constitutes a good job in your restaurant.
 
@@ -122,7 +122,7 @@ It may seem like a contradiction in terms, but a great restaurant manager needs 
 
 But being tough doesn’t mean that you have to forsake sensitivity and flexibility. You can reach you goals and drive your employees to improve while at the same time being sensitive to their needs and flexible to the demands of the situation.
 
-A fairly obvious example would be if a valued-employee’s parent or spouse or close relative died suddenly in an accident. They would take some time off, sure, but chances are, they would still be suffering from shock and grief when they returned to work. In that case, they might not be performing up to your normal standards (whatever those standards may be). Does that mean they need to be let go? Of course not. Now if the behavior persists pasts a certain point, you may have to consider that as an option. But for the time being, you need to be sensitive to their life outside the walls of your restaurant. You also need to be flexible enough to, perhaps, schedule them for slower shifts or give them a reduced workload. This will give them time to heal and return to the previous high level of job performance.
+A fairly obvious example would be if a valued-employee’s parent or spouse or close relative died suddenly in an accident. They would take some time off, sure, but chances are, they would still be suffering from shock and grief when they returned to work. In that case, they might not be performing up to your normal standards (whatever those standards may be). Does that mean they need to be let go? Of course not. Now if the behavior persists pasts a certain point, you may have to consider that as an option. But for the time being, you need to be sensitive to their life outside the walls of your restaurant. You also need to be flexible enough to, perhaps, [schedule](https://getsling.com/blog/post/work-schedule-maker/) them for slower shifts or give them a reduced workload. This will give them time to heal and return to the previous high level of job performance.
 
 Not every situation that demands sensitivity and flexibility will be this cut and dried. Instead, it could be something as subtle as a friction or disagreement between two employees that demands that you don’t schedule them together for a while. Or, it could be a situation where a bartender has just been promoted to head bartender and isn’t performing the same as before. You need to be sensitive enough to realize that she now has a lot more responsibility and is just trying to find her way into this new role.
 
@@ -130,7 +130,7 @@ Not every situation that demands sensitivity and flexibility will be this cut an
 
 Yes, there will be times when you’re able to concentrate on one thing for an hour or two. But for the most part, your job as a manager is going to demand that you are comfortable with, if not an expert at, multitasking.
 
-Your employees are going to be coming to you with questions about all sorts of things. Suppliers are going to be calling to schedule deliveries. Customers are going to want to talk. And that’s just the “people” side of the business. You’ve got schedules to put together, finances to reconcile, advertising and marketing to arrange...and that’s just the beginning of the list. Your day is filled to overflowing with countless tasks and innumerable interruptions. You need to be able to give your attention to one task for a period of time, allow yourself to be pulled away to a second task when necessary, and then be proficient enough to step right back into that first task without hesitation. That’s multitasking in a nutshell and should be the cornerstone of every restaurant manager’s skill set. Without the ability to multitask, you’re going to feel overwhelmed and incredibly frustrated in very short order.
+Your employees are going to be coming to you with questions about all sorts of things. Suppliers are going to be calling to schedule deliveries. Customers are going to want to talk. And that’s just the “people” side of the business. You’ve got schedules to put together, finances to reconcile, advertising and [marketing](https://getsling.com/blog/post/restaurant-marketing/) to arrange...and that’s just the beginning of the list. Your day is filled to overflowing with countless tasks and innumerable interruptions. You need to be able to give your attention to one task for a period of time, allow yourself to be pulled away to a second task when necessary, and then be proficient enough to step right back into that first task without hesitation. That’s multitasking in a nutshell and should be the cornerstone of every restaurant manager’s skill set. Without the ability to multitask, you’re going to feel overwhelmed and incredibly frustrated in very short order.
 
 If you’re having trouble getting comfortable with multitasking, try these simple suggestions:
 
@@ -143,4 +143,3 @@ With a bit of practice and determination, you can improve your ability to multit
 ## Work On Yourself Like You Work On The Business
 
 Working on yourself, like working on the business, can be a daunting task. Thankfully, working on yourself takes a single step to get started. If you feel that you’re lacking in any of the skills above, pick out the one that’s the most important to you and make an effort to improve. When you feel like you’ve integrated that skill into your management style, pick another skill from this list and work on it. By improving yourself and your management style, you can effectively improve your staff, your employees, and your restaurant as a whole.
-
