@@ -1,11 +1,11 @@
 +++
 author = "Sling"
-date = "2017-02-24T06:56:00-05:00"
-description = "Discover 11 restaurant management tips that can help you improve the way you work. We’ll also show you how to implement those tips in your workplace."
+date = "2017-07-21T06:56:00-04:00"
+description = "Discover 15 restaurant management tips that can help you improve the way you work. We’ll also show you how to implement those tips in your workplace."
 draft = true
 image = "/blog/forestryio/images/crew-87250.jpg"
 tags = []
-title = "11 Restaurant Management Tips To Improve The Way You Work"
+title = "15 Restaurant Management Tips To Improve The Way You Work"
 
 +++
 Restaurant management tips often deal with ways to streamline the day-to-day operations of the restaurant itself. But what about you—the manager—who dictates those day-to-day operations? Could you use some tips to help you manage better? Of course you could. We all could. Working on yourself is as important as, if not more important than, working on the operations of the business. That’s because everything you do affects some aspect of the restaurant—from the food quality to the atmosphere to the employee demeanor.
