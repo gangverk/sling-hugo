@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-07-21T06:56:00-04:00"
 description = "Discover 15 restaurant management tips that can help you improve the way you work. We’ll also show you how to implement those tips in your workplace."
-draft = true
 image = "/blog/forestryio/images/crew-87250.jpg"
 tags = []
 title = "15 Restaurant Management Tips To Improve The Way You Work"
