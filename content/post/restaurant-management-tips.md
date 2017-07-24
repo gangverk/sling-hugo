@@ -22,6 +22,8 @@ Transparency is an important aspect of restaurant management in the 21st century
 
 If you aren’t already, conduct regular staff meetings to keep employees up to date on the business. During work hours, keep in constant communication with employees so you know what’s going on. And don’t forget to provide positive encouragement when appropriate.
 
+<img src="/blog/forestryio/images/Depositphotos_54070961_m-2015.jpg" class=" forestry--none" style="float: none;">
+
 ## 3. Be A Model Of Stability For Your Employees
 
 The restaurant business can be notoriously inconsistent. One day can differ from the next which can differ from the next. This can wear away at employee efficiency because they have no idea what to expect from day to day.
@@ -45,6 +47,8 @@ For example, the emergence in recent years of employee scheduling software like 
 On most days, there are just too many things for you to handle effectively. That’s why it’s important to learn to delegate. Start by delegating the less-critical day-to-day chores to trusted employees you know can get the job done. This frees you up to focus on the bigger, more important issues your restaurant will face.
 
 In addition, delegating some of your many tasks to your employees helps them see what is involved in day-to-day operations (transparency) and trains them to take on more responsibility later.
+
+![](/blog/forestryio/images/Depositphotos_88058284_m-2015.jpg)
 
 ## 7. Lead By Example
 
@@ -70,6 +74,8 @@ Everyone needs encouragement now and again. Your employees are no different. Pos
 
 If you see someone doing a good job or notice how they handled a problem really well, take a moment to pull them aside and commend them. This one-on-one attention can make the employee feel like they’re respected and a valuable member of the team. Additionally, make it a point to highlight successes at staff meetings so that everyone can learn what constitutes a good job in your restaurant.
 
+![](/blog/forestryio/images/Depositphotos_50476585_m-2015.jpg)
+
 ## 11. Develop Your Problem-Solving Skills
 
 Everything that can go wrong in a restaurant will go wrong at one point or another. It’s pretty much a universal law. Because of that, it’s important to develop and strengthen your problem-solving skills so you can handle the myriad emergencies that are an integral part of the restaurant business.
@@ -91,13 +97,18 @@ Take some time out of your busy schedule to get some exercise at least three tim
 Whether you call it customer satisfaction, customer service, customer happiness, or customer care, make this value one of your top priorities. Think about all the unpredictable customer interactions you’re going to face during a normal work day:
 
 1. Diners who mosey in fifteen minutes before closing
+
 1. Customers who need the food prepared just so because of dietary restrictions
+
 1. Last-minute, large-group reservations during your prime seating time
+
 1. A customer who’s unhappy with the food
 
 The list goes on and on and could literally fill a book. And that’s just a normal work day. The stuff you face on an unusual day could have you scratching your head in confusion and amazement.
 
 The way you deal with these situations and scenarios goes a long way toward influencing how customers perceive your restaurant. It’s that perception that can have a profound effect on the success or failure of everything you do in the business. The way you deal with your customers also influences how your employees will react when put in a similar position. Your example is what they will draw on when they’re faced with these challenges. As you can see, a lot is riding on your customer service skills.
+
+<img src="/blog/forestryio/images/Depositphotos_33441431_m-2015.jpg" class=" forestry--none" style="float: none;">
 
 But how can you train yourself to always put customer satisfaction first? By weighing every situation on how it will affect the business, your employees, and the customer. It’s very much like passing water through a series of filters. What may start as a muddy mess eventually distills down to something that’s good for everyone. The decision you have to make regarding a strange customer request or an abnormal situation, starts out like that muddy mess. But after weighing out how the various options will affect the business, the employees, and the customer, your decision often becomes clear.
 
@@ -124,6 +135,7 @@ Your employees are going to be coming to you with questions about all sorts of t
 If you’re having trouble getting comfortable with multitasking, try these simple suggestions:
 
 1. Work on related tasks together. This helps minimize the toll on your neurons when your brain has to adjust.
+
 1. Keep your to-do list visible. This reminds you what really needs to get done and where your focus should always return.Take in new information when you’re sure you won’t be interrupted. This can help ensure that the new information gets committed to memory.
 
 With a bit of practice and determination, you can improve your ability to multitask just like you can improve other parts of your job.
@@ -131,3 +143,4 @@ With a bit of practice and determination, you can improve your ability to multit
 ## Work On Yourself Like You Work On The Business
 
 Working on yourself, like working on the business, can be a daunting task. Thankfully, working on yourself takes a single step to get started. If you feel that you’re lacking in any of the skills above, pick out the one that’s the most important to you and make an effort to improve. When you feel like you’ve integrated that skill into your management style, pick another skill from this list and work on it. By improving yourself and your management style, you can effectively improve your staff, your employees, and your restaurant as a whole.
+
