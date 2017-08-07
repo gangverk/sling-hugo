@@ -81,7 +81,7 @@ As with hiring a bookkeeper, talk to your friends in the business and see what t
 
 ## 4. Choose A Good Point-Of-Sale System
 
-This step in the restaurant account process is often overlooked. It’s overlooked because many managers don’t consider the decidedly “front-of-the-house” [point-of-sale](http://www.investopedia.com/terms/p/point-of-sale.asp) (POS) system as applicable to the “back-of-the-house” accounting system. That’s a shame because the two systems are intimately intertwined.
+This step in the restaurant account process is often overlooked. It’s overlooked because many [managers](https://getsling.com/blog/post/restaurant-management-tips/) don’t consider the decidedly “front-of-the-house” [point-of-sale](http://www.investopedia.com/terms/p/point-of-sale.asp) (POS) system as applicable to the “back-of-the-house” accounting system. That’s a shame because the two systems are intimately intertwined.
 
 Imagine being able to link your POS system and your restaurant accounting system so that you could track inventory and [labor costs](https://getsling.com/blog/post/managing-millennials/), methods of payment, and a whole host of other variables. How much easier would your life be if the two systems worked well together? I think that question answers itself.
 
@@ -105,7 +105,7 @@ Every restaurant has [expenses](https://getsling.com/blog/post/restaurant-budget
 
 Start out by entering and paying your bills once a week. As you gain some experience with restaurant accounting, you may discover that while sales need to be recorded every day, expenses may only need to be recorded every two weeks. It all depends on how you pay those bills.
 
-Whatever terms you work under, don’t let your bills pile up. Taking a half hour every other day impacts your busy schedule less than an hour-and-a-half every week or three hours every two weeks.
+Whatever terms you work under, don’t let your bills pile up. Taking a half hour every other day impacts your busy [schedule](https://getsling.com/blog/post/work-schedule-app/) less than an hour-and-a-half every week or three hours every two weeks.
 
 Here are [7 tips on how to prepare a restaurant budget](https://getsling.com/blog/post/restaurant-budget/)
 
@@ -142,8 +142,11 @@ The equation figure out food cost percentage is:
 Before we delve into the final percentage, let’s define each term so you know where to find these numbers for your own restaurant.
 
 * Beginning Inventory = Your start of the month food inventory
+
 * Food Purchases = The cost of all food purchases during the month in question
+
 * Ending Inventory = Your end of the month food inventory
+
 * Food Sales = Total food sales for the month
 
 Most restaurants just divide their food purchases by their food sales, but that number can be misleading. Here’s why.
@@ -179,9 +182,13 @@ Restaurant sales are retail sales, and are therefore subject to local and state 
 Sales tax should be applied to every purchase a customer makes in your restaurant to cover the tax you will owe the state at the end of the month. Not sure how to calculate the monthly sales tax you owe for your restaurant? Here’s a simple formula.
 
 1. Determine your sales tax rate. This will usually be in the form of a percentage. For example, the sales tax rate in our area is 7%.
+
 1. Add up the total of all taxable items sold during one month.
+
 1. Multiply your sales tax rate by the total of all taxable items sold during the month.
+
 1. Record these numbers on your state’s tax forms.
+
 1. Write a check for the amount you owe and send it in.
 
 Let’s look at an example. Let’s say the sales tax rate in your area is 5%. That means you will be charged 5% on all sales made during, for example, the month of May. You need to be charging your customers that 5% to cover the bill you’ll have. If you don’t, that tax will come out of your pocket and will seriously affect your profitability.
@@ -201,4 +208,3 @@ Don’t know what the sales tax is in your area? Find out [here](https://taxfoun
 ## Finally, Don't Get Bogged Down
 
 If all of this—learning the language, using accounting software, keeping track of all the numbers, and paying the appropriate taxes—feels overwhelming to you, don’t panic. In this case, we suggest you rely on steps two and seven: hire an accountant and outsource your payroll. Remember, the relatively small fees you pay for these services (which can be written off as operating expenses) can save you serious time and stress. That time and energy can be focused in other areas to help your restaurant remain profitable.
-
