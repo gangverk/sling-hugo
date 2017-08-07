@@ -1,11 +1,11 @@
 +++
 author = "Sling"
-date = "2016-12-26T10:10:00-05:00"
-description = "Discover 12 quick team-building activities. From group calisthenics to crossword races, you can build a cohesive team without breaking the bank."
+date = "2017-08-04T14:10:00+00:00"
+description = "Discover 20 quick team-building activities. From group calisthenics to crossword races, you can build a cohesive team without breaking the bank."
 draft = true
 image = "/blog/forestryio/images/image02-6.jpg"
 tags = []
-title = "12 Quick Team-Building Activities for Small Business Leaders"
+title = "20 Quick Team-Building Activities for Small Business Leaders"
 
 +++
 Building a cohesive team is important for any business. But too many [leaders](https://getsling.com/blog/post/effective-leaders/) make team building into a time-consuming, expensive process.
