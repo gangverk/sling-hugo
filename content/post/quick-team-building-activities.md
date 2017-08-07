@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-08-04T14:10:00+00:00"
 description = "Discover 20 quick team-building activities. From group calisthenics to crossword races, you can build a cohesive team without breaking the bank."
-draft = true
 image = "/blog/forestryio/images/image02-6.jpg"
 tags = []
 title = "20 Quick Team-Building Activities for Small Business Leaders"
@@ -134,7 +133,7 @@ This is a great activity to use before a larger party because you’re playing a
 
 ## 16. Pop The Balloons
 
-It might sound easy, but it’s really not. Divide your employees into two teams, and have one member of each team take a turn popping as many balloons as possible in one minute. The caveat? Do this while wearing oven mitts or boxing gloves. See why it’s such a challenge? To make it even more difficult, instruct contestants not to step on, sit on, bite, poke, or use any implement but their hands to pop the balloons. With this game, you’ll see why frustration can be really funny.
+It might sound easy, but it’s really not. Divide your [employees](https://getsling.com/blog/post/employee-scheduling/) into two teams, and have one member of each team take a turn popping as many balloons as possible in one minute. The caveat? Do this while wearing oven mitts or boxing gloves. See why it’s such a challenge? To make it even more difficult, instruct contestants not to step on, sit on, bite, poke, or use any implement but their hands to pop the balloons. With this game, you’ll see why frustration can be really funny.
 
 ## 17. Baby & Adult
 
@@ -187,4 +186,3 @@ You will need plenty of table space and lots of beans for this game to work, so 
 Dump one bag of black beans and one bag of chickpeas into a bowl for each team, and then mix the beans thoroughly. You’ll also need two empty bowls for each team to hold the sorted beans. Alternatively, you could just have teams sort the beans into piles on the table top. Whatever works for you.
 
 When everything is set, challenge the teams to sort the beans by type. The team that sorts all its beans first is the winner. This is probably the easiest variation because you don’t have to count at the end. But for an extra bit of fun and urgency, consider setting a time limit of one or two minutes. The team that sorts the most black beans and the most chickpeas in that time wins the game.
-
