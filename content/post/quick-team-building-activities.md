@@ -8,6 +8,8 @@ tags = []
 title = "20 Quick Team-Building Activities for Small Business Leaders"
 
 +++
+
+
 Building a cohesive team is important for any business. But too many [leaders](https://getsling.com/blog/post/effective-leaders/) make team building into a time-consuming, expensive process.
 
 It doesn’t have to be that complicated. It can be as simple as a round of drinks, group calisthenics, or a quick game of Pictionary. No psychology necessary. This article will show you 20 of the best quick team-building activities to keep your employees [engaged](https://getsling.com/blog/post/employee-engagement-ideas/) and working well together.
@@ -18,7 +20,7 @@ Calisthenics are exercises designed to achieve fitness and health. They can be d
 
 ## 2. Knot My Job
 
-Another great team-building exercise is Knot My Job. It’s a great way to get everyone’s juices flowing. First, assemble enough string or rope so that all your employees can have an equal piece. Then, gather everyone together, distribute the string, and challenge each team member to tie as many simple overhand knots as possible in a set amount of time. If there’s a tie for the most knots, challenge those employees to see how many knots they can untie in that same amount of time. The employee with the most knots tied or untied wins.
+Another great team-building exercise is Knot My Job. It’s a great way to get everyone’s juices flowing. First, assemble enough string or rope so that all your employees can have an equal piece. Then, gather everyone together, distribute the string, and challenge each team member to tie as many simple [overhand knots ](http://www.animatedknots.com/indexbasics.php#ScrollPoint)as possible in a set amount of time. If there’s a tie for the most knots, challenge those employees to see how many knots they can untie in that same amount of time. The employee with the most knots tied or untied wins.
 
 If you want to make it more challenging, teach them a new, more complicated knot and challenge them to tie as many of those as possible. Most people can tie an overhand knot without really thinking. But ask them to tie a Bowline Hitch, and now you’ve got the brains and the body involved. That can make for a seriously fun(ny) competition.
 
@@ -34,7 +36,7 @@ Another option for the “drinks with friends” concept is to institute a wine 
 
 ## 4. Team Crossword Puzzle Race
 
-Another great game for drawing your team closer together is the team crossword puzzle race. First, make two copies of the same crossword puzzle. The New York Times crossword can make for an interesting challenge. Or you can pull a simple puzzle off the internet. Just make sure the puzzles you use are identical and that you have access to the correct answers.
+Another great game for drawing your team closer together is the team crossword puzzle race. First, make two copies of the same crossword puzzle. [The New York Times crossword](http://www.nytimes.com/crosswords/index.html?page=home&_r=0) can make for an interesting challenge. Or you can pull a simple puzzle off the internet. Just make sure the puzzles you use are identical and that you have access to the correct answers.
 
 Second, divide into teams and give each team a crossword puzzle. Then challenge the teams to fill in the crossword puzzle in a set amount of time—say, thirty minutes. As an alternative to one long stretch working on the crossword, you could break it up into quick five- or ten-minute sprints. Imagine your team laser-focused on their tasks when you walk in and yell, “Crossword!” They drop what they’re doing and huddle together to see how many words they can get in five minutes. What a great way to get both the blood and the mind going at full throttle. If no one completes the crossword in the time you set, the team with the most correct answers wins.
 
@@ -52,7 +54,7 @@ Because these rounds are fairly short, you can conduct a number of them througho
 
 This may be one of the greatest quick team-building activities ever. All you need is a TV, a Nintendo 64, and a copy of the classic Mario Kart video game. If possible, get four controllers so you can involve more players at a time.
 
-If you have four controllers, divide your employees into teams of two and pit one team against another.  Alternatively, you can have each employee play for himself. If you’ve got the time, let the winners of each round play against each other until there’s only one team (or individual) left. Get everyone playing together and you’ll create a team that feels cohesive, engaged, and appreciated.
+If you have four controllers, divide your employees into teams of two and pit one team against another.  Alternatively, you can have each employee play for himself. If you’ve got the time, let the winners of each round play against each other until there’s only one team (or individual) left. Get everyone playing together and you’ll create a team that feels cohesive, engaged, and [appreciated](https://getsling.com/blog/post/employee-appreciation/).
 
 ## 7. Answer Trivia Questions
 
@@ -66,7 +68,7 @@ If you  can get hold of some type of buzzer, you can have a head-to-head trivia 
 
 ![](/blog/forestryio/images/image01-4.jpg)
 
-Group meditation is a great way to give your employees a break from their busy work day while building a more cohesive team and the benefits of meditation are significant. Meditation helps reduces stress, improves concentration, increases happiness, and benefits cardiovascular and immune health. All great things for keeping your employees happy and healthy.
+Group meditation is a great way to give your employees a break from their [busy work day](https://getsling.com/blog/post/work-schedule-app/) while building a more cohesive team and the benefits of meditation are significant. Meditation helps reduces stress, improves concentration, increases happiness, and benefits cardiovascular and immune health. All great things for keeping your employees happy and healthy.
 
 If possible, get enough yoga mats so that everyone can lie on the floor. If you don’t have the room to get everyone lying down, you might consider just using office chairs. You may also need to bring in someone who is familiar with running a meditation session so your employees get the most out of this quick team-building activity.
 
@@ -78,17 +80,19 @@ Later in the day, gather everyone together in a circle and then choose someone t
 
 ## 10. One-Minute Typing Test
 
-This team-building activity is both practical and fun. It encourages fast typing (a good business skill to have) and a spirit of competition. To set it up, print a copy of a fairly long news story. Then give each employee a minute to correctly type as much of the news story as possible. All you need is a simple word processor with word count capabilities so you don’t have to count each individual word. Alternatively, you can use a typing test website (like TypingTest.com) if you have access to the internet.
+This team-building activity is both practical and fun. It encourages fast typing (a good business skill to have) and a spirit of competition. To set it up, print a copy of a fairly long news story. Then give each employee a minute to correctly type as much of the news story as possible. All you need is a simple word processor with word count capabilities so you don’t have to count each individual word. Alternatively, you can use a typing test website (like [TypingTest.com](http://www.typingtest.com/)) if you have access to the internet.
 
 If all your team members are close together, you can conduct this competition with everyone typing at the same time. If that’s not feasible (for whatever reason), have each person do it one at a time. You could even do it two or three times throughout the day then average the scores together. The team member who types the most, or has the fastest speed, wins.
 
 ## 11. Treasure Hunt
 
+![](/blog/forestryio/images/Depositphotos_7459300_m-2015.jpg)
+
 Get two of the same object— empty carafes or pans work well. Label one “A” and the other “B”. Hide these objects in the workplace (either together or apart). Gather your employees together and divide them into team A and team B. Then give them a clue or just tell them you’ve hidden labeled objects somewhere nearby. Give them two minutes to find their team’s object. First one to hand the object to you wins. If no one finds their team’s object in the two minutes, run the treasure hunt again an hour or two later.
 
 ## 12. Watch A Funny YouTube Video
 
-There’s so much out there to make us laugh these days and YouTube has pretty much all of it. Take some time out of your busy schedule, gather the troops together, and watch a hilarious viral video. Maybe a funny cat video or something by Conan O’Brien. There are so many to choose from you really can’t go wrong. One of our favorites is this Bad Lip Reading of the NFL.
+There’s so much out there to make us laugh these days and YouTube has pretty much all of it. Take some time out of your [busy schedule](https://getsling.com/blog/post/schedule-my-employees/), gather the troops together, and watch a hilarious viral video. Maybe a [funny cat video](https://www.youtube.com/watch?v=XyNlqQId-nk) or something by Conan O’Brien. There are so many to choose from you really can’t go wrong.
 
 ## 13. Observation
 
@@ -114,7 +118,9 @@ Divide the group into two lines (they don’t have to be equal) and have them fa
 
 If you want to make it really difficult, you can include the person’s place in the line as a variable to change. When time runs out for making changes, instruct the first line to turn around and find the things that are different. Give the guessing team a certain amount of time to add to the suspense of the game. Once all changes have been discovered, or when time runs out, switch roles and go again.
 
-## 14. Keep It Up
+## 14. Keep The Balloon Up
+
+![](/blog/forestryio/images/Depositphotos_43730851_m-2015.jpg)
 
 This one is simple: keep three balloons in the air. For a truly chaotic and fun time, get enough balloons so that all your team member can have three. Gather everyone in a large open space (like the lobby), give each person three balloons of the same color (e.g., Bob has three red while Cindy has three yellow) and see who can keep their balloons up the longest. If you have a lot of people this quickly becomes a swirling mass of color and confusion. Film the event so everyone can see what happened after. Hilarious!
 
@@ -141,15 +147,25 @@ To make it harder, or to extend the game so you can use it again, consider mixin
 Before you start this activity, you’ll need a marker, tape, and enough paper for each team member to have one sheet. Sit down by yourself and come up with as many pairs of things as you can. Common, well-known pairs work best because you don’t want you employees confused about which ones go together. Here are just a few ideas:
 
 * Minnie and Mickey
+
 * Hard and soft
+
 * Peanut butter and jelly
+
 * Yin and yang
+
 * Noise and silence
+
 * Salt and pepper
+
 * Dark and light
+
 * Up and down
+
 * Fred and Wilma
+
 * Archie and Jughead
+
 * Han Solo and Chewbacca
 
 When you’ve come up with all your pairs, write each word (not pair) on a separate sheet of paper (hard on one sheet, soft on another). Next, gather everyone together, line them up side by side (so they can’t see each other’s backs), and tape a piece of paper on each person.
@@ -157,6 +173,8 @@ When you’ve come up with all your pairs, write each word (not pair) on a separ
 Instruct participants that they can only ask “Yes” or “No” questions to determine what word is on their back. The ultimate goal is to find your match, but each person must know the word on their back before pairing off. Once a match is made, the pair must learn three to five interesting facts about one another and report them to the group when the game is over.
 
 ## 19. Frustration
+
+![](/blog/forestryio/images/Depositphotos_24524927_m-2015.jpg)
 
 This game goes by many names, but the premise is simple: pick up and move as many M&Ms (or Skittles or Raisinettes) as possible in one minute using nothing but chopsticks. This game requires at least one set of chopsticks, two bowls, and plenty of candy. You can play this where everyone competes against everyone else, or you can divide into teams. The team version is particularly funny to watch.
 
@@ -168,4 +186,5 @@ You will need plenty of table space and lots of beans for this game to work, so 
 
 Dump one bag of black beans and one bag of chickpeas into a bowl for each team, and then mix the beans thoroughly. You’ll also need two empty bowls for each team to hold the sorted beans. Alternatively, you could just have teams sort the beans into piles on the table top. Whatever works for you.
 
-When everything is set, challenge the teams to sort the beans by type. The team that sorts all its beans first is the winner. This is probably the easiest variation because you don’t have to count at the end. But for an extra bit of fun and urgency, consider setting a time limit of one or two minutes. The team that sorts the most black beans and the most chickpeas in that time wins the game. 
+When everything is set, challenge the teams to sort the beans by type. The team that sorts all its beans first is the winner. This is probably the easiest variation because you don’t have to count at the end. But for an extra bit of fun and urgency, consider setting a time limit of one or two minutes. The team that sorts the most black beans and the most chickpeas in that time wins the game.
+
