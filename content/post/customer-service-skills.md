@@ -2,7 +2,6 @@
 author = "GetSling"
 date = "2017-08-11T15:36:01+00:00"
 description = "Customer service skills are the cornerstone of every successful business. Here are the twenty most important customer service skills you need to have."
-draft = true
 image = "/blog/forestryio/images/Customer Service Skills_3.jpg"
 tags = []
 title = "The 20 Most Important Customer Service Skills You Need To Have"
