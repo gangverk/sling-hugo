@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-08-18T21:01:57+00:00"
 description = "Exit interview questions are a powerful tool for getting direct answers about your company. Sling’s experts show you the twenty best exit interview questions to help you get the information you need to improve your business."
-draft = true
 image = "/blog/forestryio/images/Exit Interview Questions_6-1.jpg"
 tags = []
 title = "The 20 Best Exit Interview Questions"
