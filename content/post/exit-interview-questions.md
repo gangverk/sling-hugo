@@ -10,7 +10,7 @@ title = "The 20 Best Exit Interview Questions"
 +++
 
 
-Do you want honest feedback about company culture, morale, management, and your business as a whole? Don’t look to your existing employees for that information. Their answers can be clouded by the desire to keep their job. Look, instead, to those employees who are leaving. They have nothing to gain and nothing to lose. But how, exactly, can you get that honest feedback? By instituting an exit interview process.
+Do you want honest feedback about company [culture](https://getsling.com/blog/post/5-tips-for-initiating-employees-and-keeping-them-around/), [morale](https://getsling.com/blog/post/employee-engagement-ideas/), management, and your business as a whole? Don’t look to your existing employees for that information. Their answers can be clouded by the desire to keep their job. Look, instead, to those employees who are leaving. They have nothing to gain and nothing to lose. But how, exactly, can you get that honest feedback? By instituting an exit interview process.
 
 Many managers wonder how to get the valuable information they’re looking for. It all comes down to the questions you ask. In this article, Sling’s experts have created a list of the twenty best exit interview questions. You can pick and choose according to your needs, or use them all to gain deep insight into your employees and your company.
 
@@ -26,7 +26,7 @@ Some may see these first two questions as the same, but they’re actually very 
 
 ## 3) What Does Your New Position Offer That Influenced Your Decision To Leave?
 
-The answer to this question will indicate the specifics of where your company is lacking. It could be company culture. It could be pay or benefits. It could be lack of flexibility. It could be any number of things. The important thing to remember is that the information the outgoing employee provides can be used to pick up the slack where your company has fallen short.
+The answer to this question will indicate the specifics of where your company is lacking. It could be company culture. It could be pay or benefits. It could be lack of flexibility. It could be any number of things. The important thing to remember is that the information the outgoing [employee](https://getsling.com/blog/post/how-do-i-keep-my-employees-longer/) provides can be used to pick up the slack where your company has fallen short.
 
 ## 4) What Could We Have Done Better?
 
@@ -40,11 +40,11 @@ Be prepared for a yes or no answer to this question, but probe a little deeper b
 
 ## 6) What Could We Have Done To Keep You Here?
 
-This question will often tease out more reasons why the employee felt dissatisfied with her job and started looking for another. Because your are asking a very direct question, you may get a series of direct answers. But that can be very valuable. Answers like, more pay, more benefits, more advancement, can reveal a lot when you correlate them with the employee’s term at your company. If she received regular raises but was still dissatisfied with her pay, maybe the raises need to more frequent.
+This question will often tease out more reasons why the employee felt dissatisfied with her job and started looking for another. Because your are asking a very direct question, you may get a series of direct answers. But that can be very valuable. Answers like, more pay, more benefits, more advancement, can reveal a lot when you correlate them with the [employee](https://getsling.com/blog/post/employee-scheduling/)’s term at your company. If she received regular raises but was still dissatisfied with her pay, maybe the raises need to more frequent.
 
 ## 7) Were You Comfortable Talking To Your Manager?
 
-The unique thing about this question is that it reveals details about two individuals—the outgoing employee and the manager. First and foremost, you can use the information you glean from the employee’s answer to improve the performance and development of the manager who still works for your company. Second, you can use the information to help in finding a new employee for the team.
+The unique thing about this question is that it reveals details about two individuals—the outgoing employee and the [manager](https://getsling.com/blog/post/effective-leaders/). First and foremost, you can use the information you glean from the employee’s answer to improve the performance and development of the manager who still works for your company. Second, you can use the information to help in finding a new employee for the team.
 
 ## 8) What Things Could Your Manager Have Done Better?
 
@@ -58,11 +58,11 @@ If the answer to this question is no, use it as an indicator that there may be o
 
 ## 10) Did You Have All The Tools And Training You Needed To Succeed At Your Job?
 
-You don’t often see what goes on on a daily basis in other parts of your company, just like other employees don’t see what goes on in your job. This question helps you see where you can improve the workplace environment (e.g., tools, training, resources, work conditions, etc.) that is so important to continued success.
+You don’t often see what goes on on a daily basis in other parts of your company, just like other employees don’t see what goes on in your job. This question helps you see where you can improve the workplace environment (e.g., tools, [training](https://getsling.com/blog/post/managing-millennials/), resources, work conditions, etc.) that is so important to continued success.
 
 ## 11) Do You Feel Your Job Description Changed Since You Were Hired? How?
 
-The way we work is constantly in flux, so it should come as no surprise if an employee indicates that his job changed while he worked at your company. Take the information this employee gives and use it to update the job description before starting the hiring process. That way, you can be sure you are looking for the right skills to fill the vacant position.
+The way we work is constantly in flux, so it should come as no surprise if an employee indicates that his job changed while he worked at your company. Take the information this employee gives and use it to update the [job description](https://getsling.com/blog/post/food-runner-job-description/) before starting the hiring process. That way, you can be sure you are looking for the right skills to fill the vacant position.
 
 ## 12) What Qualities Do You Think We Should Look For In Your Replacement?
 
@@ -76,7 +76,7 @@ Like question one, the answers you get to this question will be as varied as you
 
 ## 14) What Was Your Best Day On The Job Like?
 
-The heart of this question is employee engagement. You want to discern what an employee in this position likes and what makes him feel successful. Use the information he gives you to help you answer this question: “Is there a way to make more days like the best day?”
+The heart of this question is [employee engagement](https://getsling.com/blog/post/employee-engagement-ideas/). You want to discern what an employee in this position likes and what makes him feel successful. Use the information he gives you to help you answer this question: “Is there a way to make more days like the best day?”
 
 ## 15) What Was Your Worst Day On The Job Like?
 
@@ -94,7 +94,7 @@ If the answer is yes, find out where those goals came from and promote the proce
 
 ## 18) What Would You Change About Your Job?
 
-The answer to this question can help you see whether or not you need to change this particular position before you hire someone else. If the job itself caused the employee to leave, you may be hiring someone into a volatile position. Make the position better and you avoid high turnover in the future.
+The answer to this question can help you see whether or not you need to change this particular position before you [hire](https://getsling.com/blog/post/find-employees/) someone else. If the job itself caused the employee to leave, you may be hiring someone into a volatile position. Make the position better and you avoid high turnover in the future.
 
 ## 19) Would You Recommend Our Company To A Friend Looking For A Job?
 
@@ -105,4 +105,3 @@ If at all possible, you want the answer to this question to be yes. It indicates
 ## 20) Do You Have Any Other Issues Or Comments You’d Like To Address?
 
 This is a very open-ended question, so it invites the employee to comment on topics that may not have been addressed in the other questions. It’s also potentially volatile in that it can reveal things you weren’t aware of and may not want to hear. But those things you weren’t aware of can fester and spread and infect your employees writ large, not just a select few. Better to get it out in the open now so you can make the necessary changes.
-
