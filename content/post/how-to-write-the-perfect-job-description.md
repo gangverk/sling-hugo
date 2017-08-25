@@ -157,4 +157,3 @@ A 5-star, formal-dining restaurant needs a friendly, organized, and efficient wa
 (Insert contact information here.)
 
 Keep in mind that writing the perfect job description doesn’t have to be a complicated job. Break the process into smaller pieces, base your writing on the skills and traits that are essential for the job, and then use a template to craft your final product. It’s just that simple. For more great management tools and help scheduling your employees, visit GetSling.com.
-
