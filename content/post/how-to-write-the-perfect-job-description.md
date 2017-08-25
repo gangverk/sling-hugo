@@ -12,8 +12,6 @@ title = "How To Write The Perfect Job Description To Fill Any Position"
 
 Writing a job description may seem like a trivial part of the employee-search process. After all, it’s the person you hire that makes the most difference, right? Wrong! The person you ultimately hire is an important part of the equation, but attracting the right people in the first place is crucial to the success of the entire endeavor. Writing the perfect job description can bring in more well-qualified applicants and give you more options to choose from.
 
-<img src="/blog/forestryio/images/Perfect%20Job%20Description_2.jpg" alt="" class=" forestry--none" style="float: none;">
-
 But how can you go about writing a great job description? What should you include or leave out? The experts at Sling will answer all those questions and more. We’ll even show you how to write the perfect job description and give you a template you can use to get started.
 
 For the time being, though, let’s turn our attention back to the first step to writing the perfect job description.
@@ -67,11 +65,8 @@ We’ll now turn our attention from what makes for a good employee, to how we ca
 A basic job description should be divided into four sections:
 
 * Job title
-
 * Job summary
-
 * Responsibilities
-
 * Qualifications
 
 Let’s examine those one at a time.
@@ -95,13 +90,9 @@ In the responsibilities section, break down all the duties the job requires and 
 In this final section, list the following information:
 
 * Necessary education (e.g., high school diploma or GED)
-
 * Technical skills
-
 * Experience
-
 * Certifications
-
 * Must-have personality traits
 
 This is the place to list each and every characteristic you wrote down in the first step. Get it all in there so the prospective employee can see what is needed and won’t be surprised during the interview process.
@@ -119,43 +110,26 @@ A 5-star, formal-dining restaurant needs a friendly, organized, and efficient wa
 ## Responsibilities
 
 * Greet customers warmly.
-
 * Establish professional relationship with guest.
-
 * Inform patrons of specials and provide enthusiastic advice about ordering.
-
 * Record customer orders and relay that information to kitchen staff.
-
 * Take care of all customer needs making sure they never want for anything.
-
 * Suggestion additional items like desserts and beverages when appropriate.
-
 * Work together with other servers and kitchen staff to ensure prompt delivery of all food and drink.
-
 * Maintain cleanliness of all public areas.
-
 * Maintain cleanliness of personal appearance at all times.
 
 ## Qualifications
 
 * 5+ years experience preferred
-
 * Familiarity with point-of-sale (POS) software
-
 * Ability to lift up to 30 pounds
-
 * Ability to stay calm, organized, and efficient under pressure
-
 * High school diploma or GED preferred
-
 * Flexibility and willingness to work weekends, evenings, and holidays as needed
-
 * Enthusiasm for good food that is easily expressed to customers
-
 * Able to memorize 3-5 specials and their descriptions for easy recitation to guests
-
 * Observant and attendant to all customer needs
-
 * Impeccable manners or the willingness to learn
 
 ## Contact
@@ -163,4 +137,3 @@ A 5-star, formal-dining restaurant needs a friendly, organized, and efficient wa
 (Insert contact information here.)
 
 Keep in mind that writing the perfect job description doesn’t have to be a complicated job. Break the process into smaller pieces, base your writing on the skills and traits that are essential for the job, and then use a template to craft your final product. It’s just that simple. For more great management tools and help scheduling your employees, visit GetSling.com.
-
