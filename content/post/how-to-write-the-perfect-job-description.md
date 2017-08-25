@@ -12,7 +12,7 @@ title = "How To Write The Perfect Job Description To Fill Any Position"
 
 Writing a job description may seem like a trivial part of the employee-search process. After all, it’s the person you hire that makes the most difference, right? Wrong! The person you ultimately hire is an important part of the equation, but attracting the right people in the first place is crucial to the success of the entire endeavor. Writing the perfect job description can bring in more well-qualified applicants and give you more options to choose from.
 
-![](/blog/forestryio/images/Perfect%20Job%20Description_2.jpg)
+<img src="/blog/forestryio/images/Perfect%20Job%20Description_2.jpg" alt="" class=" forestry--none" style="float: none;">
 
 But how can you go about writing a great job description? What should you include or leave out? The experts at Sling will answer all those questions and more. We’ll even show you how to write the perfect job description and give you a template you can use to get started.
 
@@ -20,7 +20,7 @@ For the time being, though, let’s turn our attention back to the first step to
 
 ## The First Step to The Perfect Job Description
 
-![](/blog/forestryio/images/Perfect%20Job%20Description_1.jpg)
+<img src="/blog/forestryio/images/Perfect%20Job%20Description_1.jpg" alt="" class=" forestry--none" style="float: none;">
 
 You don’t need a computer for this first step. You don’t even need the template we’ve provided for you at the end of this article. All you, the manager, needs is a pen, paper, and your own knowledge of the jobs at hand.
 
@@ -29,6 +29,8 @@ The best way to write an outstanding job description is to start by figuring out
 So, the first, step is to list out the traits and skills in order of importance for your business.Your list of must-have chef skills would place “food knowledge” toward the top with “personable” toward the bottom. Once you have all the skills and traits listed for each job, you’ll use those to build your perfect job description. But before you do that, and to give you a little more guidance in this first step, we’ll discuss five traits that every employee should have regardless of the task they perform.
 
 ## The Skills & Traits Of A Good Employee
+
+<img src="/blog/forestryio/images/Perfect%20Job%20Description_3.jpg" class=" forestry--none" style="float: none;">
 
 Whether they’re taking out the garbage or glad-handing your best customers, a good employee should exhibit (or be able to learn) the following skills.
 
@@ -49,6 +51,8 @@ A good employee is an efficient employee. There are a lot of tasks to complete i
 Like good manners, good communication skills are always important. It doesn’t matter if the employee only interacts with other employees on a daily basis, at some point, there’s going to be a need to ask questions, answer questions, give commands, or supply important information. A good employee is able to answer all questions with relevant information and deliver commands quickly and concisely.
 
 ### 5. Organized
+
+![](/blog/forestryio/images/Perfect%20Job%20Description_5.jpg)
 
 Whether they’re delivering food to your customers or delivering a presentation to potential clients, a good employee needs a strong sense of organization. Being organized will help him juggle myriad responsibilities in an efficient manner. And depending on the job for which you’re hiring, there may be a lot of information, documents, schedules, and even other employees that need to be tracked. Organization helps make those activities go smoothly.
 
@@ -81,6 +85,8 @@ The job title should be something that answers the question, “What do you do?�
 The job summary section should provide a brief description of your business, the part the prospective employee will play in that business, and any expectations you may have. It’s in this section you put those traits and skills you defined earlier to work. Include descriptive words like “passionate”, “knowledgeable”, and “observant” to describe what you’re looking for in an employee.
 
 ### 3. Responsibilities
+
+<img src="/blog/forestryio/images/Perfect%20Job%20Description_4.jpg" class=" forestry--none" style="float: none;">
 
 In the responsibilities section, break down all the duties the job requires and place them in a bulleted list. Keep in mind that this is all about the details of the job. The skills and traits you listed in the first step of this process aren’t as important as describing what the employee would have to do should he be hired. But you can still sneak those traits into the mix by using appropriate words like “teamwork” and “smile”. For example, you might write, “Serve food with a smile” to underscore the importance of being friendly.
 
@@ -157,3 +163,4 @@ A 5-star, formal-dining restaurant needs a friendly, organized, and efficient wa
 (Insert contact information here.)
 
 Keep in mind that writing the perfect job description doesn’t have to be a complicated job. Break the process into smaller pieces, base your writing on the skills and traits that are essential for the job, and then use a template to craft your final product. It’s just that simple. For more great management tools and help scheduling your employees, visit GetSling.com.
+
