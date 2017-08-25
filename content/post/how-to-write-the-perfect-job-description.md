@@ -1,8 +1,7 @@
 +++
 author = "Sling"
-date = "2017-08-25T21:31:12+00:00"
+date = "2017-08-24T21:31:12+00:00"
 description = "Finding it hard to write a good job description? The experts at Sling are here to help! We’ll show you how to write the perfect job description and give you a template to make the whole thing that much easier. "
-draft = true
 image = "/blog/forestryio/images/Perfect Job Description_2.jpg"
 tags = []
 title = "How To Write The Perfect Job Description To Fill Any Position"
