@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-09-02T18:16:19+00:00"
 description = "Writing a termination letter can be a stressful experience. In this article, the experts at Sling give you a termination letter template to follow, and show you what to put in the letter and what to leave out."
-draft = true
 image = "/blog/forestryio/images/How To Write A Termination Letter_1.jpg"
 tags = []
 title = "How To Write A Termination Letter"
