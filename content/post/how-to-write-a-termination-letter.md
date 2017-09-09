@@ -56,9 +56,7 @@ It could be something as expensive as a tablet, a laptop, or even a company car.
 If possible, it makes things easier if you give your employee their last paycheck when the termination letter is signed. If this is not feasible, include specifics in the letter regarding:
 
 * The date they’ll be paid through
-
 * When their check will be made available
-
 * Options for obtaining that last paycheck (pick up, mail, direct deposit)
 
 ## Items To Exclude From A Termination Letter
