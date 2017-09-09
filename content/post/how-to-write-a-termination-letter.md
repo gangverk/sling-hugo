@@ -8,8 +8,6 @@ tags = []
 title = "How To Write A Termination Letter"
 
 +++
-
-
 As a [manager](https://getsling.com/blog/post/restaurant-management-tips/), you’d much rather think about hiring than firing. We all would. But sometimes, terminating an employee has to be done for the betterment of your business and for those who work there. To make the matter even more difficult, the way in which you terminate an employee can have huge legal ramifications down the road. That’s where the termination letter comes in. Even if you verbally fire an employee (which [you should](https://getsling.com/blog/post/exit-interview-questions/)), it’s a good idea to also provide notice in writing. When you give the employee a termination letter (be sure to keep a copy for your own files), you protect yourself and your business should questions or legal issues come up in the future.
 
 <img src="/blog/forestryio/images/How%20To%20Write%20A%20Termination%20Letter_1.jpg" class=" forestry--none" style="float: none;">
@@ -17,11 +15,8 @@ As a [manager](https://getsling.com/blog/post/restaurant-management-tips/), you�
 That said, writing a termination letter can be an extremely daunting task. If you’ve never written one before, you may wonder:
 
 * What type of language should I use?
-
 * What should I put in?
-
 * What should I leave out?
-
 * Where do I begin?
 
 The experts at Sling are here to help. We’ll answer all those questions and more. We’ll even give you a termination letter template to help you get started. Before we get to the template, though, it’s important to begin by examining what type of language you should use throughout the document. After that, we’ll look at the specific information you should put in the termination letter, and what you should leave out.
