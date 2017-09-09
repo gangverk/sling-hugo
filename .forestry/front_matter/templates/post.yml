@@ -1,0 +1,33 @@
+---
+hide_body: false
+fields:
+- name: title
+  default: 'Title of post here '
+  label: Title
+  hidden: false
+  type: text
+- name: date
+  default: ''
+  label: Date
+  hidden: false
+  type: datetime
+- name: author
+  default: Your name here
+  label: Author
+  hidden: false
+  type: text
+- name: description
+  default: ''
+  label: Description
+  hidden: false
+  type: textarea
+- name: image
+  default: "/blog/forestryio/images/sling.png"
+  label: Image
+  hidden: false
+  type: file
+- name: tags
+  default: []
+  label: Tags
+  hidden: false
+  type: tag_list
