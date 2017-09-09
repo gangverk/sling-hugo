@@ -129,8 +129,8 @@ Regards,
 Jane Rogers
 Human Resources Manager
 XYZ Company
-<end template="">
-<p>The termination letter doesn’t have to be complicated. Just be sure to cover all your bases and include all pertinent details so that problems don’t arise later. For more great management tools and advice, and for help scheduling your employees, visit <a href="https://getsling.com/">GetSling.com</a> today.</p>
-<p><b>Legal Disclaimer:</b> The laws regarding an employee’s final paycheck vary from state to state and country to country. Verify the process in your area and edit the template accordingly. Additionally, we make every effort to offer accurate management, employer, and workplace advice. That said, we are not attorneys. The content on this site is not to be construed as legal advice. <a href="https://getsling.com/">GetSling.com</a> has a worldwide audience and employment laws and regulations vary drastically from place to place. We recommend that you always seek legal counsel regarding the laws and correct procedures for your area. The information on the site is provided for guidance only, not as legal direction.</p>
-</end>
+<end template=""></end>
 
+The termination letter doesn’t have to be complicated. Just be sure to cover all your bases and include all pertinent details so that problems don’t arise later. For more great management tools and advice, and for help scheduling your employees, visit [GetSling.com](https://getsling.com/) today.
+
+**Legal Disclaimer:** The laws regarding an employee’s final paycheck vary from state to state and country to country. Verify the process in your area and edit the template accordingly. Additionally, we make every effort to offer accurate management, employer, and workplace advice. That said, we are not attorneys. The content on this site is not to be construed as legal advice. [GetSling.com](https://getsling.com/) has a worldwide audience and employment laws and regulations vary drastically from place to place. We recommend that you always seek legal counsel regarding the laws and correct procedures for your area. The information on the site is provided for guidance only, not as legal direction.
