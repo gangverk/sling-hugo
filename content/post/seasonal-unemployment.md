@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-09-15T19:09:15+00:00"
 description = "Don’t let seasonal unemployment hold your business back. The experts at Sling show you how to navigate the ups and downs of a business that varies from season to season."
-draft = true
 image = "/blog/forestryio/images/Seasonal Unemployment_1.jpg"
 tags = []
 title = "How To Navigate Your Business Through Seasonal Unemployment"
