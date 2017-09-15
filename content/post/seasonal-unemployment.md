@@ -14,10 +14,10 @@ It’s a fact of business that certain times of the year are busier than others.
 
 These industry-specific seasons bring with them increased activity, yes, but they also bring with them the need for more employees to handle the rush. And with all those hires comes the inevitability of seasonal unemployment. That’s not a bad thing, but it raises the questions:
 
-How do we navigate the business through seasonal unemployment?
-When should we hire seasonal workers?
-How do we prepare our new hires for seasonal unemployment?
-What do we do with those extra employees when the busy stretch grinds to a halt?
+* How do we navigate the business through seasonal unemployment?
+* When should we hire seasonal workers?
+* How do we prepare our new hires for seasonal unemployment?
+* What do we do with those extra employees when the busy stretch grinds to a halt?
 
 Those aren’t the only questions but they are at the top of every [manager’s list](https://getsling.com/blog/post/no-call-no-show/) during the busy season. To help you find answers that work for your business, the experts at [Sling](https://getsling.com/) have created this guide that will show you how to navigate the ups and downs of seasonal unemployment. Along the way, we’ll answer the four questions mentioned above and touch on several other issues relevant to managing seasonal employees. Let’s get started!
 
@@ -49,11 +49,11 @@ If your busy time of year is the Christmas holiday, don’t wait until the middl
 
 This three-month lead time gives you and the new employees plenty of time to see:
 
-How they fit in with the existing team.
-Whether or not they can do the job well.
-How they stack up under pressure.
-How fast they learn.
-What they can handle and what they can’t handle.
+* How they fit in with the existing team.
+* Whether or not they can do the job well.
+* How they stack up under pressure.
+* How fast they learn.
+* What they can handle and what they can’t handle.
 
 At this point, you may be wondering what to do with these seasonal workers for the two or three months before things get busy. The answer: make them part of your [part-time staff](https://getsling.com/blog/post/how-do-i-keep-my-employees-longer/). It helps to think of your employee needs as different levels. At the top you have your full-time employees. The next level down you have your part-time employees. The next level down you have your seasonal workers. You already know you’re going to move your part-time workers up to the full-time level by end of November. Your seasonal workers will then occupy the part-time level for a few weeks or months. To help everyone get used to this new structure before it kicks in, start bumping people up a level in October, for example. Rotate some part-timers into full-time positions. Then integrate the new hires into the part-time ranks to get trained and so they can gain experience.
 
@@ -82,4 +82,3 @@ With Sling, you can set up shift schedules, manage time off, availability, and s
 <img src="/blog/forestryio/images/Seasonal%20Unemployment_3.png" class=" forestry--none forestry--none" style="float: none;">
 
 Sling also makes it easy to distribute the schedule and stay in touch. When you post your completed schedule to the cloud, Sling notifies all employees with a push notification. Those employees can then access the schedule anytime, anywhere. You can even set Sling to send out reminders of upcoming shifts, or the need for a substitute, so you can cut down on absenteeism. And that’s only the tip of the Sling iceberg. With Sling’s four main features—shifts, messages, newsfeed, and tasks—there are countless ways the app can make your scheduling life easier. So don’t let seasonal employees clutter up your scheduling time. Get in, make the schedule, and get out so you can devote your time to keeping your business running, even during the busiest time of the year. Sling can do that for you.
-
