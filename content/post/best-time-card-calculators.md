@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-09-22T19:10:33+00:00"
 description = "Are you struggling with calculating payroll? The experts at GetSling are here to help. We’ll show you the ten best time card calculators to make your busy life easier."
-draft = true
 image = "/blog/forestryio/images/Time Card Calculators_5.jpg"
 tags = []
 title = "10 Best Time Card Calculators | GetSling"
