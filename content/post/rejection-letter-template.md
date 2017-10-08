@@ -125,8 +125,8 @@ And be sure to change other aspects of the letter so that it addresses the speci
 
 BEGIN TEMPLATE
 
-Ms. Regina Phalange
-1234 Long Road Lane 
+Ms. Regina Phalange 
+1234 Long Road Lane  
 Athol, MA 01331
 
 Dear Ms. Phalange,
@@ -139,7 +139,7 @@ We wish you success with your job search and your future endeavors. Thank you fo
 
 Regards,
 
-Malcolm Reynolds
+Malcolm Reynolds 
 Manager, XYZ Restaurant
 
 END TEMPLATE
