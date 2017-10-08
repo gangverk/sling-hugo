@@ -78,7 +78,7 @@ Now that we’ve established some general guidelines for language and content, l
 
 ## The Parts Of A Rejection Letter
 
-<img src="/blog/forestryio/images/image5-3.jpg" alt="" class=" forestry--none" style="float: none;">
+<img src="/blog/forestryio/images/image5-3.jpg" alt="" class=" forestry--none forestry--none" style="float: none;">
 
 Every rejection letter is composed of at least two basic parts: the explanation and the salutation. You can also choose to include further details as you deem necessary. Here’s a breakdown of each of the parts.
 
@@ -147,7 +147,8 @@ Malcolm Reynolds
 Manager, XYZ Restaurant
 
 END TEMPLATE
-<end template="">
-<p>The rejection letter doesn’t have to be long, drawn out, or complicated. Just keep the language professional, provide only necessary information, and get right to the point. That way you can build a good reputation even with those you have to turn down.</p>
-<p>For more great management tools and advice, and for help scheduling your employees, visit <a href="www.getsling.com">GetSling.com</a> today.</p>
-</end>
+<end template=""></end>
+
+The rejection letter doesn’t have to be long, drawn out, or complicated. Just keep the language professional, provide only necessary information, and get right to the point. That way you can build a good reputation even with those you have to turn down.
+
+For more great management tools and advice, and for help scheduling your employees, visit [GetSling.com](www.getsling.com) today.
