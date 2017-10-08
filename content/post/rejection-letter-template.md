@@ -8,6 +8,8 @@ tags = []
 title = "Rejection Letter Template: A Manager’s Guide To Writing A Rejection Letter"
 
 +++
+
+
 Hiring a new employee is both an exciting and a stressful time. Exciting because you could potentially find someone who makes your team—and your business—better. Stressful because you may have to go through a ton of interviews to find that ideal person.
 
 The ones who aren’t a good fit should be notified that they didn’t get the job. So how can a busy manager contact everyone who needs notifying and still have time for the million other responsibilities on his or her plate? That’s where the rejection letter comes in.
@@ -121,12 +123,14 @@ The following rejection letter template can be used as-is or can be tailored to 
 *We received a number of applications for the head bartender position...*
 
 And be sure to change other aspects of the letter so that it addresses the specific issues of your hiring process.
-<BEGIN TEMPLATE>
+<begin template=""></begin>
 
-October 13, 2017
+BEGIN TEMPLATE
 
 Ms. Regina Phalange
+
 1234 Long Road Lane
+
 Athol, MA  01331
 
 Dear Ms. Phalange,
@@ -142,8 +146,8 @@ Regards,
 Malcolm Reynolds
 Manager, XYZ Restaurant
 
-<END TEMPLATE>
-
+END TEMPLATE
+<end template="">
 <p>The rejection letter doesn’t have to be long, drawn out, or complicated. Just keep the language professional, provide only necessary information, and get right to the point. That way you can build a good reputation even with those you have to turn down.</p>
 <p>For more great management tools and advice, and for help scheduling your employees, visit <a href="www.getsling.com">GetSling.com</a> today.</p>
-</end></begin>
+</end>
