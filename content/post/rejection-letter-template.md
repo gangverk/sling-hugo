@@ -8,13 +8,11 @@ tags = []
 title = "Rejection Letter Template: A Manager’s Guide To Writing A Rejection Letter"
 
 +++
-
-
 Hiring a new employee is both an exciting and a stressful time. Exciting because you could potentially find someone who makes your team—and your business—better. Stressful because you may have to go through a ton of interviews to find that ideal person.
 
 The ones who aren’t a good fit should be notified that they didn’t get the job. So how can a busy manager contact everyone who needs notifying and still have time for the million other responsibilities on his or her plate? That’s where the rejection letter comes in.
 
-![](/blog/forestryio/images/image2-5.jpg)
+<img src="/blog/forestryio/images/image2-5.jpg" alt="" class=" forestry--none" style="float: none;">
 
 Before you run for the hills screaming “I hate writing,” let the experts at Sling show you how to make the process simple. Along the way, we’ll answer such questions as:
 
@@ -36,9 +34,9 @@ On the other hand, letting the applicant know that he or she hasn’t been chose
 
 When you’re the only business out of several that responds with a rejection letter, it creates a good reputation over time that employees are drawn to and want to be a part of.
 
-![](/blog/forestryio/images/image1-5.jpg)
+<img src="/blog/forestryio/images/image1-5.jpg" alt="" class=" forestry--none" style="float: none;">
 
-![](/blog/forestryio/images/image1-5.jpg)Keep in mind that it doesn’t matter when in the hiring process you decide not to pursue a certain job candidate, sending a rejection letter is the right thing to do, regardless.
+Keep in mind that it doesn’t matter when in the hiring process you decide not to pursue a certain job candidate, sending a rejection letter is the right thing to do, regardless.
 
 You may know immediately from an application that someone isn’t a good fit. Send a rejection letter. You may decide not to hire an applicant after conducting an [interview](https://getsling.com/blog/post/restaurant-interview-questions/). Send a rejection letter. You may even decide after two or three interviews. Send a rejection letter.
 
@@ -48,7 +46,7 @@ Now that we’ve discussed the importance of the rejection letter, let’s exami
 
 ## The Best Type Of Language For A Rejection Letter
 
-![](/blog/forestryio/images/image3-4.jpg)
+<img src="/blog/forestryio/images/image3-4.jpg" alt="" class=" forestry--none" style="float: none;">
 
 The language you use in a rejection letter should always be professional and focused on the task at hand. That means no sarcasm, no jokes—nothing that might be taken the wrong way by the reader.
 
@@ -78,7 +76,7 @@ Now that we’ve established some general guidelines for language and content, l
 
 ## The Parts Of A Rejection Letter
 
-![](/blog/forestryio/images/image5-3.jpg)
+<img src="/blog/forestryio/images/image5-3.jpg" alt="" class=" forestry--none" style="float: none;">
 
 Every rejection letter is composed of at least two basic parts: the explanation and the salutation. You can also choose to include further details as you deem necessary. Here’s a breakdown of each of the parts.
 
@@ -100,7 +98,7 @@ Keep in mind that this information doesn’t have to be in a paragraph all by it
 
 ### Gratitude & Salutation
 
-![](/blog/forestryio/images/image4-4.jpg)
+<img src="/blog/forestryio/images/image4-4.jpg" alt="" class=" forestry--none" style="float: none;">
 
 The gratitude and salutation section is where you thank the applicant for the time they spent either applying or interviewing, and wish them well in their job search. The possibilities are almost endless as to what you can write in this section but just remember to keep it professional. Here are some examples.
 
@@ -123,13 +121,13 @@ The following rejection letter template can be used as-is or can be tailored to 
 *We received a number of applications for the head bartender position...*
 
 And be sure to change other aspects of the letter so that it addresses the specific issues of your hiring process.
-
 <BEGIN TEMPLATE>
-<begin template=""></begin>
 
 October 13, 2017
 
-Ms. Regina Phalange                                                                               1234 Long Road Lane                                                                                Athol, MA  01331
+Ms. Regina Phalange
+1234 Long Road Lane
+Athol, MA  01331
 
 Dear Ms. Phalange,
 
@@ -141,12 +139,11 @@ We wish you success with your job search and your future endeavors. Thank you fo
 
 Regards,
 
-Malcolm Reynolds                                                                              
+Malcolm Reynolds
 Manager, XYZ Restaurant
 
 <END TEMPLATE>
-<end template=""></end>
 
-The rejection letter doesn’t have to be long, drawn out, or complicated. Just keep the language professional, provide only necessary information, and get right to the point. That way you can build a good reputation even with those you have to turn down.
-
-For more great management tools and advice, and for help scheduling your employees, visit [GetSling.com](www.getsling.com) today.
+<p>The rejection letter doesn’t have to be long, drawn out, or complicated. Just keep the language professional, provide only necessary information, and get right to the point. That way you can build a good reputation even with those you have to turn down.</p>
+<p>For more great management tools and advice, and for help scheduling your employees, visit <a href="www.getsling.com">GetSling.com</a> today.</p>
+</end></begin>
