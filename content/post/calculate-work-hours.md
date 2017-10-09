@@ -36,7 +36,7 @@ Before we get started on the actual process of calculating work hours, we need t
 
 T[he United States Department Of Labor](https://www.dol.gov/whd/regs/compliance/whdfs53.htm) defines work hours as:
 
-[The] *time an employee must be on duty, on the employer premises, or at any other prescribed place of work.
+*[The] time an employee must be on duty, on the employer premises, or at any other prescribed place of work.*
 
 The important thing to keep in mind about all this is that an employee’s time card (in whatever format the record of time worked takes) is a legal document. That means it can be used in legal proceedings as evidence.
 
@@ -145,4 +145,3 @@ The Sling app is designed specifically for streamlining the scheduling process, 
 Sling even provides features that help you distribute your schedule efficiently, keep it up to date, find substitutes, and communicate with your employees. It really is the total solution for bringing your staff together, keeping everyone informed, and building a more [productive team](https://getsling.com/blog/post/employee-engagement-ideas/).
 
 To learn more about how the right scheduling tool can simplify your work life, check out [GetSling.com](www.getsling.com).
-
