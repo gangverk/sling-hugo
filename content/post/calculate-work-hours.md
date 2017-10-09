@@ -7,8 +7,6 @@ tags = []
 title = "The Best Way to Calculate Work Hours: A Must-Have Guide"
 
 +++
-
-
 A manager’s day is filled with all types of difficult tasks. From appeasing unhappy customers to settling issues between employees to making sure the marketing goals are on track, it seems that a manager’s work is never done.
 
 One of the most difficult tasks by far—and the one managers often put off until the very last minute—is calculating work hours. But it doesn’t have to be this way.
@@ -59,7 +57,7 @@ When you boil it down to the basics, there are three ways to record work hours:
 
 * A clock that prints the time on paper time cards.
 
-* A c[omputer-based](https://getsling.com/blog/post/best-time-card-calculators/) tracking system.
+* A [computer-based](https://getsling.com/blog/post/best-time-card-calculators/) tracking system.
 
 There are numerous combinations of each method—like paper time cards for the employees and a time clock connected to a computer. You can also choose to enter time manually from a time card into a software program like Microsoft Excel.
 
