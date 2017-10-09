@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-10-09T15:35:05+00:00"
 description = "Struggling to keep up with payroll? Let the experts at Sling show you a better way to calculate work hours (hint: a scheduling tool makes it easier)."
-draft = true
 image = "/blog/forestryio/images/image3-5.jpg"
 tags = []
 title = "The Best Way to Calculate Work Hours: A Must-Have Guide"
