@@ -8,8 +8,6 @@ tags = []
 title = "How To Write The Perfect Customer Service Job Description"
 
 +++
-
-
 At Sling, we firmly believe that the success of every business is driven by two things: customer service and hiring. Hire the right customer service reps and your business will thrive. Hire the wrong customer service reps and your business will flounder. It’s as simple as that.
 
 For some, hiring the right people depends on the interview process. We contend, though, that success in hiring starts well before that—when you write the customer service job description.
@@ -19,11 +17,8 @@ In fact, an excellent customer service job description makes the interview proce
 But how do you write the perfect customer service job description? What should you include and what should you leave out? The experts at [Sling](https://getsling.com/) will answer those questions, plus a whole lot more. Along the way we’ll discuss:
 
 * Traits that make an effective customer service representative.
-
 * Why those traits are important.
-
 * How to incorporate those traits into your job description.
-
 * The most important sections of a great customer service job description.
 
 After that, we’ll provide simple instructions for crafting the ideal [customer service](https://getsling.com/blog/post/call-center-management/) job description and provide a sample you can use to get started. Let’s dive right in!
@@ -85,11 +80,8 @@ Now that we’ve listed the traits that make for a great customer service employ
 It’s time to apply the traits we’ve discussed to the task of creating the perfect customer service job description. Begin by dividing the job description into four main sections:
 
 * Job Title.
-
 * Job Summary.
-
 * Responsibilities & Duties.
-
 * Qualifications & Skills.
 
 Let’s look at each section individually and see how we can complete them by taking into account the seven ideal customer service traits.
@@ -99,11 +91,8 @@ Let’s look at each section individually and see how we can complete them by ta
 The job title should be as straightforward and simple as possible. Do your best to keep the title to 80 characters or less, including spaces. For your customer service job title, you might write something like:
 
 * Customer Service Rep.
-
 * Customer Service Representative.
-
 * Customer Service Supervisor.
-
 * Customer Service Technician.
 
 Each of those titles is less than 80 characters and describes the position nicely.
@@ -113,9 +102,7 @@ Each of those titles is less than 80 characters and describes the position nicel
 The job summary section should provide the following information:
 
 * A brief description of your business.
-
 * The part the customer service employee will play.
-
 * Any expectations you may have about the job.
 
 It’s in this section that you include those traits and skills you defined earlier to describe the ideal candidate. Include descriptive words like “calm,” “helpful,” and “flexible” to communicate what you’re looking for in a customer service employee.
@@ -129,11 +116,8 @@ The responsibilities and duties section should contain as much information as po
 In the qualifications and skills section, write another bulleted list composed of everything the prospective employee must have to be considered for the customer service position. Things like:
 
 * Experience.
-
 * Personality traits.
-
 * Computer skills.
-
 * Education.
 
 Now let’s see how the traits and the four sections described above fit together to create the perfect customer service job description.
@@ -151,29 +135,19 @@ A local company needs a friendly, organized, and efficient customer service repr
 Responsibilities Include:
 
 * Follow procedures as outlined in the [employee handbook](https://getsling.com/blog/post/restaurant-employee-handbook/).
-
 * Greet customers warmly.
-
 * Listen attentively to customers’ concerns.
-
 * Take care of all customer needs.
-
 * Use company software to log information.
-
 * Seek help when necessary.
 
 Qualifications:
 
 * 2+ years customer service experience preferred.
-
 * Familiarity with Microsoft 365.
-
 * Bachelor’s degree preferred.
-
 * Ability to stay calm, organized, polite, and efficient under pressure.
-
 * Good problem-solving skills.
-
 * Excellent manners.
 
 Send résumé to:
