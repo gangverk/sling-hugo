@@ -15,6 +15,7 @@ For some, hiring the right people depends on the interview process. We contend, 
 In fact, an excellent customer service job description makes the interview process easier by first telling you exactly what you’re looking for in an employee, then by attracting the best potential candidates. This combination can have a profound effect on the success of your interview, your hiring decision, and, ultimately, your business as a whole.
 
 But how do you write the perfect customer service job description? What should you include and what should you leave out? The experts at Sling will answer those questions, plus a whole lot more. Along the way we’ll discuss:
+
 * Traits that make an effective customer service representative.
 * Why those traits are important.
 * How to incorporate those traits into your job description.
@@ -74,6 +75,7 @@ Now that we’ve listed the traits that make for a great customer service employ
 
 
 It’s time to apply the traits we’ve discussed to the task of creating the perfect customer service job description. Begin by dividing the job description into four main sections:
+
 * Job Title.
 * Job Summary.
 * Responsibilities & Duties.
@@ -84,6 +86,7 @@ Let’s look at each section individually and see how we can complete them by ta
 ### 1) Job Title
 
 The job title should be as straightforward and simple as possible. Do your best to keep the title to 80 characters or less, including spaces. For your customer service job title, you might write something like:
+
 * Customer Service Rep.
 * Customer Service Representative.
 * Customer Service Supervisor.
@@ -94,6 +97,7 @@ Each of those titles is less than 80 characters and describes the position nicel
 ### 2) Job Summary
 
 The job summary section should provide the following information:
+
 * A brief description of your business.
 * The part the customer service employee will play.
 * Any expectations you may have about the job.
@@ -107,6 +111,7 @@ The responsibilities and duties section should contain as much information as po
 ### 4) Qualifications & Skills
 
 In the qualifications and skills section, write another bulleted list composed of everything the prospective employee must have to be considered for the customer service position. Things like:
+
 * Experience.
 * Personality traits.
 * Computer skills.
@@ -127,6 +132,7 @@ Wanted: Customer Service Representative
 A local company needs a friendly, organized, and efficient customer service representative to join their team. If you enjoy solving problems and helping people have a great day, we want you to assist our customers. The successful candidate will be responsible for cultivating a friendly relationship with customers while ensuring that they receive prompt service and support.
 
 Responsibilities Include:
+
 * Follow procedures as outlined in the employee handbook.
 * Greet customers warmly.
 * Listen attentively to customers’ concerns.
@@ -135,6 +141,7 @@ Responsibilities Include:
 * Seek help when necessary.
 
 Qualifications:
+
 * 2+ years customer service experience preferred.
 * Familiarity with Microsoft 365.
 * Bachelor’s degree preferred.
