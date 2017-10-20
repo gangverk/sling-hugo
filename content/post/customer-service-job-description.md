@@ -15,7 +15,6 @@ For some, hiring the right people depends on the interview process. We contend, 
 In fact, an excellent customer service job description makes the interview process easier by first telling you exactly what you’re looking for in an employee, then by attracting the best potential candidates. This combination can have a profound effect on the success of your interview, your hiring decision, and, ultimately, your business as a whole.
 
 But how do you write the perfect customer service job description? What should you include and what should you leave out? The experts at Sling will answer those questions, plus a whole lot more. Along the way we’ll discuss:
-
 * Traits that make an effective customer service representative.
 * Why those traits are important.
 * How to incorporate those traits into your job description.
@@ -25,6 +24,7 @@ After that, we’ll provide simple instructions for crafting the ideal customer 
 
 ## Finding The Right People
 
+
 Finding the right person to fill a customer service position shouldn’t be a hit-or-miss process. All too often, though, that’s exactly what the employee search becomes: a roll of the dice. That’s because managers tend to rely solely on the interview to show them the best fit.
 
 But remember, an effective employee search starts long before you place the help wanted ad. It even begins before you put pen to paper to craft the job description itself. It all starts with a list of the traits you feel make for the perfect customer service employee.
@@ -32,6 +32,7 @@ But remember, an effective employee search starts long before you place the help
 Keep in mind that these traits should be based on your needs and the needs of your business. To get you started, we’ll share some of the essential traits that any good customer service employee should have.
 
 ## Traits That Make An Effective Customer Service Representative
+
 
 ### 1) Patience
 
@@ -71,8 +72,8 @@ Now that we’ve listed the traits that make for a great customer service employ
 
 ## Writing The Perfect Customer Service Job Description
 
-It’s time to apply the traits we’ve discussed to the task of creating the perfect customer service job description. Begin by dividing the job description into four main sections:
 
+It’s time to apply the traits we’ve discussed to the task of creating the perfect customer service job description. Begin by dividing the job description into four main sections:
 * Job Title.
 * Job Summary.
 * Responsibilities & Duties.
@@ -82,10 +83,7 @@ Let’s look at each section individually and see how we can complete them by ta
 
 ### 1) Job Title
 
-The job title should be as straightforward and simple as possible. Do your best to keep the title to 80 characters or less, including spaces.
-
-For your customer service job title, you might write something like:
-
+The job title should be as straightforward and simple as possible. Do your best to keep the title to 80 characters or less, including spaces. For your customer service job title, you might write something like:
 * Customer Service Rep.
 * Customer Service Representative.
 * Customer Service Supervisor.
@@ -96,7 +94,6 @@ Each of those titles is less than 80 characters and describes the position nicel
 ### 2) Job Summary
 
 The job summary section should provide the following information:
-
 * A brief description of your business.
 * The part the customer service employee will play.
 * Any expectations you may have about the job.
@@ -110,7 +107,6 @@ The responsibilities and duties section should contain as much information as po
 ### 4) Qualifications & Skills
 
 In the qualifications and skills section, write another bulleted list composed of everything the prospective employee must have to be considered for the customer service position. Things like:
-
 * Experience.
 * Personality traits.
 * Computer skills.
@@ -119,6 +115,7 @@ In the qualifications and skills section, write another bulleted list composed o
 Now let’s see how the traits and the four sections described above fit together to create the perfect customer service job description.
 
 ## Sample Customer Service Job Description
+
 
 As promised, we’ve included a sample customer service job description that you can tailor to meet your specific needs. Use it to help produce the perfect customer service job description of your own.
 
@@ -130,7 +127,6 @@ Wanted: Customer Service Representative
 A local company needs a friendly, organized, and efficient customer service representative to join their team. If you enjoy solving problems and helping people have a great day, we want you to assist our customers. The successful candidate will be responsible for cultivating a friendly relationship with customers while ensuring that they receive prompt service and support.
 
 Responsibilities Include:
-
 * Follow procedures as outlined in the employee handbook.
 * Greet customers warmly.
 * Listen attentively to customers’ concerns.
@@ -139,7 +135,6 @@ Responsibilities Include:
 * Seek help when necessary.
 
 Qualifications:
-
 * 2+ years customer service experience preferred.
 * Familiarity with Microsoft 365.
 * Bachelor’s degree preferred.
@@ -157,6 +152,7 @@ Avalon, Ohio  01111
 END SAMPLE
 
 ## Don’t Make Writing The Perfect Customer Service Job Description A Headache
+
 
 Writing the perfect customer service job description doesn’t have to be complicated task. Start by breaking the process into small pieces for easy completion. Then write the job description using our sample according to the traits that you need in a good employee.
 
