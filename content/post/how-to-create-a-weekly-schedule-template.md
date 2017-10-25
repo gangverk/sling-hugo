@@ -28,11 +28,15 @@ We’ll also show you how you can use your computer or mobile device to harness 
 
 ## Why Use A Weekly Schedule Template?
 
+![](/blog/forestryio/images/Sling%20Weekly%20Template%20Schedule.jpg)
+
 The weekly schedule template cuts down on the time you, the busy manager, spend getting things ready BEFORE you begin scheduling. You don’t have to remake the form you’re going to use because the template is already there and waiting.
 
 All you have to do is open the blank form on your computer or retrieve an already-printed copy from your files. Then just fill in the information and you’re good to go.
 
 ## Keep Your Weekly Schedule Simple
+
+![](/blog/forestryio/images/Weekly%20Sling%20Schedule%20Template.jpg)
 
 One of the best things you can do to make your life—and the lives of your employees—easier is to keep your schedules simple. It’s not necessary to spend valuable time plugging in every single piece of information that’s pertinent to the job. And your employees don’t need to spend time trying to take in and decipher all that data.
 
@@ -41,6 +45,8 @@ A person should be able to look at the schedule and figure out within a few seco
 Not sure if you’ve got too much information on the page? Practice on yourself. Look away from the screen or the printed schedule, choose an employee, then glance back at the schedule and figure out when you (the employee) are working. If you have a stopwatch, time yourself. If it takes more than half a minute, you may need to make some changes to your scheduling process.
 
 ## What To Include On Your Weekly Schedule Template
+
+![](/blog/forestryio/images/Sling%20Schedule%20Template%20Weekly.jpg)
 
 In line with the keep-it-simple rule above, here are the basics to include on your weekly schedule template. We’ve also added a few suggestions for making your schedule easy to read.
 
@@ -82,7 +88,7 @@ The only way to make this process simpler is to use scheduling software like Sli
 
 Microsoft has already produced a good number of schedule templates for their suite of programs (e.g., Word, Excel, PowerPoint, etc.), like the one pictured below.
 
-![](/blog/forestryio/images/Template%20for%20Weekly%20Schedule%20Sling.png)
+<img src="/blog/forestryio/images/Template%20for%20Weekly%20Schedule%20Sling.png" alt="" class=" forestry--none forestry--left forestry--none" style="float: none;">
 
 Source: Templates.Office.com
 
