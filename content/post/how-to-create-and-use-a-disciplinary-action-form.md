@@ -2,7 +2,6 @@
 author = "Your name here"
 date = "2017-10-25T14:44:39+00:00"
 description = "Not sure how to create and use a disciplinary action form? The experts at Sling tell you everything you need to know about this necessary piece of paperwork.\n\n"
-draft = true
 image = "/blog/forestryio/images/Sling Disciplinary Action Form.jpg"
 tags = []
 title = "How To Create And Use A Disciplinary Action Form"
@@ -28,7 +27,7 @@ A disciplinary action form is designed to be used to inform an employee that he 
 
 ## Why Do You Need A Disciplinary Action Form?
 
-![](/blog/forestryio/images/Disciplinary%20Sling%20Action%20Form.jpg)
+<img src="/blog/forestryio/images/Disciplinary%20Sling%20Action%20Form.jpg" class=" forestry--none" style="float: none;">
 
 Depending on the infraction, your first warning may have been a verbal reprimand of some sort. But if the infraction is serious enough, or if a less-serious infraction occurs again, it’s a good idea to fill out a disciplinary action form. Why is a form necessary? Because:
 
@@ -41,6 +40,8 @@ In both of these cases, relying on your memory is unwise and can even cause more
 Now that we’ve defined the disciplinary action form and highlighted the importance of using one, let’s focus on the specific information that should be included.
 
 ## What Information Should Be Included On A Disciplinary Action Form?
+
+<img src="/blog/forestryio/images/Disciplinary%20Action%20Form%20Sling.jpg" class=" forestry--none" style="float: none;">
 
 Every disciplinary action form should have these basic section in this general order:
 
@@ -63,6 +64,8 @@ Every disciplinary action form should have these basic section in this general o
 Other sections can be added as necessary, but these eight sections should always be present. You use them to establish the who, what, where, and when of the violation along with a brief history of the employee’s behavior. Also included in these basic sections is the judicial decision dolled out and the verification that the employee received the information.
 
 ## How To Fill Out A Disciplinary Action Form
+
+<img src="/blog/forestryio/images/Sling%20Action%20Form%20Disciplinary.jpg" class=" forestry--none" style="float: none;">
 
 In this section, we’ll give you a step-by-step guide to filling out a disciplinary action form. One important thing to remember as you fill in the information is to always keep the language professional. Informal language can cause the employee to take offense and can even be used against you later on if legal proceedings ensue.
 
