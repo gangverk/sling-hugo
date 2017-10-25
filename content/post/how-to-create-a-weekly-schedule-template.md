@@ -2,7 +2,6 @@
 author = "Sling"
 date = "2017-10-25T14:09:22+00:00"
 description = "Need to schedule your employees? Don’t reinvent the wheel every time. Let the experts at Sling show you how to create your own weekly schedule template."
-draft = true
 image = "/blog/forestryio/images/image6-2.jpg"
 tags = []
 title = "How To Create A Weekly Schedule Template"
@@ -24,11 +23,11 @@ The experts at Sling are here to show you how a weekly schedule template can giv
 
 * How can I create my own weekly schedule template?
 
-We’ll also show you how you can use your computer or mobile device to harness the power and versatility of Sling to streamline your scheduling activity even further. Before we do that, let’s answer the most basic question of all regarding the weekly schedule template: Why use one?
+We’ll also show you how you can use your computer or mobile device to harness the power and versatility of [Sling](https://getsling.com/) to streamline your scheduling activity even further. Before we do that, let’s answer the most basic question of all regarding the weekly schedule template: Why use one?
 
 ## Why Use A Weekly Schedule Template?
 
-![](/blog/forestryio/images/Sling%20Weekly%20Template%20Schedule.jpg)
+<img src="/blog/forestryio/images/Sling%20Weekly%20Template%20Schedule.jpg" alt="" class=" forestry--none" style="float: none;">
 
 The weekly schedule template cuts down on the time you, the busy manager, spend getting things ready BEFORE you begin scheduling. You don’t have to remake the form you’re going to use because the template is already there and waiting.
 
@@ -36,7 +35,7 @@ All you have to do is open the blank form on your computer or retrieve an alread
 
 ## Keep Your Weekly Schedule Simple
 
-![](/blog/forestryio/images/Weekly%20Sling%20Schedule%20Template.jpg)
+<img src="/blog/forestryio/images/Weekly%20Sling%20Schedule%20Template.jpg" alt="" class=" forestry--none" style="float: none;">
 
 One of the best things you can do to make your life—and the lives of your employees—easier is to keep your schedules simple. It’s not necessary to spend valuable time plugging in every single piece of information that’s pertinent to the job. And your employees don’t need to spend time trying to take in and decipher all that data.
 
@@ -46,11 +45,11 @@ Not sure if you’ve got too much information on the page? Practice on yourself.
 
 ## What To Include On Your Weekly Schedule Template
 
-![](/blog/forestryio/images/Sling%20Schedule%20Template%20Weekly.jpg)
+<img src="/blog/forestryio/images/Sling%20Schedule%20Template%20Weekly.jpg" alt="" class=" forestry--none" style="float: none;">
 
 In line with the keep-it-simple rule above, here are the basics to include on your weekly schedule template. We’ve also added a few suggestions for making your schedule easy to read.
 
-Your schedule needs:
+### Your schedule needs:
 
 * Day of the week.
 
@@ -68,7 +67,7 @@ If all employees are usually scheduled for one job (e.g., server or chef or host
 
 That doesn’t mean that your host can’t grab an apron and cover for a server when the need arises. It simply means that you’re not scheduling employees for multiple jobs.
 
-Other effective ways to keep your schedule simple include:
+### Other effective ways to keep your schedule simple include:
 
 * Color coding each employee.
 
@@ -84,15 +83,11 @@ These are just a few basic suggestions for making your schedule as simple as pos
 
 The best way to get started using a weekly schedule template is to create one yourself. Microsoft Excel is the natural choice for the do-it-yourself template because of its flexibility. It can take a significant amount of time to get everything set up the way you want, but when you get it finalized, the scheduling process will be much easier.
 
-The only way to make this process simpler is to use scheduling software like Sling. We’ll show you the benefits of going that route in the next section. For now, let’s focus on setting up your own weekly schedule template in Excel.
+The only way to make this process simpler is to use scheduling software like [Sling](https://getsling.com/). We’ll show you the benefits of going that route in the next section. For now, let’s focus on setting up your own weekly schedule template in Excel.
 
-Microsoft has already produced a good number of schedule templates for their suite of programs (e.g., Word, Excel, PowerPoint, etc.), like the one pictured below.
+Microsoft has already produced a good number of [schedule templates](Templates.Office.com) for their suite of programs (e.g., Word, Excel, PowerPoint, etc.).
 
-<img src="/blog/forestryio/images/Template%20for%20Weekly%20Schedule%20Sling.png" alt="" class=" forestry--none forestry--left forestry--none" style="float: none;">
-
-Source: Templates.Office.com
-
-Here’s how to modify a ready-made template to fit your business.
+### Here’s how to modify a ready-made template to fit your business.
 
 1. Download a template from the Microsoft website.
 
@@ -138,9 +133,9 @@ Only one solution does that—and so much more: Sling.
 
 ## Sling Makes Scheduling Easy
 
-Sling is a work scheduler designed with the busy manager in mind. At its core, Sling addresses all the scheduling issues that a manager might face when scheduling employees. But it’s about more than just plugging names into time slots. It’s about making every aspect of the scheduling, distribution, and communication process easier.
+[Sling](https://getsling.com/) is a work scheduler designed with the busy manager in mind. At its core, Sling addresses all the scheduling issues that a manager might face when scheduling employees. But it’s about more than just plugging names into time slots. It’s about making every aspect of the scheduling, distribution, and communication process easier.
 
-![](/blog/forestryio/images/Weekly%20Template%20Sling%20Schedule.png)
+<img src="/blog/forestryio/images/Weekly%20Template%20Sling%20Schedule.png" alt="" class=" forestry--none forestry--none" style="float: none;">
 
 The intuitive and well-organized scheduling tools Sling offers make it easy to create clear, easy-to-read schedules well in advance. The cloud-based platform solves the distribution problem by providing simple and convenient storage and distribution. Just post your schedule in the cloud for all your employees to see.
 
@@ -148,13 +143,12 @@ If that isn’t enough, you can even control who can view the schedule and who c
 
 Sling’s cloud-based program also provides a central location where employees can indicate when they’re available to work. Sling then displays reminders about double-bookings, time-off requests, and unavailability while you’re creating your schedule.
 
-![](/blog/forestryio/images/Sling%20Weekly%20Schedule%20Template.png)
+<img src="/blog/forestryio/images/Sling%20Weekly%20Schedule%20Template.png" alt="" class=" forestry--none forestry--none" style="float: none;">
 
 Sling also offers powerful communication tools that let you contact everyone at the same time, a specific group of employees, or just one person through the messages feature. This cuts down on the difficult task of finding substitutes.
 
-These features, and many more, reduce the time it takes to create and manage your business’s schedules and employees. In fact, Sling helps managers bring teams together, keep everyone informed, and build better company culture.
+These features, and many more, reduce the time it takes to create and manage your business’s schedules and employees. In fact, Sling helps managers bring [teams](https://getsling.com/blog/post/employee-engagement-ideas/) together, keep everyone informed, and build better company culture.
 
 You don’t have reinvent the wheel every time you create a schedule. You don’t have to rely on overly simplified templates that simply can’t address all your needs. You don’t have to conform your business to the features of a sub-standard scheduling program or template.
 
-There’s a solution made especially for you: Sling. Visit GetSling.com today to try the Sling app for free.
-
+There’s a solution made especially for you: Sling. Visit [GetSling.com](https://getsling.com/) today to try the Sling app for free.
