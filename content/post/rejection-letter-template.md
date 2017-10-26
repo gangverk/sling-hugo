@@ -2,7 +2,7 @@
 author = "Sling"
 date = "2017-10-08T19:05:58+00:00"
 description = "Create goodwill amongst job seekers by sending out rejection letters. The experts at Sling provide a rejection letter template to get you started."
-image = "/blog/forestryio/images/sling.png"
+image = "/blog/forestryio/images/Rejection Letter Template.jpg"
 tags = []
 title = "Rejection Letter Template: A Manager’s Guide To Writing A Rejection Letter"
 
