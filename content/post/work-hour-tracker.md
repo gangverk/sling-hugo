@@ -46,7 +46,7 @@ We don’t recommend the sign-in/sign-out sheet for more than 10 employees, but 
 
 ![Manual time clock](/blog/forestryio/images/Work Hour Tracker_3.png "Manual time clock")
 
-                                 _Source: Quill.com_  
+                         Source: Quill.com  
 
 Manual time clocks replaced the sign-in/sign-out sheet as a more efficient—and less error-filled—work hour tracker. Manual time clocks were so effective that they’re still around in some [industries](https://getsling.com/blog/post/call-center-management/ "industries"), even after more than 100 years. Each employee is issued a card that they insert into the clock, and then he or she pushes the button on top to print the time.
 
@@ -56,7 +56,7 @@ Manual time clocks are more difficult to forge than sign-in/sign-out sheets. The
 
 ![Software time clock](/blog/forestryio/images/Work Hour Tracker_1.png "Software time clock")
 
-                              _Source: CkzInc.com_  
+                         Source: CkzInc.com  
 
 With the advent of computers, software time clocks grew in popularity. Employees used a manual time clock linked to a computer, or a computer terminal itself, to record their time in and out. Software time clocks reduced the number of errors because everything was automated. The only mistake that could be made was forgetting to sign in and out.
 
@@ -74,7 +74,7 @@ Mobile work hour tracker apps can be used both in and out of the office to recor
 
 ![Timewerks app](/blog/forestryio/images/Work Hour Tracker_7.jpg "Timewerks app")
 
-                              _Source: MyTimeWerks.com_  
+                           Source: MyTimeWerks.com  
 
 [Timewerks](https://www.mytimewerks.com/ "Timewerks") allows users to track multiple projects and clients at any given time. You can track time automatically with the touch of a button or add time manually later on. You can then export your data to a variety of formats (i.e., Excel) or produce a work hour tracker report from the app itself.
 
@@ -82,7 +82,7 @@ Mobile work hour tracker apps can be used both in and out of the office to recor
 
 ![iPunchclock app](/blog/forestryio/images/Work Hour Tracker_12.jpg "iPunchclock app")
 
-                            _Source: iTunes.Apple.com_  
+                          Source: iTunes.Apple.com  
 
 [iPunchclock](https://itunes.apple.com/us/app/ipunchclock/id286585368?mt=8 "iPunchclock") can be used by your employees to clock in/clock out and track time spent on different tasks. iPunchclock can also report the longitude and latitude (and altitude) where tasks are performed.
 
@@ -92,7 +92,7 @@ You can verify that your employees did indeed start and end work at your restaur
 
 ![TimeClock](/blog/forestryio/images/Work Hour Tracker_13.png "TimeClock")
 
-                             _Source: Play.Google.com_
+                           Source: Play.Google.com
 
 [TimeClock](https://play.google.com/store/apps/details?id=com.spotlightsix.timeclockbasic&hl=en "TimeClock") is a simple and intuitive solution that allows users to track work hours within minutes of downloading and installing the app. With TimeClock, you don’t have to worry about your employees’ data because everything is stored in the cloud for anytime, anyplace access.
 
@@ -102,7 +102,7 @@ Additionally, there’s no need to back up your device every five minutes, becau
 
 ![ClockedIn 2 app](/blog/forestryio/images/Work Hour Tracker_8.png "ClockedIn 2 app")
 
-                              _Source: Kyoobed.com_  
+                            Source: Kyoobed.com  
 
 [ClockedIn 2](http://www.kyoobed.com/applications/clockedin_2/iphone/ "ClockedIn 2") is another solid entry into the mobile work hour tracker lineup. This app provides powerful tools, such as calendar integration, address book integration, and a variety of reports for end-of-the-week and end-of-the-month calculations. ClockedIn 2 even allows timed tasks to span multiple days for hyper-accurate recording.
 
@@ -110,7 +110,7 @@ Additionally, there’s no need to back up your device every five minutes, becau
 
 ![TimeCatcher app](/blog/forestryio/images/Work Hour Tracker_10.png "TimeCatcher app")
 
-                              _Source: Play.Google.com_  
+                            Source: Play.Google.com  
 
 [TimeCatcher](https://play.google.com/store/apps/details?id=by.bsu.ino.exo.timecatcher&hl=en "TimeCatcher") is a unique mobile work hour tracker that allows your employees to not only clock in and clock out but to also work on tasks using the Pomodoro technique (25 minutes of work followed by a short break) and other time management strategies.
 
