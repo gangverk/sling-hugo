@@ -7,8 +7,6 @@ tags = []
 title = "10 Steps To Effective Restaurant Accounting"
 
 +++
-
-
 You got into the restaurant business because you love food and you want to make people happy with that food. It’s a noble pursuit and one that seems relatively simple on the surface: make food, serve it to people. But underneath that simple premise is a whole host of complex responsibilities that you may not be trained for, nor particularly enjoy.
 
 Chief amongst those complex responsibilities is restaurant accounting. Restaurant accounting is one of the most important aspects of making your business successful, but is often overlooked (or avoided) because it can be difficult tracking and making sense of all those numbers.
@@ -24,8 +22,6 @@ Most of us are not trained accountants. Because of this, the terms we are forced
 It may seem like an uphill battle, but just learning the definitions for the most important terms can give you incredible insight into the financial side of your restaurant. Websites like [Investopedia](http://www.investopedia.com/university/accounting/) can be a great start for those unfamiliar with the processes involved in tracking money. But if it just seems too daunting for you to handle, consider the next step as the most important.
 
 ## 2. Hire An Accountant
-
-<img src="/blog/forestryio/images/image11-1.jpg" class=" forestry--none" style="float: none;">
 
 Hiring an accountant to help you with your finances is a good idea for any and every restaurant. If the whole thing is just too confusing for you, or bookkeeping is too complex to manage, an accountant can handle it for you. Even if you’ve got a good grasp on the entire bookkeeping process, a professional accountant can help you interpret the information that your accounting produces.
 
@@ -137,7 +133,7 @@ One way to see how your inventory impacts your bottom line is by calculating you
 
 The equation figure out food cost percentage is:
 
-(Beginning Inventory + Food Purchases - Ending Inventory) / Food Sales = Food Cost %
+\(Beginning Inventory + Food Purchases - Ending Inventory) / Food Sales = Food Cost %
 
 Before we delve into the final percentage, let’s define each term so you know where to find these numbers for your own restaurant.
 
@@ -163,13 +159,13 @@ Food Purchases - $30,000
 
 If you just used those last two numbers to analyze your profit and loss, you’d come up with the following:
 
-$30,000 / $80,000 = 0.375 or 37.5%
+\$30,000 / $80,000 = 0.375 or 37.5%
 
 These numbers tell you that you spent $30,000 to make $80,000 for a profit of 37.5%. But what about the inventory that you already had on hand? That needs to be factored in as well. That takes us back to the original equation mentioned above.
 
-(Beginning Inventory + Food Purchases - Ending Inventory) / Food Sales = Food Cost %
+\(Beginning Inventory + Food Purchases - Ending Inventory) / Food Sales = Food Cost %
 
-($3000 + $30,000 - $5000) / $80,000 = 0.35 or 35%
+\($3000 + $30,000 - $5000) / $80,000 = 0.35 or 35%
 
 This second calculation tells you that you actually spent $28,000 (not $30,000) to make $80,000 in sales for a profit of 35%. Sure the difference in percentages is only 2%, but that is significant in an industry where the average profit margin is between 4% and 5%.
 
@@ -183,13 +179,13 @@ Sales tax should be applied to every purchase a customer makes in your restauran
 
 1. Determine your sales tax rate. This will usually be in the form of a percentage. For example, the sales tax rate in our area is 7%.
 
-1. Add up the total of all taxable items sold during one month.
+2. Add up the total of all taxable items sold during one month.
 
-1. Multiply your sales tax rate by the total of all taxable items sold during the month.
+3. Multiply your sales tax rate by the total of all taxable items sold during the month.
 
-1. Record these numbers on your state’s tax forms.
+4. Record these numbers on your state’s tax forms.
 
-1. Write a check for the amount you owe and send it in.
+5. Write a check for the amount you owe and send it in.
 
 Let’s look at an example. Let’s say the sales tax rate in your area is 5%. That means you will be charged 5% on all sales made during, for example, the month of May. You need to be charging your customers that 5% to cover the bill you’ll have. If you don’t, that tax will come out of your pocket and will seriously affect your profitability.
 
@@ -197,7 +193,7 @@ Once you know your sales tax rate (5%), multiply that by the total sales for the
 
 Back to the example, let’s say you made $100,000 on taxable items during the month of May. Your calculation would look like this:
 
-$100,000 x 0.05 = $5000
+\$100,000 x 0.05 = $5000
 
 That means that you will owe $5000 in sales tax for the month of May. See why it’s so important to charge your customers that number? A mere $5000 can mean the difference between just breaking even and actually making a profit.
 
