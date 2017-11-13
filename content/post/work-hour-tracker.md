@@ -38,7 +38,9 @@ The sign-in/sign-out sheet has been around for a long time. Your grandfather’s
 
 At its most basic, the sign-in/sign-out sheet is composed of four columns. Employees simply sign their name in one column and enter the time they arrive at work in another. When their shift is over, employees sign their name in a third column and enter the time they left work in a fourth.
 
-![Sign-In/Sign](/blog/forestryio/images/Work Hour Tracker_2.jpg "Sign-In/Sign-Out Sheet")The problem with sign-in/sign-out sheets is that mistakes can easily be made. Employees can [forget](https://getsling.com/blog/post/employee-engagement-ideas/ "forget") to sign their name or forget to enter the time the arrived or left. Plus, the process of signing in can take quite a bit of time (relatively speaking, of course). If you have a large number of employees trying to sign in at the same time, it can cause problems.
+![Sign-In/Sign](/blog/forestryio/images/Work Hour Tracker_2.jpg "Sign-In/Sign-Out Sheet")
+
+The problem with sign-in/sign-out sheets is that mistakes can easily be made. Employees can [forget](https://getsling.com/blog/post/employee-engagement-ideas/ "forget") to sign their name or forget to enter the time the arrived or left. Plus, the process of signing in can take quite a bit of time (relatively speaking, of course). If you have a large number of employees trying to sign in at the same time, it can cause problems.
 
 We don’t recommend the sign-in/sign-out sheet for more than 10 employees, but it could still be useful for some businesses.
 
@@ -47,6 +49,8 @@ We don’t recommend the sign-in/sign-out sheet for more than 10 employees, but 
 ![Manual time clock](/blog/forestryio/images/Work Hour Tracker_3.png "Manual time clock")
 
                          Source: Quill.com  
+
+Source: Quill.com
 
 Manual time clocks replaced the sign-in/sign-out sheet as a more efficient—and less error-filled—work hour tracker. Manual time clocks were so effective that they’re still around in some [industries](https://getsling.com/blog/post/call-center-management/ "industries"), even after more than 100 years. Each employee is issued a card that they insert into the clock, and then he or she pushes the button on top to print the time.
 
