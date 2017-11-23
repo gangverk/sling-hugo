@@ -19,7 +19,7 @@ One big way to make scheduling easier is to use a work schedule app. These apps 
 
 [Schedule Planner](http://scheduleplannerapp.com/) is a work schedule app that can help you take control of the employee-scheduling process. The app allows you to create unlimited color-coded fields that can be used to represent your employees. These fields can then be distributed on the calendar interface to indicate when an employee works.
 
-<img src="/blog/forestryio/images/Schedule%20Planner.png" class=" forestry--none forestry--none forestry--left forestry--none" style="float: none;">
+![](/blog/forestryio/images/Schedule%20Planner.png" class=" forestry--none forestry--none forestry--left forestry--none" style="float: none;">
 
 Like Google Calendar, Schedule Planner is cloud-based so distribution, changes, and collaboration are streamlined down to just a few taps of the screen. Keep in mind that Schedule Planner was intended for a single individual so complicated scheduling like overlapping shifts may not be easy, or even possible, with this work schedule app. It’s a simple scheduling tool but it wasn’t created with restaurants or retail businesses in mind.
 
@@ -27,7 +27,7 @@ Like Google Calendar, Schedule Planner is cloud-based so distribution, changes, 
 
 [Fantastical 2](http://flexibits.com/fantastical-iphone) (the emphasis is on the ‘cal’, as in calendar) is another work schedule app that can help take the stress out of scheduling your employees. Like other scheduling apps, employees can be entered as tasks and color coded to set them apart from each other. Users can then view the schedule by day, week, or even month. Users can even search the schedule to see past, present, and future events that apply to them.
 
-<img src="/blog/forestryio/images/Fantastical%202.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Fantastical%202.png" class=" forestry--none" style="float: none;">
 
 While Fantastical 2 does have some powerful features (like Apple Watch support and 6 different languages), it was built mainly for a single user. Yes, it can be forced to work for multiple people and complex scheduling, but why go to the effort of pushing a square peg into a round hole? There are other work schedule app options that fit better.
 
@@ -35,7 +35,7 @@ While Fantastical 2 does have some powerful features (like Apple Watch support a
 
 As the name implies, [WorkTime](http://appcrawlr.com/ios/worktime-work-schedule-shift-ca) is all about scheduling and tracking work time. This work schedule app lets you create and track complex work schedules with ease. Users can enter a shift in just a few easy taps and then view the entire week’s schedule all on one screen.
 
-<img src="/blog/forestryio/images/WorkTime.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/WorkTime.png" class=" forestry--none" style="float: none;">
 
 Professional-level features like unlimited jobs, alarms and notifications, and even schedule sharing via Facebook, Twitter, or email make this a useful app for scheduling employees. Users can even add up hours worked and wages earned with WorkTime’s hours calculator.
 
@@ -67,7 +67,7 @@ Google Sheets gives you the flexibility and ease of alteration that comes with a
 
 ## 7. Word Processor
 
-<img src="/blog/forestryio/images/Word%20Processor.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Word%20Processor.png" class=" forestry--none" style="float: none;">
 
 Some team managers swear by the word processor that came with their computer. But apps like Microsoft Word and Apple Pages were created with the written word in mind. They certainly weren’t meant for scheduling, nor do they make the process any easier. That puts them just a small step above pen and paper.
 
@@ -89,7 +89,7 @@ While a word processor like Word or Pages may be just a small step above pen and
 
 ## 9. Shifty
 
-<img src="/blog/forestryio/images/Shifty.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Shifty.jpg)
 
 [Shifty](https://itunes.apple.com/us/app/shifty/id372580865?mt=8) is a simple little app for small businesses and individuals that lets you schedule multiple individuals amongst multiple shifts. With an intuitive drag-and-drop interface, you can quickly and easily manage just one person, or all your staff. You can even assign duties and tasks so your employees know what needs to be done during slow times.
 

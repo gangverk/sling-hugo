@@ -17,7 +17,7 @@ But how, exactly, do you go about creating a restaurant budget that works? This 
 
 The foundation of your budget is numbers. More specifically, tracking those numbers. So you’re going to need to institute some method of recording and organizing said numbers. This can be something as simple as a piece of paper or as complex as a specialized accounting program.
 
-<img src="/blog/forestryio/images/image1-3.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image1-3.jpg)
 
 Using your ledger or columnar pad, label the first four columns Date, Payment Method, Description, and Income (see section three for a more in-depth discussion of sales). Those are the absolute basics. If you can get by with just those four sets of numbers, congratulations, your accounting is about as simple as it gets. For the rest of us, we’re going to need a few more columns.
 
@@ -34,7 +34,7 @@ Next to your income, makes columns for all your regular expenses. See the next s
 
 Once you’ve got your columns labeled, you’re ready to go. Income should be recorded in the Income column every time you make a deposit at the bank. For some businesses, that may be every day. For others, that may be every few days, weekly, or even monthly. The frequency with which you make deposits is unimportant. The critical factor is that you record those numbers on your ledger for accurate tracking.
 
-<img src="/blog/forestryio/images/image1-3.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image1-3.jpg)
 
 You should also make note of any and all expenses paid out on a daily basis. Whether you pay with cash, check, debit card, or credit card, record the date, payment method and amount in the appropriate column. For example, if your new table linens were delivered on Tuesday and you paid the balance for those items with a check, your ledger entry might look like this:
 
@@ -44,7 +44,7 @@ At the end of every month, add up all your columns to see the total amount you b
 
 Ledger books and columnar pads are a great way for new <a href="https://getsling.com/blog/post/restaurant-management-tips/">managers</a> to gain some exposure to single-entry bookkeeping, but those options can be difficult to reconcile and even more difficult to change should there be mistakes. That’s where computerized record keeping comes in handy.
 
-<img src="/blog/forestryio/images/image3-3.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image3-3.jpg)
 
 Digital records take the form of a very general spreadsheet program like Microsoft Excel all the way up to a very specific restaurant-focused accounting and budgeting package like [QuickBooks For Restaurants](https://payroll.intuit.com/restaurant-accounting/). Regardless of the method you choose, you’ll need some way to keep track of things like immediate costs, daily sales, projected expenses, and much more so make sure the software you choose can handle everything.
 

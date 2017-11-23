@@ -27,7 +27,7 @@ We’ll also show you how you can use your computer or mobile device to harness 
 
 ## Why Use A Weekly Schedule Template?
 
-<img src="/blog/forestryio/images/Sling%20Weekly%20Template%20Schedule.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Sling%20Weekly%20Template%20Schedule.jpg)
 
 The weekly schedule template cuts down on the time you, the busy manager, spend getting things ready BEFORE you begin scheduling. You don’t have to remake the form you’re going to use because the template is already there and waiting.
 
@@ -35,7 +35,7 @@ All you have to do is open the blank form on your computer or retrieve an alread
 
 ## Keep Your Weekly Schedule Simple
 
-<img src="/blog/forestryio/images/Weekly%20Sling%20Schedule%20Template.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Weekly%20Sling%20Schedule%20Template.jpg)
 
 One of the best things you can do to make your life—and the lives of your employees—easier is to keep your schedules simple. It’s not necessary to spend valuable time plugging in every single piece of information that’s pertinent to the job. And your employees don’t need to spend time trying to take in and decipher all that data.
 
@@ -45,7 +45,7 @@ Not sure if you’ve got too much information on the page? Practice on yourself.
 
 ## What To Include On Your Weekly Schedule Template
 
-<img src="/blog/forestryio/images/Sling%20Schedule%20Template%20Weekly.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Sling%20Schedule%20Template%20Weekly.jpg)
 
 In line with the keep-it-simple rule above, here are the basics to include on your weekly schedule template. We’ve also added a few suggestions for making your schedule easy to read.
 
@@ -135,7 +135,7 @@ Only one solution does that—and so much more: Sling.
 
 [Sling](https://getsling.com/) is a work scheduler designed with the busy manager in mind. At its core, Sling addresses all the scheduling issues that a manager might face when scheduling employees. But it’s about more than just plugging names into time slots. It’s about making every aspect of the scheduling, distribution, and communication process easier.
 
-<img src="/blog/forestryio/images/Weekly%20Template%20Sling%20Schedule.png" alt="" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/Weekly%20Template%20Sling%20Schedule.png" alt="" class=" forestry--none forestry--none" style="float: none;">
 
 The intuitive and well-organized scheduling tools Sling offers make it easy to create clear, easy-to-read schedules well in advance. The cloud-based platform solves the distribution problem by providing simple and convenient storage and distribution. Just post your schedule in the cloud for all your employees to see.
 
@@ -143,7 +143,7 @@ If that isn’t enough, you can even control who can view the schedule and who c
 
 Sling’s cloud-based program also provides a central location where employees can indicate when they’re available to work. Sling then displays reminders about double-bookings, time-off requests, and unavailability while you’re creating your schedule.
 
-<img src="/blog/forestryio/images/Sling%20Weekly%20Schedule%20Template.png" alt="" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/Sling%20Weekly%20Schedule%20Template.png" alt="" class=" forestry--none forestry--none" style="float: none;">
 
 Sling also offers powerful communication tools that let you contact everyone at the same time, a specific group of employees, or just one person through the messages feature. This cuts down on the difficult task of finding substitutes.
 

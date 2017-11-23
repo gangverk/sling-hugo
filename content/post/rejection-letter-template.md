@@ -11,7 +11,7 @@ Hiring a new employee is both an exciting and a stressful time. Exciting because
 
 The ones who aren’t a good fit should be notified that they didn’t get the job. So how can a busy manager contact everyone who needs notifying and still have time for the million other responsibilities on his or her plate? That’s where the rejection letter comes in.
 
-<img src="/blog/forestryio/images/image2-5.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image2-5.jpg)
 
 Before you run for the hills screaming “I hate writing,” let the experts at Sling show you how to make the process simple. Along the way, we’ll answer such questions as:
 
@@ -33,7 +33,7 @@ On the other hand, letting the applicant know that he or she hasn’t been chose
 
 When you’re the only business out of several that responds with a rejection letter, it creates a good reputation over time that employees are drawn to and want to be a part of.
 
-<img src="/blog/forestryio/images/image1-5.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image1-5.jpg)
 
 Keep in mind that it doesn’t matter when in the hiring process you decide not to pursue a certain job candidate, sending a rejection letter is the right thing to do, regardless.
 
@@ -45,7 +45,7 @@ Now that we’ve discussed the importance of the rejection letter, let’s exami
 
 ## The Best Type Of Language For A Rejection Letter
 
-<img src="/blog/forestryio/images/image3-4.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image3-4.jpg)
 
 The language you use in a rejection letter should always be professional and focused on the task at hand. That means no sarcasm, no jokes—nothing that might be taken the wrong way by the reader.
 
@@ -75,7 +75,7 @@ Now that we’ve established some general guidelines for language and content, l
 
 ## The Parts Of A Rejection Letter
 
-<img src="/blog/forestryio/images/image5-3.jpg" alt="" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/image5-3.jpg)
 
 Every rejection letter is composed of at least two basic parts: the explanation and the salutation. You can also choose to include further details as you deem necessary. Here’s a breakdown of each of the parts.
 
@@ -97,7 +97,7 @@ Keep in mind that this information doesn’t have to be in a paragraph all by it
 
 ### Gratitude & Salutation
 
-<img src="/blog/forestryio/images/image4-4.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/image4-4.jpg)
 
 The gratitude and salutation section is where you thank the applicant for the time they spent either applying or interviewing, and wish them well in their job search. The possibilities are almost endless as to what you can write in this section but just remember to keep it professional. Here are some examples.
 

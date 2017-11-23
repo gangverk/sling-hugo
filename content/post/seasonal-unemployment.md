@@ -24,13 +24,13 @@ Those aren’t the only questions but they are at the top of every [manager’s 
 
 ### Track Everything
 
-<img src="/blog/forestryio/images/Seasonal%20Unemployment_7.jpg" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/Seasonal%20Unemployment_7.jpg)
 
 First and foremost, the seasonal rise and fall of your business should not come as any surprise. There is literally reams of data available that analyzes the ebb and flow of every niche from retail to restaurants to road work. Even if you only have a rough idea that your business’s busy season is in spring, for instance, that still gives you a three-month period of time to prepare for. The key thing from this moment on is to [track everything](https://getsling.com/blog/post/effective-leaders/) from sales to customers through the door and everything in between. When you’ve accumulated all that data for a year, it will show you a more accurate picture of how your business lives and breathes. If you continue to track all that data (and you should), you’ll be able to pinpoint when the busy seasons start and end with a higher degree of accuracy.
 
 ### Make A Plan
 
-<img src="/blog/forestryio/images/Seasonal%20Unemployment_2.jpg" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Seasonal%20Unemployment_2.jpg)
 
 Once you’ve got the data in hand, or even just that rough idea that your busy time starts in March, plan right away. Based on the information you collected, how many seasonal employees will you need to hire to keep things running smoothly? What will you need those employees to do? What will you have your existing employees do while the seasonal employees are doing what they do? Which [shifts](https://getsling.com/blog/post/rotating-shift/) should the seasonal workers work? We’ll talk about scheduling in a bit more detail below. But for now it’s important to know all of these questions need to be answered and a plan put in place well before the busy season arrives.
 
@@ -40,7 +40,7 @@ That brings us to the next pertinent question: When should you start putting you
 
 The simple answer is start early. One of the easiest ways to find workers for increased seasonal activity, is to enlist the aid of your part-time staff. Bump them up to full-time status or just give them more hours. This isn’t the only solution, of course, but it is a great place to start. The nice thing about pulling from your part-time employees is that you know they’re already trained and can do the jobs you need them to do.
 
-<img src="/blog/forestryio/images/Seasonal%20Unemployment_4.png" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/Seasonal%20Unemployment_4.png" class=" forestry--none forestry--none" style="float: none;">
 
 Once you’ve got a plan for your full-time and part-time-now-full-time employees, you can see what you will need to cover your bases during the busy season. When you know how many and for what jobs, you can begin your search. And again, start the process early.
 
@@ -60,7 +60,7 @@ At this point, you may be wondering what to do with these seasonal workers for t
 
 Letting people go is never easy, but you can reduce the strain on you and the employee by making it known up front you are hiring them for a temporary position. You can (and should) even give them an end date when you [interview](https://getsling.com/blog/post/restaurant-interview-questions/) them. This will help prepare them right from the start that the end is approaching so there are no surprises in the end. Come the first week in January, there will be less surprise and less hurt feelings.
 
-<img src="/blog/forestryio/images/Screen%20Shot%202017-09-15%20at%203.16.04%20PM.png" alt="" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Screen%20Shot%202017-09-15%20at%203.16.04%20PM.png" alt="" class=" forestry--none" style="float: none;">
 
 It’s also a good idea to provide them with the possibility that, if they do a great job, they may be offered a regular position (be it part-time or full-time). That makes the prospect of being let go that much easier because there’s always the possibility they won’t be [let go](https://getsling.com/blog/post/exit-interview-questions/). All of this taken together can help reduce the sting of seasonal unemployment.
 
@@ -74,10 +74,10 @@ For the seasonal employees you have to let go, make it clear on their last day  
 
 Scheduling your regular employees is hard enough. Add in several seasonal employees and you’ve got yourself a chaotic scheduling mess on your hands. The best way to bring order to that chaos is by using scheduling software like [Sling](https://getsling.com/).
 
-<img src="/blog/forestryio/images/Seasonal%20Unemployment_5.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Seasonal%20Unemployment_5.png" class=" forestry--none" style="float: none;">
 
 With Sling, you can set up shift schedules, manage time off, availability, and shift-trade requests. Sling even provides suggestions for better scheduling and notifies you when you’ve scheduled someone who should be off or double-booked an employee.
 
-<img src="/blog/forestryio/images/Seasonal%20Unemployment_3.png" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/Seasonal%20Unemployment_3.png" class=" forestry--none forestry--none" style="float: none;">
 
 Sling also makes it easy to distribute the schedule and stay in touch. When you post your completed schedule to the cloud, Sling notifies all employees with a push notification. Those employees can then access the schedule anytime, anywhere. You can even set Sling to send out reminders of upcoming shifts, or the need for a substitute, so you can cut down on absenteeism. And that’s only the tip of the Sling iceberg. With Sling’s four main features—shifts, messages, newsfeed, and tasks—there are countless ways the app can make your scheduling life easier. So don’t let seasonal employees clutter up your scheduling time. Get in, make the schedule, and get out so you can devote your time to keeping your business running, even during the busiest time of the year. Sling can do that for you.

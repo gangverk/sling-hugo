@@ -27,7 +27,7 @@ The idea behind respect is that you treat others the way you would like to be tr
 
 ## 2) Patience
 
-<img src="/blog/forestryio/images/Customer%20Service%20Skills_4.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Customer%20Service%20Skills_4.jpg)
 
 Customers with problems are going to want to talk. They’re going to want to explain every last detail to you. Sometimes, they’re going to keep talking even after you got the point. An employee with good customer service skills will wait patiently and let the customer talk until they’re finished. This helps the customer feel like they’re being heard and can go a long way towards making the situation better. One way to cultivate patience is to remember that, most of the time, the customer is not upset with your personally.
 
@@ -53,7 +53,7 @@ Flexibility is crucial when dealing with customer problems. The rules may state 
 
 ## 8) Communication Skills
 
-<img src="/blog/forestryio/images/Customer%20Service%20Skills_2.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Customer%20Service%20Skills_2.jpg)
 
 Good customer service communication skills involve more than just the words you say although those are important too. Good communication skills involve body language, facial expressions, tone of voice, and much more. When conversing with an irate customer, try these simple tips for good communication:
 
@@ -83,7 +83,7 @@ Above all else, customers want someone to take responsibility for their problem.
 
 ## 11) Efficiency
 
-<img src="/blog/forestryio/images/Customer%20Service%20Skills_5.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Customer%20Service%20Skills_5.jpg)
 
 Solving some customer complaints may involve more than just giving away a free pizza or a ball cap. Sometimes, the process of resolution involves numerous steps. That’s when efficiency becomes an important customer service skill. Don’t neglect the problem. Instead, stick with it and work for a solution as quickly as possible with as few steps as necessary. A quick resolution to a problem, even if it involves multiple steps, can make a customer feel valued and reinforces his perception of your business.
 

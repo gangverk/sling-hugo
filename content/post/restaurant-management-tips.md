@@ -21,7 +21,7 @@ Transparency is an important aspect of restaurant management in the 21st century
 
 If you aren’t already, conduct regular staff meetings to keep employees up to date on the business. During work hours, keep in constant communication with employees so you know what’s going on. And don’t forget to provide positive encouragement when appropriate.
 
-<img src="/blog/forestryio/images/Depositphotos_54070961_m-2015.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Depositphotos_54070961_m-2015.jpg)
 
 ## 3. Be A Model Of Stability For Your Employees
 
@@ -107,7 +107,7 @@ The list goes on and on and could literally fill a book. And that’s just a nor
 
 The way you deal with these situations and scenarios goes a long way toward influencing how customers perceive your restaurant. It’s that perception that can have a profound effect on the success or failure of everything you do in the business. The way you deal with your customers also influences how your employees will react when put in a similar position. Your example is what they will draw on when they’re faced with these challenges. As you can see, a lot is riding on your customer service skills.
 
-<img src="/blog/forestryio/images/Depositphotos_33441431_m-2015.jpg" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Depositphotos_33441431_m-2015.jpg)
 
 But how can you train yourself to always put customer satisfaction first? By weighing every situation on how it will affect the business, your employees, and the customer. It’s very much like passing water through a series of filters. What may start as a muddy mess eventually distills down to something that’s good for everyone. The decision you have to make regarding a strange customer request or an abnormal situation, starts out like that muddy mess. But after weighing out how the various options will affect the business, the employees, and the customer, your decision often becomes clear.
 
