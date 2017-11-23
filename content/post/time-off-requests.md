@@ -83,7 +83,7 @@ As you can see, one policy all by itself isn’t enough to govern all your overl
  
 ## 3. Make A Form That Everyone Should Use
 Organization is key when it comes to <a href="https://getsling.com/blog/post/work-schedule/">scheduling</a> time-off requests. Having one employee tell you directly about an upcoming time-off request, while another employee scribbles their request on a piece of scrap paper, is a recipe for confusion.<br>
-![](/blog/forestryio/images/Time%20Off%20Requests_3.jpg)
+![](/blog/forestryio/images/Time Off Requests_3.jpg)
 To make the time-off request process as standardized as possible, create a form that everyone will use. Your form should, at the very least, include:
 <ol><li>The employee’s name<br></li><li>Date request is made<br></li><li>Time-off requested (date range or hour range)<br></li><li>Reason for time off<br></li><li>Employee’s signature<br></li><li>Manager’s signature<br></li><li>Approval/denial confirmation<br></li><li>Date request approved or denied</li></ol>
 You may find that you need more information on your time-off request form. That’s fine. As long as you have all the information necessary to make an informed decision. If you’re having a hard time getting your form ready, you can look online for <a href="https://www.hr.com/en/resources/free_forms/vacation-request_gitc4fn2.html">templates</a> that make the process easier.
@@ -92,7 +92,7 @@ You may find that you need more information on your time-off request form. That�
 Making it easy for employees to submit their time-off requests is paramount for their happiness and yours. If your rules state that the employee needs to fill out a time-off request form and hand it to you directly, make sure you are available during work hours. If that’s not always possible, you might consider installing a time-off box (like a suggestion box) where employees can drop their request forms. Be sure to check the box often so you don’t miss a request.
  
 As effective as manual submission can be, the simplest solution is often a digital one. Using a cloud-based submission system gives your employees (and you) the option to access time-off requests from anywhere and at any time. This is especially useful if an emergency arises and the employee has to leave immediately. The ubiquity of computers, tablets, and smartphones means that employee can still submit a time-off request and avoid any major conflicts from his absence.
-![](/blog/forestryio/images/Time%20Off%20Requests_2.jpg)
+![](/blog/forestryio/images/Time Off Requests_2.jpg)
 Apps like <a href="https://getsling.com">Sling</a> are the ideal choice for this situation. Sling is built specifically to handle situations like these so the important features for requesting time off are already there. And the cloud-based nature of Sling makes it available at all hours of the day, pretty much anywhere on Earth.
  
 By simplifying the way your employees submit requests (via a cloud-based platform like Sling), you also streamline the entire scheduling process. That’s because Sling monitors those requests as you schedule and informs you if you’ve forgotten one, or if an overlapping request exists. That takes a great deal of the burden off your shoulders and allows you to focus on keeping the business running smoothly.
@@ -107,7 +107,7 @@ The ideal plan for these types of situations includes a group of trusted and rel
  
 ## 7. Allow Employees To Find Their Own Replacements
 Allowing employees to find their own replacements (shift trades) can make the time-off request process so much easier—on them and on you. If you allow shift trades, you should establish in your employee handbook the guidelines for this responsibility.
-![](/blog/forestryio/images/Time%20Off%20Requests_1.jpg)
+![](/blog/forestryio/images/Time Off Requests_1.jpg)
 First, all trades or replacements should be approved by you or a manager. This is to ensure that the right skill mix is present during all shifts. Second, make sure that employees understand that there’s more to finding a substitute than just having a warm body present. The replacement should be someone who can do the same job—not a cook subbing for a waiter, or vice versa. As employees learn to identify the criteria you use when approving a replacement, they will get better at finding the right substitute on the first try. When that happens, you responsibility is drastically reduced and the time-off request process gets easier.
  
 ## 8. Consider Your Business's Needs

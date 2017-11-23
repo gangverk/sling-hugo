@@ -13,7 +13,7 @@ Do you want honest feedback about company [culture](https://getsling.com/blog/po
 
 Many managers wonder how to get the valuable information they’re looking for. It all comes down to the questions you ask. In this article, Sling’s experts have created a list of the twenty best exit interview questions. You can pick and choose according to your needs, or use them all to gain deep insight into your employees and your company.
 
-![](/blog/forestryio/images/Exit%20Interview%20Questions_6.jpg)
+![](/blog/forestryio/images/Exit Interview Questions_6.jpg)
 
 ## 1) Why Did You Start Looking For Another Job?
 
@@ -33,7 +33,7 @@ Again, this may seem similar to question three, but the answer explores a differ
 
 ## 5) Would You Ever Consider Returning To This Company?
 
-![](/blog/forestryio/images/Exit%20Interview%20Questions_3.jpg)
+![](/blog/forestryio/images/Exit Interview Questions_3.jpg)
 
 Be prepared for a yes or no answer to this question, but probe a little deeper by asking a follow up question like, “What circumstances would change your mind?” View those answers as a way to improve retention and keep key positions filled.
 
@@ -51,7 +51,7 @@ Questions four and six deal more with the company as a whole. Question eight hel
 
 ## 9) Did You Feel Like A Valuable Part Of The Company?
 
-![](/blog/forestryio/images/Exit%20Interview%20Questions_7.jpg)
+![](/blog/forestryio/images/Exit Interview Questions_7.jpg)
 
 If the answer to this question is no, use it as an indicator that there may be others in your organization who feel the same way. Remember, where there’s smoke, there’s fire. The answer to this question can help you discern the problem and help you take steps to remedy the situation before it becomes a bigger issue.
 
@@ -69,7 +69,7 @@ Question eleven dealt with skills. Question twelve deals with qualities. Yes, th
 
 ## 13) What Was The Best Part Of Your Job?
 
-![](/blog/forestryio/images/Exit%20Interview%20Questions_2.jpg)
+![](/blog/forestryio/images/Exit Interview Questions_2.jpg)
 
 Like question one, the answers you get to this question will be as varied as your employee’s personalities. But, over time, you’ll start to notice similar answers pop up again and again. Take that information and promote these good aspects of the job.
 
@@ -83,7 +83,7 @@ This question is the mirror image of question fourteen but helps you see where y
 
 ## 16) How Would You Improve Employee Morale?
 
-![](/blog/forestryio/images/Exit%20Interview%20Questions_1.jpg)
+![](/blog/forestryio/images/Exit Interview Questions_1.jpg)
 
 Just hours ago, this employee was in the thick of things. He was dealing with company culture and being influenced by others’ morale first-hand. Living through that on a day-to-day basis gives him unique insight into how that morale and culture can be improved. This is the time to find out what he thinks.
 
@@ -97,7 +97,7 @@ The answer to this question can help you see whether or not you need to change t
 
 ## 19) Would You Recommend Our Company To A Friend Looking For A Job?
 
-![](/blog/forestryio/images/Exit%20Interview%20Questions_4.jpg)
+![](/blog/forestryio/images/Exit Interview Questions_4.jpg)
 
 If at all possible, you want the answer to this question to be yes. It indicates the success of the company as a whole. The outgoing employee may be dissatisfied with small aspects of her job, but you want her to talk positively about the company. If she wouldn’t recommend your company to her friend, find out why and then fix it.
 

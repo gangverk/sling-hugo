@@ -33,7 +33,7 @@ Calculate how many customers you need to serve at one sitting to break even.
 
 Bad tables are those that sit in problem areas within your restaurant. Common restaurant problem areas include near the kitchen, near the restrooms, and near the front entrance. These are places customers don’t want to sit. A great way to identify these “bad tables” is to sit in every single chair at every single table in your restaurant. While you’re sitting in each chair, be aware of the dining area around you. Are you getting a draft from the front door? Can you see into the kitchen or into a bus station? Are you too close to the next table?
 
-![](/blog/forestryio/images/restaurant%20design.jpg)
+![](/blog/forestryio/images/restaurant design.jpg)
 
 Once you’ve asked yourself these questions and identified any potential problems, think of ways you can make these tables better. You might disguise problem areas by installing dividers. You might set tall plants between tables to add some separation. Even small solutions like these can help minimize bad tables and give all your customers the great dining experience they deserve.
 

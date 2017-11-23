@@ -11,7 +11,7 @@ You’re restaurant is decorated to the nines. Your bar is stocked with only the
 
 Getting the right person for the right job can help your restaurant stand out from the crowd by giving you a reputation for quality service. And that doesn’t just apply to the servers. Quality service includes everyone from the head chef all the way down to the dishwashers and everyone in between. Without each person doing their job—and doing it well—your restaurant can flounder. So to help you maximize your restaurant’s success, we’ve compiled the 15 best tips for getting the most out of your restaurant staffing.
 
-![](/blog/forestryio/images/restaurant%20staff.jpg)
+![](/blog/forestryio/images/restaurant staff.jpg)
 
 ## 1\. Look For Passion Over Experience
 
@@ -23,7 +23,7 @@ Your behavior sets the model for everyone else’s behavior. If you want your fr
 
 ## 3\. Present Your Restaurant As A Great Place To Work
 
-![](/blog/forestryio/images/restaurant%20staffing-1.jpg)
+![](/blog/forestryio/images/restaurant staffing-1.jpg)
 
 How you present your place of business to potential employees has a lot to do with restaurant staffing success. Find your brand and then sell your restaurant as an exceptional place to work. We recommend communicating to potential employees how you can help further their skills. Whether it’s on-the-job training, continuing education, or the opportunities to learn something new, this can be a great way to motivate good employees to work in your restaurant.
 

@@ -3,7 +3,7 @@ author = ""
 date = "2016-11-21T15:29:57+00:00"
 description = "This article shares best practices to schedule my employees and a tool to make it all easier. "
 draft = false
-image = "/blog/forestryio/images/schedule%20my%20employees.jpg"
+image = "/blog/forestryio/images/schedule my employees.jpg"
 tags = []
 title = "What’s The Best Way To Schedule My Employees?"
 

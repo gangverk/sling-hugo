@@ -50,7 +50,7 @@ One way to make the adjustment to a rotating shift easier on your employee’s b
 
 ## How To Set Up A Rotating Shift
 
-![](/blog/forestryio/images/rotational%20shift.jpg)
+![](/blog/forestryio/images/rotational shift.jpg)
 
 The most basic rotating schedule is the one mentioned above where team A and team B switch shifts every two of weeks. Unfortunately, that scenario is a bit too simplistic. You need to take into account how many days per week your employees work. You also need to account for weekends, [time off](https://getsling.com/blog/post/time-off-requests/), and the like.
 

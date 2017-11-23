@@ -114,7 +114,7 @@ That said, be sure to establish guidelines for this process so your employees do
 
 ### 6. Prevent no-shows
 
-![](/blog/forestryio/images/employee%20scheduling.jpg)
+![](/blog/forestryio/images/employee scheduling.jpg)
 
 Preventing [no-shows](https://getsling.com/blog/post/no-call-no-show/) used to be a full-time job. Now, with the ubiquity of mobile phones and devices, getting everyone to show up for their shift is a lot easier.
 

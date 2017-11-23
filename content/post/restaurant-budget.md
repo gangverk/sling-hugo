@@ -38,7 +38,7 @@ Once you’ve got your columns labeled, you’re ready to go. Income should be r
 
 You should also make note of any and all expenses paid out on a daily basis. Whether you pay with cash, check, debit card, or credit card, record the date, payment method and amount in the appropriate column. For example, if your new table linens were delivered on Tuesday and you paid the balance for those items with a check, your ledger entry might look like this:
 
-![](/blog/forestryio/images/Screen%20Shot%202017-07-05%20at%2012.56.05%20PM.png)
+![](/blog/forestryio/images/Screen Shot 2017-07-05 at 12.56.05 PM.png)
 
 At the end of every month, add up all your columns to see the total amount you brought in and the total amount for each category of expenses. From these totals, you can see where you need to cut back on expenses in order to operate within your income.
 

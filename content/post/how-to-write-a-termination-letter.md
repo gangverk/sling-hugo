@@ -9,7 +9,7 @@ title = "How To Write A Termination Letter"
 +++
 As a [manager](https://getsling.com/blog/post/restaurant-management-tips/), you’d much rather think about hiring than firing. We all would. But sometimes, terminating an employee has to be done for the betterment of your business and for those who work there. To make the matter even more difficult, the way in which you terminate an employee can have huge legal ramifications down the road. That’s where the termination letter comes in. Even if you verbally fire an employee (which [you should](https://getsling.com/blog/post/exit-interview-questions/)), it’s a good idea to also provide notice in writing. When you give the employee a termination letter (be sure to keep a copy for your own files), you protect yourself and your business should questions or legal issues come up in the future.
 
-![](/blog/forestryio/images/How%20To%20Write%20A%20Termination%20Letter_1.jpg)
+![](/blog/forestryio/images/How To Write A Termination Letter_1.jpg)
 
 That said, writing a termination letter can be an extremely daunting task. If you’ve never written one before, you may wonder:
 
@@ -24,7 +24,7 @@ The experts at Sling are here to help. We’ll answer all those questions and mo
 
 When you write a termination letter, keep in mind that what you put on paper may later be included as evidence in a legal proceeding. Because of this possibility, the language you use should always be professional and focused on the task at hand. That means no jokes, no sarcasm, nothing that might be misconstrued as making light of the situation.
 
-![](/blog/forestryio/images/How%20To%20Write%20A%20Termination%20Letter_4.jpg)
+![](/blog/forestryio/images/How To Write A Termination Letter_4.jpg)
 
 If your letter must include the reasons for the termination (which we’ll discuss below), state the facts directly and factually. Be sure to provide supporting evidence that influenced your decision. And, if possible, cite specific [company policies](https://getsling.com/blog/post/restaurant-employee-handbook/) that were violated. The way you state this information in your letter will vary depending on your writing ability, but here is an example to help you understand what type of language to use in a termination letter.
 
@@ -34,7 +34,7 @@ The example above is professional, factual, and focused on communicating all the
 
 ## Items To Include In A Termination Letter
 
-![](/blog/forestryio/images/How%20To%20Write%20A%20Termination%20Letter_2.jpg)
+![](/blog/forestryio/images/How To Write A Termination Letter_2.jpg)
 
 Regardless of the reason for the termination, it’s a good idea to include the following information when applicable. This is, in no way, a comprehensive list. Depending on the size of your company, the reason for the termination, and a whole host of other variables, you may need additional information in your termination letter. If in doubt, consult a qualified attorney.
 
@@ -60,7 +60,7 @@ If possible, it makes things easier if you give your employee their last paychec
 
 ## Items To Exclude From A Termination Letter
 
-![](/blog/forestryio/images/How%20To%20Write%20A%20Termination%20Letter_3.jpg)
+![](/blog/forestryio/images/How To Write A Termination Letter_3.jpg)
 
 Exclude the following items from your termination letter. Keep in mind that this is not an exhaustive list. Always consult a qualified attorney to be sure.
 

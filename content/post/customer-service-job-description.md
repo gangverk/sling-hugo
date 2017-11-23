@@ -24,7 +24,7 @@ After that, we’ll provide simple instructions for crafting the ideal [customer
 
 ## Finding The Right People
 
-![](/blog/forestryio/images/Hiring%20Customer%20Service%20Reps.jpg)
+![](/blog/forestryio/images/Hiring Customer Service Reps.jpg)
 
 Finding the right person to fill a customer service position shouldn’t be a hit-or-miss process. All too often, though, that’s exactly what the employee search becomes: a roll of the dice. That’s because [managers](https://getsling.com/blog/post/effective-leaders/) tend to rely solely on the interview to show them the best fit.
 
@@ -56,7 +56,7 @@ In a face-to-face situation, attentiveness means looking the person in the eye, 
 
 ### 5) Efficiency
 
-![](/blog/forestryio/images/Efficient%20Customer%20Service.jpg)
+![](/blog/forestryio/images/Efficient Customer Service.jpg)
 
 Solving some customer complaints may involve more than just giving away a free gift. In those cases, the resolution process might involve multiple steps. It’s during these times that efficiency becomes an essential trait for any good customer service representative.
 
@@ -74,7 +74,7 @@ Now that we’ve listed the traits that make for a great customer service employ
 
 ## Writing The Perfect Customer Service Job Description
 
-![](/blog/forestryio/images/Writing%20a%20Customer%20Service%20Job%20Description.jpg)
+![](/blog/forestryio/images/Writing a Customer Service Job Description.jpg)
 
 It’s time to apply the traits we’ve discussed to the task of creating the perfect customer service job description. Begin by dividing the job description into four main sections:
 

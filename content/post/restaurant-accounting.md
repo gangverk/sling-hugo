@@ -87,7 +87,7 @@ Like accounting software, point-of-sale software abounds these days. We mentione
 
 ## 5. Pay Close Attention To Sales
 
-![](/blog/forestryio/images/restaurant%20accounting.jpg)
+![](/blog/forestryio/images/restaurant accounting.jpg)
 
 The vast majority of restaurant sales depend on credit cards. Most credit card terminals require that you close out that batch of transactions every day. When you do that, the credit card company starts the process of transferring that money to your bank account. Basically, you’re going to have a deposit every day.
 

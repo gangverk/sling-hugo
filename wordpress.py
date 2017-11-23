@@ -21,6 +21,7 @@ for filename in glob.glob("static/forestryio/images/*"):
 
 def upload_image(src):
     filename = src.replace('/blog/', 'static/')
+ 
     if filename in image_files:
         uploaded = uploaded_images.get(filename)
         if not uploaded:
@@ -32,7 +33,10 @@ def upload_image(src):
             uploaded = wp.call(media.UploadFile(data))
             if uploaded:
                 uploaded_images[filename] = uploaded
+            else:
+                print "Failed to upload image", src
         return uploaded
+    print "failed"
     return None
 
 

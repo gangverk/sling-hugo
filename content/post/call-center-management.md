@@ -34,7 +34,7 @@ Working in a call center can be a high-stress job. That stress can have a negati
 But even a small-sized team can be difficult to schedule. There are so many variables and moving parts to contend with that the job can seem well-nigh impossible. Factors such as what is good for the call center, peak and low hours, employee ability, employee availability, and a whole host of others, can turn scheduling into a full-time job. That’s why it’s important to make use of the best tools available for the job. A digital solution like 
 <a href="https://getsling.com/">Sling</a> can simplify and streamline the scheduling process so you can focus less on just getting bodies in chairs, and more on putting together the best team for the shift. This can mean the difference between the highest quality of service possible and merely average service.
 
-## 5. Communicate Regularly With Your Employees![](/blog/forestryio/images/call%20center.jpg)
+## 5. Communicate Regularly With Your Employees![](/blog/forestryio/images/call center.jpg)
 
 There’s no experience like first-hand experience. Though you may not be on the frontline of the call center everyday, your employees are. They are familiar with the customer service process inside and out. That makes them more aware of where the problems lie, and perhaps more cognizant of what is necessary to fix them.
 
@@ -44,7 +44,7 @@ You can learn what your employees know by communicating with them regularly. Fin
 
 Regular quality-of-service assessment is vital for the successful operation of any call center. Take the time to listen to your employees’ performance and then be ready to offer targeted feedback so they can improve. Do this evaluation systematically so that you can gauge the abilities of each and every employee. And while targeted feedback can lead to profound change, sometimes it may not be enough. We suggest you establish an ongoing-training program to reinforce the standards you’ve set for your quality of service.
 
-## 7. Use Data When Making Decisions![](/blog/forestryio/images/call%20center%20manager.jpg)
+## 7. Use Data When Making Decisions![](/blog/forestryio/images/call center manager.jpg)
 
 Just about all decision-making in business is driven by data these days. Your call center management should be too. Set goals and establish appropriate metrics to reach those goals. It’s important for managers to be familiar with the metrics that are most applicable to their employees and customers.
 

@@ -11,7 +11,7 @@ So, you’ve hired a great staff. You’ve spent time reviewing résumés, inter
 
 Managers — busy as they are — often think that choosing the right employees is the hard part, and that once their staff is in place, all they have to do is train them and things will kick into gear.
 
-But as those in restaurants, retail and other non-desk worker industries know, turnover is a big challenge. According to [research compiled](https://www.shrm.org/about/foundation/products/Documents/Onboarding%20EPG-%20FINAL.pdf) by the Society for Human Resource Management, half of all hourly workers leave their jobs within the first 120 days.
+But as those in restaurants, retail and other non-desk worker industries know, turnover is a big challenge. According to [research compiled](https://www.shrm.org/about/foundation/products/Documents/Onboarding EPG- FINAL.pdf) by the Society for Human Resource Management, half of all hourly workers leave their jobs within the first 120 days.
 
 The secret is in initiating employees — some human resources professionals call it “onboarding.” This involves not just teaching workers the basics of their jobs, but familiarizing them with the culture of the company and making them invested in staying. Here are some things to keep in mind:
 

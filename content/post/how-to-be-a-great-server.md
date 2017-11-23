@@ -11,7 +11,7 @@ title = "How To Be A Great Server: The 6 Best Tips"
 
 Being a great server isn’t about scoring a hefty tip or getting to sleep in on the weekdays. Being a great server is about one simple principle: treat others the way you would like to be treated. It basically translates to making sure your customers are happy and their dining experience goes smoothly. It goes beyond just getting all the orders right and making sure the drink glasses are always full. It includes how you present yourself, how you act, what you say (and how you say it), as well as things like timing and efficiency. Sounds like a lot, doesn’t it? It is! No one said begin a great server was easy. But like anything that is difficult at first, the rewards are well worth the effort.
 
-![](/blog/forestryio/images/How%20To%20Be%20A%20Great%20Server_5.jpg)
+![](/blog/forestryio/images/How To Be A Great Server_5.jpg)
 
 The experts at [Sling](https://getsling.com/) are here to help make your journey towards being a great server just a little bit easier. We can’t be there with you when you have to deal with an irate customer, but we can provide a few tips on how to behave. Along with those tips, we’ll give you some other advice, rules, guidance, and suggestions to help you transform into the great server that we know you can be.
 
@@ -27,7 +27,7 @@ At the end of their visit, take the time to write “Thank You” on your guests
 
 Even though you may be dealing with five, seven, or even ten tables, it’s important to keep an eye on all of them. You don’t have to stop and ask how everything’s going at each table (although that’s a good idea at some point), a casual walk-by on your way to deliver drinks to another customer will do. Take note of how far along in the meal they are. Could they use more drinks? Perhaps you notice that the wine bottle is getting low and their wine glasses are empty. Might this be an opportune time to stop and ask if they’d like another bottle of the same?
 
-![](/blog/forestryio/images/How%20To%20Be%20A%20Great%20Server_2.jpg)
+![](/blog/forestryio/images/How To Be A Great Server_2.jpg)
 
 Even watching your tables from across the room can prove beneficial. A guest might need something and try to get your attention. You may notice that many of the diners at a table have finished the meal and now would be the right time to start clearing and asking about dessert.
 
@@ -49,7 +49,7 @@ Some of the specific advice in these books—like gift giving—won’t apply to
 
 ## 4. Practice Efficiency & Organization
 
-![](/blog/forestryio/images/How%20To%20Be%20A%20Great%20Server_3.jpg)
+![](/blog/forestryio/images/How To Be A Great Server_3.jpg)
 
 Some may view efficiency and organization as the same thing. One certainly does influence the other, but the two traits are separate, distinct qualities. [Organization](https://getsling.com/blog/post/3-top-tips-to-stay-organized-in-a-fast-paced-job/) allows a good server to manage everything in a timely manner. This means delivering food, drink, linens, tableware, and service at the proper time...not ten minutes after it was due. Organization is especially important during peak restaurant [hours](https://getsling.com/blog/post/time-kill-9-5/) when there is a lot of activity going on. A good server should be able to organize the chaos without spending a lot of time thinking things through. Doing so quickly makes the next part of the equation—efficiency—that much easier.
 
@@ -57,7 +57,7 @@ Efficiency isn’t just about speed as some may think of it. Efficiency is about
 
 ## 5. Show Attention To Detail
 
-![](/blog/forestryio/images/How%20To%20Be%20A%20Great%20Server_4.jpg)
+![](/blog/forestryio/images/How To Be A Great Server_4.jpg)
 
 The attention to detail you show while serving your guests can mean the difference between a truly great evening and merely a good one. And it doesn’t matter if you’re pulling burgers out of the warmer or three-figure bottles of wine out of the cellar—attention to detail is key.
 
@@ -67,7 +67,7 @@ Keeping your eye on the details means you will notice, before delivering it, tha
 
 You might say this is the ABCs of being a good server. Get it? The ABCs? Always Be Cleaning. Anyway…
 
-![](/blog/forestryio/images/How%20To%20Be%20A%20Great%20Server_1.jpg)
+![](/blog/forestryio/images/How To Be A Great Server_1.jpg)
 
 Bad joke aside, that doesn’t diminish the importance of this necessary skill. In fact, an excellent waiter and an outstanding dining experience can be ruined by a single lapse in cleanliness. That highlights the need for you to always keep your workplace clean. And that extends to more than just the plates, silverware, and tablecloths. It means keeping your clothes and your overall appearance neat and tidy, too. Are there stains on your apron? Time to switch it out. Has your hair come out of place? Time to take two minutes, find a mirror, and fix it. Your appearance contributes just as much to the overall experience as the food and the decor. Make it as perfect as possible.
 

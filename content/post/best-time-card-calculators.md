@@ -21,7 +21,7 @@ The experts at GetSling.com will show you what you need to know about time card 
 
 ## Do-It-Yourself Time Card Calculators
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_3.jpg)
+![Time Card](/blog/forestryio/images/Time Card Calculators_3.jpg "Time Card")
 
 Do-it-yourself time card calculators are for those who like to know every little detail about the math involved in calculating a time card. This is possible because you actually build the calculator from scratch using a program like Microsoft Excel or Google Sheets. If the DIY option appeals to you, here are two resources you can use to get started.
 
@@ -55,7 +55,7 @@ That’s it. You’ve got your own time card calculator! Save this simple versio
 
 ### 2. Time Card Calculator Templates
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_8.jpg)*Source: CalculateHours.com
+![Calculate Hours](/blog/forestryio/images/Time Card Calculators_8.jpg "Calculate Hours")*Source: CalculateHours.com
 *
 
 If you still like the thought of being able to peek behind the curtain to see what’s going on, or to tailor the calculator to satisfy your needs, a time card calculator template might be just the thing. Over at [CalculateHours.com](http://www.calculatehours.com/timesheet-template-library.html), they offer free templates for every different work schedule imaginable. And if you don’t find the perfect fit among their many downloads, you can always tweak one that’s almost right. It may take more time than the online and software options we’ve listed below, but the control the do-it-yourself and template options offer is unparalleled.
@@ -66,20 +66,20 @@ Many of the online time card calculators on this list are free to use. They may 
 
 ### 1. TimeCard
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_12.png" class=" forestry--none" style="float: none;">*Source: TimeCardCalculatorGeek.com*
+![](/blog/forestryio/images/Time Card Calculators_12.png)*Source: TimeCardCalculatorGeek.com*
 
 TimeCard from [CalculatorGeek.com](http://timecardcalculatorgeek.com/) offers a simple interface and added functionality like lunch, overtime, [time off](https://getsling.com/blog/post/time-off-requests/), and sick/vacation variables.
 
 ### 2. Free Time Card Calculator
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_15.png)*Source: Redcort.com
+![Time Card Calculator](/blog/forestryio/images/Time Card Calculators_15.png "Time Card Calculator")*Source: Redcort.com
 *
 
 [Redcort Software](https://www.redcort.com/Free-Timecard-Calculator/) has produced a no-frills, extremely-easy time card calculator for everyone to use. It offer start time, end time, break deduction, and totals—that’s it. Sometimes, though, that’s all you need (or want) from your time card calculator. Intuitive and basic, but it gets the job done.
 
 ### 3. Time Card Calculator With Total Pay
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_1.png" class=" forestry--none forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_1.png)
 
 *Source: CalculateHours.com*
 
@@ -87,7 +87,7 @@ Like the other options in the online category, the calculator produced by [Calcu
 
 ### 4. Online Time Card Hours Calculator
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_11.png" class=" forestry--none" style="float: none;">*Source: TimeCardCalculator.net
+![](/blog/forestryio/images/Time Card Calculators_11.png)*Source: TimeCardCalculator.net
 *
 
 [TimeCardCalculator.net](http://www.timecardcalculator.net/) offers a nifty online time card hours calculator that allows you to customize your experience to better fit your needs. You can:
@@ -108,7 +108,7 @@ The main difference between an online calculator and a software calculator is yo
 
 ### 1. TimeTrak
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_16.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_16.png)
 
 *Source: TimeTrak.com*
 
@@ -116,7 +116,7 @@ The main difference between an online calculator and a software calculator is yo
 
 ### 2. ShopClock
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_4.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_4.png)
 
 *Source: ShopClock.com*
 
@@ -124,7 +124,7 @@ The main difference between an online calculator and a software calculator is yo
 
 ### 3. RealTime
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_7.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_7.png)
 
 *Source: SunDialTime.com*
 
@@ -142,7 +142,7 @@ And like ShopClock, you can try out their software before you buy.
 
 ### 4. TimeTrax PC
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_6.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_6.png)
 
 *Source: PyramidTimeSystems.com*
 
@@ -152,7 +152,7 @@ TimeTrax PC from [Pyramid Time Systems](https://www.pyramidtimesystems.com/Produ
 
 As great as a time card calculator can be at making your [managerial life](https://getsling.com/blog/post/restaurant-management-tips/) easier, the real magic lies at the very beginning of the process: [scheduling](https://getsling.com/blog/post/schedule-my-employees/). If you thought calculating time cards was complicated, scheduling multiple employees for [multiple shifts](https://getsling.com/blog/post/rotating-shift/) is going to push you over the edge. Thankfully, there’s a software solution that transforms the scheduling process from a chaotic mess into an organized masterpiece. That solution is [Sling](https://getsling.com/).
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_14.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_14.png)
 
 Sling is designed specifically for a scheduling process, so all of its tools are aimed at simplifying this task. Sling is built around four unique features:
 
@@ -166,22 +166,20 @@ Sling is designed specifically for a scheduling process, so all of its tools are
 
 The Sling Shifts feature contains all the intuitive tools you’d expect from an app that’s dedicated to scheduling.
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_13.png" class=" forestry--none forestry--none" style="float: none;">It even provides guidance, suggestions, and up-to-date availability and time-off requests to help you avoid conflicts. Sling even notifies you of overlapping shifts and double-bookings.
+![](/blog/forestryio/images/Time Card Calculators_13.png)It even provides guidance, suggestions, and up-to-date availability and time-off requests to help you avoid conflicts. Sling even notifies you of overlapping shifts and double-bookings.
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_2.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_2.png)
 
 The Sling Messages and Newsfeed features make communication between you and your team a breeze. You don’t have to rely on phone calls, email, or some other third-party app to stay in touch.
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_10.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_10.png)
 
 You can communicate directly with your employees (and your employees can communicate with you) on Sling through push notifications . You can even share files, photos, videos, and links.
 
 The Sling Tasks feature allows you to assign jobs to individuals or groups and follow their progress.
 
-![](/blog/forestryio/images/Time%20Card%20Calculators_9.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Time Card Calculators_9.png)
 
 Tasks lets you create to-do lists and share them by name, group, location, or position. You can even set due dates and send reminders as deadlines approach.
 
 Sling reduces the time it takes to create and manage schedules. Sling helps managers bring their team together, keep everyone informed, and build a [better company culture](https://getsling.com/blog/post/employee-engagement-ideas/). What more could you ask for in a [free app](https://getsling.com/pricing.html)!
-
- 

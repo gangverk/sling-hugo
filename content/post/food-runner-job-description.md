@@ -15,7 +15,7 @@ Writing a
 
 The best way is to first write down the traits that would make up the ideal food runner in your restaurant. After you’ve listed your ideal traits, use a template to build your job description around those traits. We’ve compiled the nine must-have traits for any food runner in our list below. We’ll then show you how to write the perfect food runner job description and give you a template to follow to produce your own.
 
-## 9 Traits Of A Great Food Runner![](/blog/forestryio/images/job%20description.jpg)
+## 9 Traits Of A Great Food Runner![](/blog/forestryio/images/job description.jpg)
 
 The core traits of a great food runner are similar to the traits of a great server. In fact, starting your servers out as food runners is a great way to provide training and to see if they have what it takes to be the face of your restaurant. Look for the following key traits when you’re interviewing.
 
@@ -55,7 +55,7 @@ Part of a food runners job is to clean and clear the dining room when necessary.
 
 You’ve heard it before, but we’ll say it again, “There is no ‘I’ in team.” We might extend that more specifically to the restaurant industry and say, “There is no ‘I’ in restaurant.” Food runners should understand this mentality and realize that they are the link between servers and chefs, customers and management. The food runner understands that she is not working on her own, but, rather, as part of a larger group of people who are all dependent on each other for a successful guest experience.
 
-## Writing The Perfect Food Runner Job Description![](/blog/forestryio/images/food%20runner.jpg)
+## Writing The Perfect Food Runner Job Description![](/blog/forestryio/images/food runner.jpg)
 
 Keep in mind that the nine traits listed above could be just the beginning. You may have another trait that is essential for your restaurant. In fact, you may have many others. Your list may be ten, eleven, or twelve traits. It all depends on what you need from your food runner. Regardless of how many traits you’ve listed, it’s now time to put those traits to use by creating the perfect food runner job description. Here’s how to do it.
 

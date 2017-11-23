@@ -19,7 +19,7 @@ One big way to make scheduling easier is to use a work schedule app. These apps 
 
 [Schedule Planner](http://scheduleplannerapp.com/) is a work schedule app that can help you take control of the employee-scheduling process. The app allows you to create unlimited color-coded fields that can be used to represent your employees. These fields can then be distributed on the calendar interface to indicate when an employee works.
 
-![](/blog/forestryio/images/Schedule%20Planner.png" class=" forestry--none forestry--none forestry--left forestry--none" style="float: none;">
+![](/blog/forestryio/images/Schedule Planner.png)
 
 Like Google Calendar, Schedule Planner is cloud-based so distribution, changes, and collaboration are streamlined down to just a few taps of the screen. Keep in mind that Schedule Planner was intended for a single individual so complicated scheduling like overlapping shifts may not be easy, or even possible, with this work schedule app. It’s a simple scheduling tool but it wasn’t created with restaurants or retail businesses in mind.
 
@@ -27,7 +27,7 @@ Like Google Calendar, Schedule Planner is cloud-based so distribution, changes, 
 
 [Fantastical 2](http://flexibits.com/fantastical-iphone) (the emphasis is on the ‘cal’, as in calendar) is another work schedule app that can help take the stress out of scheduling your employees. Like other scheduling apps, employees can be entered as tasks and color coded to set them apart from each other. Users can then view the schedule by day, week, or even month. Users can even search the schedule to see past, present, and future events that apply to them.
 
-![](/blog/forestryio/images/Fantastical%202.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Fantastical 2.png)
 
 While Fantastical 2 does have some powerful features (like Apple Watch support and 6 different languages), it was built mainly for a single user. Yes, it can be forced to work for multiple people and complex scheduling, but why go to the effort of pushing a square peg into a round hole? There are other work schedule app options that fit better.
 
@@ -35,7 +35,7 @@ While Fantastical 2 does have some powerful features (like Apple Watch support a
 
 As the name implies, [WorkTime](http://appcrawlr.com/ios/worktime-work-schedule-shift-ca) is all about scheduling and tracking work time. This work schedule app lets you create and track complex work schedules with ease. Users can enter a shift in just a few easy taps and then view the entire week’s schedule all on one screen.
 
-![](/blog/forestryio/images/WorkTime.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/WorkTime.png)
 
 Professional-level features like unlimited jobs, alarms and notifications, and even schedule sharing via Facebook, Twitter, or email make this a useful app for scheduling employees. Users can even add up hours worked and wages earned with WorkTime’s hours calculator.
 
@@ -45,7 +45,7 @@ Professional-level features like unlimited jobs, alarms and notifications, and e
 
 As work schedule apps go, Google Docs is pretty basic. It starts out as just a blank sheet of paper so you have to do a lot of extra work to get the schedule looking like a schedule. That may be a deterrent to some folks, as it should be. There are better ways—better apps—to simplify the scheduling process.
 
-![](/blog/forestryio/images/Google%20Doc.png)
+![](/blog/forestryio/images/Google Doc.png)
 
 The nice thing about Google Docs is that it’s cloud-based. This means that employees can get access to the schedule at any time or in any place. For you, it means that distribution is easier, as is receiving change requests and making alterations. Google Docs might not be the first choice for a work schedule app, but it’s a start.
 
@@ -53,7 +53,7 @@ The nice thing about Google Docs is that it’s cloud-based. This means that emp
 
 Google Sheets is a step up from Google Docs in that it already has the columns, rows, and cells formatted and ready to go. This removes one big step from the scheduling chore and makes Sheets one of the first work schedule apps that many turn to.
 
-![](/blog/forestryio/images/Google%20Sheets.png)
+![](/blog/forestryio/images/Google Sheets.png)
 
 Google Sheets gives you the flexibility and ease of alteration that comes with a spreadsheet along with the streamlined distribution and alteration that comes with cloud-based apps. Spreadsheets were created for database manipulation and accounting, so common restaurant needs may not addressed by apps like Google Sheets. These apps cover the basics but don’t offer any more help than that.
 
@@ -61,13 +61,13 @@ Google Sheets gives you the flexibility and ease of alteration that comes with a
 
 [Google Calendar](http://calendar.google.com) combines the simplicity of a calendar view with the accessibility of a cloud-based work schedule app. For you, the manager, the calendar view means that the process of scheduling will be simpler and more intuitive. That’s a win all by itself. For your employees, the calendar view means that the completed schedule will be easy to understand. That means that confusion over who works when will be drastically reduced.
 
-![](/blog/forestryio/images/Google%20Calendar.png)
+![](/blog/forestryio/images/Google Calendar.png)
 
 <span style="font-size: 1rem;">That said, it’s important to keep in mind that Google Calendar can be difficult to use if you have more than 5 employees. It, like so many other calendar apps, was created to schedule activities for a single user. Because of that, it doesn’t have many of the features that a growing restaurant or retail business might need.</span>
 
 ## 7. Word Processor
 
-![](/blog/forestryio/images/Word%20Processor.png" class=" forestry--none" style="float: none;">
+![](/blog/forestryio/images/Word Processor.png)
 
 Some team managers swear by the word processor that came with their computer. But apps like Microsoft Word and Apple Pages were created with the written word in mind. They certainly weren’t meant for scheduling, nor do they make the process any easier. That puts them just a small step above pen and paper.
 
@@ -77,7 +77,7 @@ Some team managers swear by the word processor that came with their computer. Bu
 
 ## 8. Spreadsheet Software
 
-![](/blog/forestryio/images/Spreadsheet%20Software.png)
+![](/blog/forestryio/images/Spreadsheet Software.png)
 
 While a word processor like Word or Pages may be just a small step above pen and paper, a spreadsheet like Microsoft Excel or Apple Numbers could be considered more of a jump above the very basic method. That makes a spreadsheet app a more common replacement.
 

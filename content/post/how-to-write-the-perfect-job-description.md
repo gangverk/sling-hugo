@@ -17,7 +17,7 @@ For the time being, though, let’s turn our attention back to the first step to
 
 ## The First Step to The Perfect Job Description
 
-![](/blog/forestryio/images/Perfect%20Job%20Description_1.jpg)
+![](/blog/forestryio/images/Perfect Job Description_1.jpg)
 
 You don’t need a computer for this first step. You don’t even need the template we’ve provided for you at the end of this article. All you, the manager, needs is a pen, paper, and your own knowledge of the jobs at hand.
 
@@ -27,7 +27,7 @@ So, the first, step is to list out the traits and skills in order of importance 
 
 ## The Skills & Traits Of A Good Employee
 
-![](/blog/forestryio/images/Perfect%20Job%20Description_3.jpg)
+![](/blog/forestryio/images/Perfect Job Description_3.jpg)
 
 Whether they’re taking out the garbage or glad-handing your best customers, a good employee should exhibit (or be able to learn) the following skills.
 
@@ -49,7 +49,7 @@ Like good manners, good communication skills are always important. It doesn’t 
 
 ### 5. Organized
 
-![](/blog/forestryio/images/Perfect%20Job%20Description_5.jpg)
+![](/blog/forestryio/images/Perfect Job Description_5.jpg)
 
 Whether they’re delivering food to your customers or delivering a presentation to potential clients, a good employee needs a strong sense of organization. Being organized will help him juggle myriad responsibilities in an efficient manner. And depending on the job for which you’re hiring, there may be a lot of information, documents, schedules, and even other employees that need to be tracked. Organization helps make those activities go smoothly.
 
@@ -80,7 +80,7 @@ The job summary section should provide a brief description of your business, the
 
 ### 3. Responsibilities
 
-![](/blog/forestryio/images/Perfect%20Job%20Description_4.jpg)
+![](/blog/forestryio/images/Perfect Job Description_4.jpg)
 
 In the responsibilities section, break down all the duties the job requires and place them in a bulleted list. Keep in mind that this is all about the details of the job. The skills and traits you listed in the first step of this process aren’t as important as describing what the employee would have to do should he be hired. But you can still sneak those traits into the mix by using appropriate words like “teamwork” and “smile”. For example, you might write, “Serve food with a smile” to underscore the importance of being friendly.
 

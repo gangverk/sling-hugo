@@ -15,7 +15,7 @@ There are so many options for website design these days that it can seem like an
 
 ### 1. Transfer Pizzeria Cafe
 
-![](/blog/forestryio/images/restaurant%20website.jpg)
+![](/blog/forestryio/images/restaurant website.jpg)
 
 [Transfer Pizzeria Cafe](http://www.transfermke.com/)’s simple yet effective website packs all the necessary information onto a single page...all without looking cluttered or feeling crowded. It also does a great job of making sure you can find their location. The addition of an on-page Google map means even visitors to the city will be able to sample Transfer’s tasty menu.
 

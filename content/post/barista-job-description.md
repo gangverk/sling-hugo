@@ -27,7 +27,7 @@ A good barista shows genuine happiness to serve customers. Additionally, he unde
 
 ### 3. Efficient
 
-![](/blog/forestryio/images/job%20description-2.jpg)
+![](/blog/forestryio/images/job description-2.jpg)
 
 A good barista should always strive to be efficient in everything she does. That means not wasting time, avoiding mistakes, and doing high-quality work. Efficiency doesn’t mean she should be rushed. A barista who looks like she’s hurrying between tasks can become an unnecessary distraction for your customers. More than anything, she should strive to produce customer orders in a prompt fashion without looking hurried or flustered.
 
@@ -79,7 +79,7 @@ Keep in mind that this section is more about the details of the job that the tra
 
 ### 4. Qualifications & Skills
 
-![](/blog/forestryio/images/barista%20job%20description.jpg)
+![](/blog/forestryio/images/barista job description.jpg)
 
 This final section is where you’ll list things like education requirements, experience, personality traits, technical skills, and necessary certifications. Be sure to include some of the characteristics of a great barista that you established at the beginning of this process. Use words like “organized”, “friendly”, “prompt”, and any others that help describe the traits the successful candidate will have.
 
